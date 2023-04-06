@@ -5,13 +5,13 @@
 1. Install required packages to run main.py
 
 ```cmd
-> pip install pandas ipython
+PS > pip install pandas ipython
 ```
 
 2. Run IPython console in command prompt or terminal
 
 ```cmd
-> ipython
+PS > ipython
 ```
 
 3. Execute 'main.py' file inside of IPython console
