@@ -1,6 +1,7 @@
 from classes import League, Team, Player
 from time import sleep
 import pandas as pd
+from prettytable import PrettyTable
 import os
 
 leagues = []
@@ -11,99 +12,215 @@ data_directory = os.path.join(os.getcwd(), "data")
 
 
 def retrieveLeagues():
-    global df
     results = map(lambda x: x, leagues)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "country"])
+    for item in results:
+        table.add_row([item.id, item.name, item.country])
+    return table
 
 
 def findLeagueById(query):
-    global df
     results = filter(lambda x: str(query) == str(x.id), leagues)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "country"])
+    for item in results:
+        table.add_row([item.id, item.name, item.country])
+    return table
 
 
 def findLeagueByName(query):
-    global df
     results = filter(lambda x: str(query) in x.name, leagues)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "country"])
+    for item in results:
+        table.add_row([item.id, item.name, item.country])
+    return table
 
 
 def findLeagueByCountry(query):
-    global df
     results = filter(lambda x: str(query) in x.country, leagues)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "country"])
+    for item in results:
+        table.add_row([item.id, item.name, item.country])
+    return table
 
 
 def retrieveTeams():
-    global df
     results = map(lambda x: x, teams)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "code", "country", "leagueId"])
+    for item in results:
+        table.add_row([item.id, item.name, item.code, item.country, item.leagueId])
+    return table
 
 
 def findTeamById(query):
-    global df
     results = filter(lambda x: str(query) == str(x.id), teams)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "code", "country", "leagueId"])
+    for item in results:
+        table.add_row([item.id, item.name, item.code, item.country, item.leagueId])
+    return table
 
 
 def findTeamByName(query):
-    global df
     results = filter(lambda x: str(query) in x.name, teams)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "code", "country", "leagueId"])
+    for item in results:
+        table.add_row([item.id, item.name, item.code, item.country, item.leagueId])
+    return table
 
 
 def findTeamByCountry(query):
-    global df
     results = filter(lambda x: str(query) in x.country, teams)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "code", "country", "leagueId"])
+    for item in results:
+        table.add_row([item.id, item.name, item.code, item.country, item.leagueId])
+    return table
 
 
 def findTeamByLeagueId(query):
-    global df
     results = filter(lambda x: str(query) == str(x.leagueId), teams)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(["id", "name", "code", "country", "leagueId"])
+    for item in results:
+        table.add_row([item.id, item.name, item.code, item.country, item.leagueId])
+    return table
 
 
 def retrievePlayers():
-    global df
     results = map(lambda x: x, players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerById(query):
-    global df
     results = filter(lambda x: str(query) == str(x.id), players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerByFirstName(query):
-    global df
     results = filter(lambda x: str(query) in x.firstname, players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerByLastName(query):
-    global df
     results = filter(lambda x: str(query) in x.lastname, players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerByPosition(query):
-    global df
     results = filter(lambda x: str(query) in x.position, players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerByBirthCountry(query):
-    global df
     results = filter(lambda x: str(query) in x.birth_country, players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def findPlayerByTeamId(query):
-    global df
     results = filter(lambda x: str(query) == str(x.teamId), players)
-    df = pd.DataFrame([item.__dict__ for item in results])
+    table = PrettyTable(
+        ["id", "firstname", "lastname", "position", "age", "birth_country", "teamId"]
+    )
+    for item in results:
+        table.add_row(
+            [
+                item.id,
+                item.firstname,
+                item.lastname,
+                item.position,
+                item.age,
+                item.birth_country,
+                item.teamId,
+            ]
+        )
+    return table
 
 
 def mainMenu():
@@ -131,19 +248,23 @@ def leagueMenu():
     choice = readInput()
     match choice:
         case "0":
-            retrieveLeagues()
+            results = retrieveLeagues()
+            print(results)
         case "1":
             print("Enter league ID below.")
             query = readInput()
-            findLeagueById(query)
+            results = findLeagueById(query)
+            print(results)
         case "2":
             print("Enter league name below.")
             query = readInput()
-            findLeagueByName(query)
+            results = findLeagueByName(query)
+            print(results)
         case "3":
             print("Enter league country below.")
             query = readInput()
-            findLeagueByCountry(query)
+            results = findLeagueByCountry(query)
+            print(results)
         case _:
             print("Sorry we didn't catch the input.")
 
@@ -160,23 +281,28 @@ def teamMenu():
     choice = readInput()
     match choice:
         case "0":
-            retrieveTeams()
+            results = retrieveTeams()
+            print(results)
         case "1":
             print("Enter team ID below.")
             query = readInput()
-            findTeamById(query)
+            results = findTeamById(query)
+            print(results)
         case "2":
             print("Enter team name below.")
             query = readInput()
-            findTeamByName(query)
+            results = findTeamByName(query)
+            print(results)
         case "3":
             print("Enter team country below.")
             query = readInput()
-            findTeamByCountry(query)
+            results = findTeamByCountry(query)
+            print(results)
         case "4":
             print("Enter league ID below.")
             query = readInput()
-            findTeamByLeagueId(query)
+            results = findTeamByLeagueId(query)
+            print(results)
         case _:
             print("Sorry we didn't catch the input.")
 
@@ -195,31 +321,38 @@ def playerMenu():
     choice = readInput()
     match choice:
         case "0":
-            retrievePlayers()
+            results = retrievePlayers()
+            print(results)
         case "1":
             print("Enter player ID below.")
             query = readInput()
-            findPlayerById(query)
+            results = findPlayerById(query)
+            print(results)
         case "2":
             print("Enter player first name below.")
             query = readInput()
-            findPlayerByFirstName(query)
+            results = findPlayerByFirstName(query)
+            print(results)
         case "3":
             print("Enter player last name below.")
             query = readInput()
-            findPlayerByLastName(query)
+            results = findPlayerByLastName(query)
+            print(results)
         case "4":
             print("Enter player position below.")
             query = readInput()
-            findPlayerByPosition(query)
+            results = findPlayerByPosition(query)
+            print(results)
         case "5":
             print("Enter player birth country below.")
             query = readInput()
-            findPlayerByBirthCountry(query)
+            results = findPlayerByBirthCountry(query)
+            print(results)
         case "6":
             print("Enter team ID below.")
             query = readInput()
-            findPlayerByTeamId(query)
+            results = findPlayerByTeamId(query)
+            print(results)
         case _:
             print("Sorry we didn't catch the input.")
 
@@ -261,13 +394,6 @@ def loadProgram():
     loadPlayers()
 
 
-def endProgram():
-    print(
-        "\nThe program has loaded the data. You may access the data by referencing the Pandas DataFrame "
-        + "'df' in the IPython console."
-    )
-
-
 def main():
     try:
         loadProgram()
@@ -282,9 +408,7 @@ def main():
             case "3":
                 playerMenu()
             case _:
-                print("Sorry we didn't catch the input. Returning to main menu.")
-
-        endProgram()
+                print("Sorry we didn't catch the input.")
 
     except Exception as err:
         print(err)

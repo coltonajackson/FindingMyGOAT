@@ -5,22 +5,16 @@
 1. Install required packages to run main.py
 
 ```cmd
-PS > pip install pandas ipython
+PS > pip install pandas prettytable
 ```
 
-2. Run IPython console in command prompt or terminal
+2. Run 'main.py' in command prompt or terminal
 
 ```cmd
-PS > ipython
+PS > python main.py
 ```
 
-3. Execute 'main.py' file inside of IPython console
-
-```cmd
-In [1]: exec(open("main.py").read())
-```
-
-4. Follow prompts in program to retrieve data as a Pandas DataFrame
+3. Follow prompts in program to retrieve data as a Pandas DataFrame
 
 ```cmd
 Loading...
@@ -32,25 +26,27 @@ Enter '3' for players query
 >
 ```
 
-5. When you complete the request for data, the data will be stored as variable 'df'. Simply call the varialble in IPython console to review results.
+4. When you complete the request for data, your results will display in a PrettyTable format.
 
 ```cmd
-The program has loaded the data. You may access the data by referencing the Pandas DataFrame 'df' in the IPython console.
+Welcome to Finding My GOAT! Please review the following entries to interact with the program.
+Enter '1' for leagues query
+Enter '2' for teams query
+Enter '3' for players query
+> 2
 
-In [2]: df
-Out[2]:
-      id                                   name    country
-0    850  UEFA U21 Championship - Qualification      World
-1     36  Africa Cup of Nations - Qualification      World
-2    886  UEFA U17 Championship - Qualification      World
-3    565                       Liga Primera U20  Nicaragua
-4    720                               Emir Cup     Kuwait
-..   ...                                    ...        ...
-234  969                       Primeira Divisão      Macao
-235  364                                1. Liga     Latvia
-236  282                       Segunda División       Peru
-237  936                        Catarinense - 2     Brazil
-238  970                         CONMEBOL - U17      World
-
-[239 rows x 3 columns]
+Welcome to the Team Menu! Please review the following entries to interact with the program.
+Enter '0' to view all teams
+Enter '1' for team search by ID
+Enter '2' for team search by name
+Enter '3' for team search by country
+Enter '4' for team search by League ID
+> 2
+Enter team name below.
+> Paris
++----+---------------------+------+---------+----------+
+| id |         name        | code | country | leagueId |
++----+---------------------+------+---------+----------+
+| 85 | Paris Saint Germain | PAR  |  France |   132    |
++----+---------------------+------+---------+----------+
 ```
