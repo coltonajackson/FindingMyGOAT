@@ -1,0 +1,5044 @@
+id,name,code,country,leagueId
+5386,Asia Euro United,,Cambodia,850
+5387,Boeung Ket,BOE,Cambodia,850
+5388,Electricite du Cambodge,,Cambodia,850
+5391,National Defense,,Cambodia,850
+5392,National Police,,Cambodia,850
+5394,Phnom Penh Crown,,Cambodia,850
+5395,Soltilo Angkor,,Cambodia,850
+5396,Svay Rieng,SVA,Cambodia,850
+5397,Visakha,,Cambodia,850
+5565,Cambodia Tiger,,Cambodia,850
+5566,NagaWorld,,Cambodia,850
+5567,Western Phnom Penh,,Cambodia,850
+158,Fortuna Dusseldorf,DUS,Germany,36
+171,FC Nurnberg,NUR,Germany,36
+176,VfL BOCHUM,BOC,Germany,36
+177,Jahn Regensburg,REG,Germany,36
+178,SpVgg Greuther Furth,GRE,Germany,36
+180,FC Heidenheim,HEI,Germany,36
+181,SV Darmstadt 98,DAR,Germany,36
+182,Union Berlin,UNI,Germany,36
+183,Dynamo Dresden,DRE,Germany,36
+184,FC Ingolstadt 04,ING,Germany,36
+186,FC St. Pauli,PAU,Germany,36
+187,MSV Duisburg,DUI,Germany,36
+188,Arminia Bielefeld,ARM,Germany,36
+189,SV Sandhausen,SAN,Germany,36
+190,Erzgebirge AUE,ERZ,Germany,36
+191,Holstein Kiel,HOL,Germany,36
+744,Eintracht Braunschweig,BRA,Germany,36
+745,FC Kaiserslautern,KAI,Germany,36
+584,Dundalk,DUN,Ireland,886
+652,Shamrock Rovers,SHA,Ireland,886
+653,Cork City,COR,Ireland,886
+670,Derry City,DER,Ireland,886
+3840,Bohemians,BOH,Ireland,886
+3841,Finn Harps,FIN,Ireland,886
+3842,Sligo Rovers,SLI,Ireland,886
+3843,St Patrick's Athl.,PAT,Ireland,886
+3844,UCD,UCD,Ireland,886
+3845,Waterford,WAT,Ireland,886
+3846,Athlone Town,ATH,Ireland,886
+3847,Bray Wanderers,BRA,Ireland,886
+3848,Cabinteely,,Ireland,886
+3849,Cobh Ramblers,COB,Ireland,886
+3850,Drogheda United,DRO,Ireland,886
+3851,Galway United,GAL,Ireland,886
+3852,Limerick,LIM,Ireland,886
+3853,Longford Town,LON,Ireland,886
+3854,Shelbourne,SHE,Ireland,886
+3855,Wexford,WEX,Ireland,886
+6127,Bluebell United,BLU,Ireland,886
+6128,Cockhill Celtic,COC,Ireland,886
+36,Fulham,FUL,England,565
+37,Huddersfield,HUD,England,565
+43,Cardiff,CAR,Wales,565
+53,Reading,REA,England,565
+54,Birmingham,BIR,England,565
+55,Brentford,BRE,England,565
+56,Bristol City,BRI,England,565
+58,Millwall,MIL,England,565
+59,Preston,PRE,England,565
+60,West Brom,WES,England,565
+61,Wigan,WIG,England,565
+63,Leeds,LEE,England,565
+64,Hull City,HUL,England,565
+65,Nottingham Forest,NOT,England,565
+67,Blackburn,BLA,England,565
+69,Derby,DER,England,565
+70,Middlesbrough,MID,England,565
+72,QPR,QPR,England,565
+74,Sheffield Wednesday,SHE,England,565
+75,Stoke City,STO,England,565
+76,Swansea,SWA,Wales,565
+747,Barnsley,BAR,England,565
+1335,Charlton,CHA,England,565
+1359,Luton,LUT,England,565
+193,PEC Zwolle,ZWO,Netherlands,720
+194,Ajax,AJA,Netherlands,720
+195,Willem II,WIL,Netherlands,720
+197,PSV Eindhoven,PSV,Netherlands,720
+198,ADO Den Haag,HAA,Netherlands,720
+200,Vitesse,VIT,Netherlands,720
+201,AZ Alkmaar,ALK,Netherlands,720
+202,Groningen,GRO,Netherlands,720
+203,NAC Breda,BRE,Netherlands,720
+204,VVV Venlo,VEN,Netherlands,720
+206,Heracles,HER,Netherlands,720
+207,Utrecht,UTR,Netherlands,720
+209,Feyenoord,FEY,Netherlands,720
+210,Heerenveen,HEE,Netherlands,720
+413,NEC Nijmegen,NIJ,Netherlands,720
+414,Roda,ROD,Netherlands,720
+415,Twente,TWE,Netherlands,720
+417,Waalwijk,WAA,Netherlands,720
+1345,Chesterfield,CHE,England,764
+1366,Hartlepool,HAR,England,764
+1369,Barnet,BAR,England,764
+1376,Notts County,NOT,England,764
+1377,Yeovil Town,YEO,England,764
+1818,Aldershot Town,ALD,England,764
+1819,Barrow,BAR,England,764
+1821,Dagenham & Redbridge,DAG,England,764
+1822,Eastleigh,EAS,England,764
+1827,Torquay,TOR,England,764
+1829,Dover,DOV,England,764
+1830,Boreham Wood,BOR,England,764
+1832,Bromley,BRO,England,764
+1834,Solihull Moors,SOL,England,764
+1835,Sutton Utd,SUT,England,764
+1836,Woking,WOK,England,764
+1837,Wrexham,WRE,Wales,764
+1838,Maidenhead,MAI,England,764
+1839,AFC Fylde,FYL,England,764
+1840,Ebbsfleet United,EBB,England,764
+1841,FC Halifax Town,HAL,England,764
+1842,Harrogate Town,HAR,England,764
+4679,Chorley,CHO,England,764
+4686,Stockport County,STO,England,764
+2121,Grotta,GRO,Iceland,544
+2122,IR Reykjavik,,Iceland,544
+2123,Njardvik,NJA,Iceland,544
+2124,Magni,MAG,Iceland,544
+3514,Afturelding,ALF,Iceland,544
+4161,Höttur,HOT,Iceland,544
+4162,KF,FJA,Iceland,544
+4163,KV,KV,Iceland,544
+4164,Sindri,SIN,Iceland,544
+4165,Vestri,,Iceland,544
+4166,Völsungur,VOL,Iceland,544
+4167,Ægir,AEG,Iceland,544
+904,CR Belouizdad,BEL,Algeria,893
+905,ES Setif,SET,Algeria,893
+906,MC Alger,ALG,Algeria,893
+907,MC Oran,ORA,Algeria,893
+909,US Biskra,,Algeria,893
+910,USM Alger,ALG,Algeria,893
+911,CS Constantine,CON,Algeria,893
+913,Hussein Dey,,Algeria,893
+914,JS Saoura,,Algeria,893
+915,Paradou AC,,Algeria,893
+917,USM Bel Abbes,BEW,Algeria,893
+918,JS Kabylie,KAB,Algeria,893
+925,Bordj BOU Arreridj,BOR,Algeria,893
+930,AS AIN Mlila,,Algeria,893
+931,ASO Chlef,CHL,Algeria,893
+1071,NC Magra,MAG,Algeria,893
+36,Fulham,FUL,England,38
+39,Wolves,WOL,England,38
+43,Cardiff,CAR,Wales,38
+53,Reading,REA,England,38
+54,Birmingham,BIR,England,38
+55,Brentford,BRE,England,38
+56,Bristol City,BRI,England,38
+57,Ipswich,IPS,England,38
+58,Millwall,MIL,England,38
+59,Preston,PRE,England,38
+62,Sheffield Utd,SHE,England,38
+63,Leeds,LEE,England,38
+64,Hull City,HUL,England,38
+65,Nottingham Forest,NOT,England,38
+66,Aston Villa,AST,England,38
+68,Bolton,BOL,England,38
+69,Derby,DER,England,38
+70,Middlesbrough,MID,England,38
+71,Norwich,NOR,England,38
+72,QPR,QPR,England,38
+74,Sheffield Wednesday,SHE,England,38
+746,Sunderland,SUN,England,38
+747,Barnsley,BAR,England,38
+748,Burton Albion,BUR,England,38
+589,Spartaks Jurmala,SPA,Latvia,541
+661,FK Liepaja,,Latvia,541
+707,FK Ventspils,VEN,Latvia,541
+2263,Riga FC,,Latvia,541
+4154,Babīte,,Latvia,541
+4158,Jelgava,JEL,Latvia,541
+4159,Metta / LU,MET,Latvia,541
+4160,Rīgas FS,,Latvia,541
+87,Amiens,AMI,France,25
+92,Nimes,NIM,France,25
+93,Reims,REI,France,25
+95,Strasbourg,STR,France,25
+98,Ajaccio,AJA,France,25
+99,Clermont Foot,CLE,France,25
+100,Gazelec FC Ajaccio,GFC,France,25
+103,Orleans,ORL,France,25
+104,RED Star FC 93,STA,France,25
+105,Valenciennes,VAL,France,25
+106,Stade Brestois 29,BRE,France,25
+108,Auxerre,AUX,France,25
+110,Estac Troyes,TRO,France,25
+111,LE Havre,HAV,France,25
+113,Niort,NIO,France,25
+115,Sochaux,SOC,France,25
+116,Lens,LEN,France,25
+430,Bourg-en-bresse 01,BOU,France,25
+432,Tours,TOU,France,25
+433,Laval,LAV,France,25
+3687,Alashkert II,,Armenia,504
+3688,Ararat II,,Armenia,504
+3690,Banants II,,Armenia,504
+3692,Erebuni,,Armenia,504
+3693,Gandzasar II,,Armenia,504
+3696,Pyunik II,,Armenia,504
+3697,Shirak II,,Armenia,504
+3880,Kotayk,,Armenia,504
+1030,Ismaily SC,ISM,Egypt,128
+1031,AL Masry,MAS,Egypt,128
+1032,El Dakhleya,ELD,Egypt,128
+1034,El Entag EL Harby,ELE,Egypt,128
+1037,Enppi,ENP,Egypt,128
+1038,Misr EL Makasa,MLM,Egypt,128
+1039,El Geish,TAL,Egypt,128
+1040,Zamalek SC,ZAM,Egypt,128
+1041,Petrojet,PET,Egypt,128
+1044,Smouha SC,SMO,Egypt,128
+1045,Tanta SC,TAN,Egypt,128
+1046,Wadi Degla,WAD,Egypt,128
+1047,Al Nasr Taaden,,Egypt,128
+1048,Aswan Sc,,Egypt,128
+1049,El Sharkia,,Egypt,128
+1572,Al Ittihad,ETT,Egypt,128
+1575,El Mokawloon,ARA,Egypt,128
+1577,Al Ahly,AHL,Egypt,128
+335,Miedz Legnica,MIE,Poland,16
+336,Jagiellonia,JAG,Poland,16
+337,Slask Wroclaw,SLA,Poland,16
+338,Wisla Krakow,WIS,Poland,16
+339,Legia Warszawa,LEG,Poland,16
+340,Gornik Zabrze,GOR,Poland,16
+341,Wisla Plock,WIS,Poland,16
+342,Zaglebie Sosnowiec,ZAG,Poland,16
+343,Lechia Gdansk,LEC,Poland,16
+344,Arka Gdynia,ARK,Poland,16
+345,Zaglebie Lubin,ZAG,Poland,16
+346,Korona Kielce,KOR,Poland,16
+347,Lech Poznan,LEC,Poland,16
+348,Pogon Szczecin,POG,Poland,16
+349,Piast Gliwice,PIA,Poland,16
+350,Cracovia Krakow,CRA,Poland,16
+4359,Bravo,,Slovenia,612
+4362,Tabor Sežana,,Slovenia,612
+4366,Beltinci,,Slovenia,612
+4367,Bilje,,Slovenia,612
+4368,Brda Dobrovo,,Slovenia,612
+4369,Brežice,,Slovenia,612
+4370,Dekani,,Slovenia,612
+4371,Dob,DOB,Slovenia,612
+4373,Fužinar,,Slovenia,612
+4375,Krka,KRK,Slovenia,612
+4376,Nafta,,Slovenia,612
+4377,NŠ Drava,,Slovenia,612
+4378,Radomlje,RAD,Slovenia,612
+4379,Rogaška,,Slovenia,612
+4380,Ankaran Hrvatini,ANK,Slovenia,612
+4381,Ilirija,,Slovenia,612
+560,Slavia Praha,SLA,Czech-Republic,477
+567,Plzen,PLZ,Czech-Republic,477
+603,Zlin,ZLI,Czech-Republic,477
+628,Sparta Praha,SPA,Czech-Republic,477
+640,Mlada Boleslav,MLA,Czech-Republic,477
+782,Slovan Liberec,LIB,Czech-Republic,477
+1122,FK Jablonec,JAB,Czech-Republic,477
+2250,Sigma Olomouc,SIG,Czech-Republic,477
+3713,Baník Ostrava,OST,Czech-Republic,477
+3714,Bohemians 1905,BOH,Czech-Republic,477
+3715,Dukla Praha,DUK,Czech-Republic,477
+3716,Karviná,KAR,Czech-Republic,477
+3717,Opava,OPA,Czech-Republic,477
+3718,Příbram,PRI,Czech-Republic,477
+3719,Slovácko,SLO,Czech-Republic,477
+3720,Teplice,TEP,Czech-Republic,477
+4427,Arcahaie,,Haiti,624
+4428,Baltimore,,Haiti,624
+4429,Capoise,,Haiti,624
+4430,Cavaly,,Haiti,624
+4431,Cosmopolites,,Haiti,624
+4432,Don Bosco,BOS,Haiti,624
+4433,FICA,,Haiti,624
+4434,Mirebalais,,Haiti,624
+4435,Ouanaminthe,,Haiti,624
+4436,Racing Club Haitien,,Haiti,624
+4437,Racing des Gônaïves,,Haiti,624
+4438,Real du Cap,,Haiti,624
+4439,Tempête,,Haiti,624
+4442,Valencia,VAL,Haiti,624
+4443,Petit-Goâve,,Haiti,624
+4444,Sud-Est,,Haiti,624
+814,AD Carmelita,CAR,Costa-Rica,77
+815,CS Herediano,HER,Costa-Rica,77
+816,Deportivo Saprissa,SAP,Costa-Rica,77
+817,Limon FC,LIM,Costa-Rica,77
+818,Municipal Grecia,,Costa-Rica,77
+819,Perez Zeledon,ZEL,Costa-Rica,77
+820,CS Cartagines,CAR,Costa-Rica,77
+821,Guadalupe FC,BEL,Costa-Rica,77
+822,LD Alajuelense,ALA,Costa-Rica,77
+824,Santos DE Guapiles,SAN,Costa-Rica,77
+825,Univ. DE Costa Rica,UCR,Costa-Rica,77
+826,Municipal Liberia,,Costa-Rica,77
+3687,Alashkert II,,Armenia,475
+3688,Ararat II,,Armenia,475
+3689,Ararat-Armenia II,,Armenia,475
+3690,Banants II,,Armenia,475
+3691,Banants III,,Armenia,475
+3692,Erebuni,,Armenia,475
+3693,Gandzasar II,,Armenia,475
+3694,Junior Sevan,,Armenia,475
+3695,Lokomotiv,TAS,Uzbekistan,475
+3696,Pyunik II,,Armenia,475
+3697,Shirak II,,Armenia,475
+3698,Yerevan,,Armenia,475
+552,Maribor,MAR,Slovenia,609
+615,NK Domzale,DOM,Slovenia,609
+677,Olimpija Ljubljana,LJU,Slovenia,609
+4197,Mura,,Slovenia,609
+4358,Aluminij,ALU,Slovenia,609
+4359,Bravo,,Slovenia,609
+4360,Celje,CEL,Slovenia,609
+4361,Rudar,VEL,Slovenia,609
+4362,Tabor Sežana,,Slovenia,609
+4363,Triglav,TRI,Slovenia,609
+4364,Gorica,GOR,Slovenia,609
+578,F91 Dudelange,,Luxembourg,252
+626,Fola Esch,,Luxembourg,252
+658,Progres Niederkorn,,Luxembourg,252
+684,FC Differdange 03,,Luxembourg,252
+2029,Jeunesse Canach,,Luxembourg,252
+2030,Racing FC Union Luxembourg,,Luxembourg,252
+2031,RM Hamm Benfica,,Luxembourg,252
+2032,Union Titus Petange,,Luxembourg,252
+2033,US Rumelange,,Luxembourg,252
+2034,AS Jeunesse Esch,JEU,Luxembourg,252
+2035,UN Kaerjeng 97,,Luxembourg,252
+2036,UNA Strassen,,Luxembourg,252
+2037,US Mondorf-les-bains,,Luxembourg,252
+2038,Victoria Rosport,,Luxembourg,252
+2016,Serbian White Eagles,SER,Canada,250
+2017,York Region Shooters,,Canada,250
+2019,SC Scarborough,,Canada,250
+2020,Milton SC,,Canada,250
+2022,Brantford Galaxy,,Canada,250
+2024,FC Vorkuta,,Canada,250
+2025,SC Waterloo,WAT,Canada,250
+2026,Royal Toronto FC,,Canada,250
+4459,Rangers,,Hong-Kong,632
+4465,Citizen AA,,Hong-Kong,632
+4466,Double Flower,,Hong-Kong,632
+4467,Eastern District,,Hong-Kong,632
+4470,Resources Capital,,Hong-Kong,632
+4471,Shatin,,Hong-Kong,632
+4472,Wing Yee,,Hong-Kong,632
+4473,Wong Tai Sin,,Hong-Kong,632
+4474,Kwun Tong,,Hong-Kong,632
+4475,Sun Hei,,Hong-Kong,632
+4476,Tung Sing,,Hong-Kong,632
+4477,Wanchai,,Hong-Kong,632
+4478,Kwai Tsing,,Hong-Kong,632
+4479,Yau Tsim Mong,,Hong-Kong,632
+5284,ASEC Ndiambour,,Senegal,842
+5285,Casa Sport,,Senegal,842
+5286,Douanes,,Senegal,842
+5288,Génération Foot,,Senegal,842
+5289,Jaraaf,,Senegal,842
+5290,La Linguère,,Senegal,842
+5291,Mbour Petite Côte,,Senegal,842
+5292,Niarry Tally,,Senegal,842
+5294,Sonacos,,Senegal,842
+5295,Stade de Mbour,,Senegal,842
+5296,Teungueth,,Senegal,842
+5552,Diambars,,Senegal,842
+5553,Guédiawaye,,Senegal,842
+5554,Ouakam,,Senegal,842
+13172,DSC,,Senegal,842
+4207,Warriors,,Hong-Kong,628
+4450,Dreams,,Ghana,628
+4451,Eastern,,Hong-Kong,628
+4453,Kitchee,KIT,Hong-Kong,628
+4454,Pegasus,,Hong-Kong,628
+4455,R&F,,Hong-Kong,628
+4456,Southern District,,Hong-Kong,628
+4457,Wofoo Tai Po,,Hong-Kong,628
+4458,Yuen Long,,Hong-Kong,628
+4459,Rangers,,Hong-Kong,628
+315,Tochigi SC,TOC,Japan,603
+805,Kitakyushu,GIR,Japan,603
+2235,FC Ryukyu,,Japan,603
+2236,Kagoshima United,,Japan,603
+4314,Azul Claro Numazu,,Japan,603
+4315,Blaublitz Akita,,Japan,603
+4316,Cerezo Osaka U23,,Japan,603
+4317,Fujieda MYFC,,Japan,603
+4318,Fukushima United,,Japan,603
+4319,Gainare Tottori,GAI,Japan,603
+4320,Gamba Osaka U23,,Japan,603
+4321,Grulla Morioka,,Japan,603
+4322,Kataller Toyama,TOY,Japan,603
+4323,Parceiro Nagano,NAG,Japan,603
+4324,Sagamihara,,Japan,603
+4325,Tokyo U23,,Japan,603
+4327,YSCC,,Japan,603
+4196,Makedonija GjP,MAK,Macedonia,608
+4328,Belasica,BEL,Macedonia,608
+4333,Bregalnica Štip,BRE,Macedonia,608
+4334,Borec,BOR,Macedonia,608
+4338,KF Gostivari,GOS,Macedonia,608
+4340,Kozuv Gevgelija,,Macedonia,608
+4341,Labunishta,,Macedonia,608
+4344,Plačkovica,,Macedonia,608
+4345,Sasa,,Macedonia,608
+4346,Struga,,Macedonia,608
+4347,Teteks,TET,Macedonia,608
+4348,Tikveš,,Macedonia,608
+4350,Velazerimi 77,VLA,Macedonia,608
+4351,Gorno Lisiče,EUR,Macedonia,608
+4352,Lokomotiva,,Macedonia,608
+4353,Novaci,NOV,Macedonia,608
+4354,Osogovo,,Macedonia,608
+4355,Pobeda Valandovo,,Macedonia,608
+4356,Turnovo,TUR,Macedonia,608
+4357,Zajazi,ZAJ,Macedonia,608
+2929,Al-Ahli Jeddah,AHL,Saudi-Arabia,901
+2930,Al-Faisaly FC,FAI,Saudi-Arabia,901
+2931,Al-Fateh,FAT,Saudi-Arabia,901
+2932,Al-Hilal Saudi FC,HIL,Saudi-Arabia,901
+2934,Al-Ettifaq,ETT,Saudi-Arabia,901
+2935,Al-Raed,RAE,Saudi-Arabia,901
+2936,Al Taawon,,Saudi-Arabia,901
+2937,Al Wehda Club,WAH,Saudi-Arabia,901
+2938,Al-Ittihad FC,ITT,Saudi-Arabia,901
+2939,Al-Nassr,NAS,Saudi-Arabia,901
+2940,Al Shabab,SHA,Saudi-Arabia,901
+2944,Al-Fayha,,Saudi-Arabia,901
+2945,Al-Hazm,HAZ,Saudi-Arabia,901
+2950,Al-Adalah,,Saudi-Arabia,901
+2951,Abha,ABH,Saudi-Arabia,901
+2956,Dhamk,,Saudi-Arabia,901
+583,Linfield,LIN,Northern-Ireland,814
+668,Ballymena United,BAL,Northern-Ireland,814
+669,Coleraine FC,COL,Northern-Ireland,814
+697,Crusaders FC,CRU,Northern-Ireland,814
+2266,Cliftonville FC,CLI,Northern-Ireland,814
+2275,Glenavon FC,GLE,Northern-Ireland,814
+5350,Carrick Rangers,CAR,Northern-Ireland,814
+5351,Dungannon Swifts,DUN,Northern-Ireland,814
+5352,Glentoran,GLE,Northern-Ireland,814
+5353,Institute,INS,Northern-Ireland,814
+5354,Larne,LAR,Northern-Ireland,814
+5355,Warrenpoint Town,WAR,Northern-Ireland,814
+574,Vardar Skopje,VAR,Macedonia,605
+609,Shkendija,SKE,Macedonia,605
+663,FK Rabotnicki,RAB,Macedonia,605
+693,Pelister,PEL,Macedonia,605
+2265,Shkupi 1927,SHK,Macedonia,605
+4194,Akademija Pandev,,Macedonia,605
+4329,Pobeda,POB,Macedonia,605
+4330,Renova,REN,Macedonia,605
+4331,Sileks,SIL,Macedonia,605
+4332,Skopje,SKO,Macedonia,605
+3637,Aurora,AUR,Bolivia,476
+3699,Sport Boys,,Bolivia,476
+3700,Always Ready,,Bolivia,476
+3701,Blooming,BLO,Bolivia,476
+3702,Bolívar,BOL,Bolivia,476
+3703,Club Destroyers,ROY,Bolivia,476
+3704,Guabirá,GUA,Bolivia,476
+3705,Jorge Wilstermann,WIL,Bolivia,476
+3706,Nacional Potosí,NAC,Bolivia,476
+3707,Oriente Petrolero,ORI,Bolivia,476
+3708,Real Potosí,REA,Bolivia,476
+3709,Royal Pari,,Bolivia,476
+3710,San José,JOS,Bolivia,476
+3711,The Strongest,STR,Bolivia,476
+4382,Ba,BA,Fiji,616
+4383,Labasa,,Fiji,616
+4384,Lautoka,,Fiji,616
+4385,Nadi,NAD,Fiji,616
+4387,Rewa,,Fiji,616
+4388,Suva,,Fiji,616
+4390,Dreketi,,Fiji,616
+4392,Nadroga,,Fiji,616
+756,Thespakusatsu Gunma,KUS,Japan,602
+805,Kitakyushu,GIR,Japan,602
+2235,FC Ryukyu,,Japan,602
+2236,Kagoshima United,,Japan,602
+4314,Azul Claro Numazu,,Japan,602
+4315,Blaublitz Akita,,Japan,602
+4316,Cerezo Osaka U23,,Japan,602
+4317,Fujieda MYFC,,Japan,602
+4318,Fukushima United,,Japan,602
+4319,Gainare Tottori,GAI,Japan,602
+4320,Gamba Osaka U23,,Japan,602
+4321,Grulla Morioka,,Japan,602
+4322,Kataller Toyama,TOY,Japan,602
+4323,Parceiro Nagano,NAG,Japan,602
+4324,Sagamihara,,Japan,602
+4325,Tokyo U23,,Japan,602
+4327,YSCC,,Japan,602
+4426,América des Cayes,,Haiti,626
+4428,Baltimore,,Haiti,626
+4429,Capoise,,Haiti,626
+4430,Cavaly,,Haiti,626
+4432,Don Bosco,BOS,Haiti,626
+4433,FICA,,Haiti,626
+4434,Mirebalais,,Haiti,626
+4435,Ouanaminthe,,Haiti,626
+4436,Racing Club Haitien,,Haiti,626
+4437,Racing des Gônaïves,,Haiti,626
+4438,Real du Cap,,Haiti,626
+4439,Tempête,,Haiti,626
+4441,Violette AC,,Haiti,626
+4443,Petit-Goâve,,Haiti,626
+4446,Juventus,,Haiti,626
+4447,Aigle Noir,,Burundi,626
+4448,Inter de Grand-Goâve,,Haiti,626
+4449,Roulado,,Haiti,626
+574,Vardar Skopje,VAR,Macedonia,606
+609,Shkendija,SKE,Macedonia,606
+663,FK Rabotnicki,RAB,Macedonia,606
+693,Pelister,PEL,Macedonia,606
+2265,Shkupi 1927,SHK,Macedonia,606
+4196,Makedonija GjP,MAK,Macedonia,606
+4329,Pobeda,POB,Macedonia,606
+4330,Renova,REN,Macedonia,606
+4331,Sileks,SIL,Macedonia,606
+4333,Bregalnica Štip,BRE,Macedonia,606
+4459,Rangers,,Hong-Kong,630
+4460,Hong Kong,HON,Hong-Kong,630
+4463,South China,SOU,Hong-Kong,630
+4464,Central & Western,,Hong-Kong,630
+4465,Citizen AA,,Hong-Kong,630
+4466,Double Flower,,Hong-Kong,630
+4467,Eastern District,,Hong-Kong,630
+4468,Happy Valley,,Hong-Kong,630
+4469,Mutual,,Hong-Kong,630
+4470,Resources Capital,,Hong-Kong,630
+4471,Shatin,,Hong-Kong,630
+4472,Wing Yee,,Hong-Kong,630
+4473,Wong Tai Sin,,Hong-Kong,630
+574,Vardar Skopje,VAR,Macedonia,604
+609,Shkendija,SKE,Macedonia,604
+663,FK Rabotnicki,RAB,Macedonia,604
+2265,Shkupi 1927,SHK,Macedonia,604
+4194,Akademija Pandev,,Macedonia,604
+4196,Makedonija GjP,MAK,Macedonia,604
+4328,Belasica,BEL,Macedonia,604
+4329,Pobeda,POB,Macedonia,604
+4330,Renova,REN,Macedonia,604
+4331,Sileks,SIL,Macedonia,604
+249,Hibernian,HIB,Scotland,168
+251,ST Mirren,MIR,Scotland,168
+1382,Dumbarton,DUM,Scotland,168
+1383,Morton,MOR,Scotland,168
+1384,Queen of the South,QUE,Scotland,168
+1385,Raith Rovers,RAI,Scotland,168
+1386,Dundee Utd,DUN,Scotland,168
+1387,Ayr Utd,AYR,Scotland,168
+1388,Dunfermline,DUN,Scotland,168
+1389,Falkirk,FAL,Scotland,168
+4364,Gorica,GOR,Slovenia,611
+4365,Krško,KRS,Slovenia,611
+4366,Beltinci,,Slovenia,611
+4367,Bilje,,Slovenia,611
+4368,Brda Dobrovo,,Slovenia,611
+4369,Brežice,,Slovenia,611
+4370,Dekani,,Slovenia,611
+4371,Dob,DOB,Slovenia,611
+4372,Dravograd,DRA,Slovenia,611
+4373,Fužinar,,Slovenia,611
+4374,Koper,KOP,Slovenia,611
+4375,Krka,KRK,Slovenia,611
+4376,Nafta,,Slovenia,611
+4377,NŠ Drava,,Slovenia,611
+4378,Radomlje,RAD,Slovenia,611
+4379,Rogaška,,Slovenia,611
+4409,ASFAG,,Guinea,621
+4410,Ashanti GB,,Guinea,621
+4411,CI Kamsar,,Guinea,621
+4413,Eléphant Coléah,,Guinea,621
+4414,Fello Star,,Guinea,621
+4415,Gangan,,Guinea,621
+4416,Hafia,,Guinea,621
+4417,Horoya,HOR,Guinea,621
+4418,Kaloum Star,,Guinea,621
+4419,Renaissance,REN,Cameroon,621
+4421,Satellite,,Guinea,621
+4422,Wakirya,,Guinea,621
+4423,Atlético Coléah,,Guinea,621
+4424,Milo,,Guinea,621
+4426,América des Cayes,,Haiti,623
+4427,Arcahaie,,Haiti,623
+4428,Baltimore,,Haiti,623
+4429,Capoise,,Haiti,623
+4430,Cavaly,,Haiti,623
+4431,Cosmopolites,,Haiti,623
+4432,Don Bosco,BOS,Haiti,623
+4433,FICA,,Haiti,623
+4434,Mirebalais,,Haiti,623
+4435,Ouanaminthe,,Haiti,623
+4436,Racing Club Haitien,,Haiti,623
+4437,Racing des Gônaïves,,Haiti,623
+4438,Real du Cap,,Haiti,623
+4439,Tempête,,Haiti,623
+4440,Triomphe Liancourt,,Haiti,623
+4441,Violette AC,,Haiti,623
+4452,Hoi King,,Hong-Kong,631
+4459,Rangers,,Hong-Kong,631
+4460,Hong Kong,HON,Hong-Kong,631
+4463,South China,SOU,Hong-Kong,631
+4465,Citizen AA,,Hong-Kong,631
+4466,Double Flower,,Hong-Kong,631
+4467,Eastern District,,Hong-Kong,631
+4469,Mutual,,Hong-Kong,631
+4470,Resources Capital,,Hong-Kong,631
+4471,Shatin,,Hong-Kong,631
+4472,Wing Yee,,Hong-Kong,631
+4473,Wong Tai Sin,,Hong-Kong,631
+4474,Kwun Tong,,Hong-Kong,631
+4475,Sun Hei,,Hong-Kong,631
+4476,Tung Sing,,Hong-Kong,631
+4477,Wanchai,,Hong-Kong,631
+552,Maribor,MAR,Slovenia,610
+615,NK Domzale,DOM,Slovenia,610
+677,Olimpija Ljubljana,LJU,Slovenia,610
+4197,Mura,,Slovenia,610
+4358,Aluminij,ALU,Slovenia,610
+4360,Celje,CEL,Slovenia,610
+4361,Rudar,VEL,Slovenia,610
+4363,Triglav,TRI,Slovenia,610
+4364,Gorica,GOR,Slovenia,610
+4365,Krško,KRS,Slovenia,610
+4207,Warriors,,Hong-Kong,627
+4450,Dreams,,Ghana,627
+4451,Eastern,,Hong-Kong,627
+4452,Hoi King,,Hong-Kong,627
+4453,Kitchee,KIT,Hong-Kong,627
+4454,Pegasus,,Hong-Kong,627
+4455,R&F,,Hong-Kong,627
+4456,Southern District,,Hong-Kong,627
+4457,Wofoo Tai Po,,Hong-Kong,627
+4458,Yuen Long,,Hong-Kong,627
+4451,Eastern,,Hong-Kong,629
+4453,Kitchee,KIT,Hong-Kong,629
+4454,Pegasus,,Hong-Kong,629
+4455,R&F,,Hong-Kong,629
+4456,Southern District,,Hong-Kong,629
+4457,Wofoo Tai Po,,Hong-Kong,629
+4458,Yuen Long,,Hong-Kong,629
+4459,Rangers,,Hong-Kong,629
+4460,Hong Kong,HON,Hong-Kong,629
+4461,BCGS Hong Kong Sapling,,Hong-Kong,629
+4462,Hong Kong FC,,Hong-Kong,629
+4463,South China,SOU,Hong-Kong,629
+4016,Saint Louis,,USA,522
+4031,AC Connecticut,,USA,522
+4032,AHFC Royals,,USA,522
+4033,Albuquerque Sol,,USA,522
+4034,Black Rock,,USA,522
+4035,Boston Bolts,,USA,522
+4036,Brazos Valley,,USA,522
+4037,Calgary Foothills,,Canada,522
+4038,Cedar Stars Rush,,USA,522
+4039,Charlotte Eagles,,USA,522
+4040,Chicago FC United,,USA,522
+4041,Cincinnati Dutch Lions,,USA,522
+4042,Colorado Switchbacks II,,USA,522
+4043,Corpus Christi,,USA,522
+4044,Dalton Red Wolves,,USA,522
+4045,Dayton Dutch Lions,DAY,USA,522
+4046,Daytona,,USA,522
+4047,Des Moines Menace,,USA,522
+4048,Discoveries,,USA,522
+4049,Evergreen,,USA,522
+4050,FA Euro New York,,USA,522
+4051,FC Miami City,,USA,522
+4052,Flint City Bucks,,USA,522
+4053,Florida Elite,,USA,522
+4054,Golden State Force,,USA,522
+4055,Green Bay Voyageurs,,USA,522
+4056,Houston FC,,USA,522
+4057,Kaw Valley,,USA,522
+4058,Lakeland Tropics,,USA,522
+4059,Lane United,,USA,522
+4060,Lehigh Valley United,,USA,522
+4061,Lionsbridge,,USA,522
+4062,Long Island Rough Riders,,USA,522
+4063,Manhattan,,USA,522
+4064,Mississippi Brilla,,USA,522
+4065,New York RB III,,USA,522
+4066,North Carolina Fusion,CAR,USA,522
+4067,North Carolina II,,USA,522
+4068,Ocean City Nor'easters,,USA,522
+4069,Ogden City,,USA,522
+4070,Orange County SC II,,USA,522
+4071,Park City Red Wolves,,USA,522
+4072,Peachtree City,,USA,522
+4073,Portland Phoenix,,USA,522
+4074,Portland Timbers III,,USA,522
+4075,Reading United,,USA,522
+4076,SC United Bantams,,USA,522
+4077,SF Glens,,USA,522
+4078,San Diego Zest,,USA,522
+4079,San Francisco City,,USA,522
+4080,Santa Cruz Breakers,,USA,522
+4081,Sarasota Metropolis,,USA,522
+4082,Seacoast United Phantoms,,USA,522
+4083,Seahorses,,USA,522
+4084,Seattle Sounders III,,USA,522
+4085,TSS Rovers,,Canada,522
+4086,Texas United,,USA,522
+4087,The Villages,,USA,522
+4088,Thunder Bay Chill,,Canada,522
+4089,Tobacco Road,,USA,522
+4090,Tormenta II,,USA,522
+4091,Treasure Coast Tritons,,USA,522
+4092,Tri-Cities,,USA,522
+4093,Ventura County Fusion,,USA,522
+4094,Victoria Highlanders,,Canada,522
+4095,Virginia Beach United,,USA,522
+4096,WSA Winnipeg,WIN,USA,522
+4097,Wake,,USA,522
+4098,West Virginia Alliance,,USA,522
+4099,Westchester Flames,,USA,522
+4100,Western Mass Pioneers,,USA,522
+4101,Weston,,USA,522
+4110,Adama Kenema,,Ethiopia,527
+4111,Awassa Kenema,,Ethiopia,527
+4112,Bahardar,,Ethiopia,527
+4113,Debub Police,,Ethiopia,527
+4114,Dedebit,,Ethiopia,527
+4115,Dire Dawa Kenema,,Ethiopia,527
+4116,Ethiopia Bunna,,Ethiopia,527
+4117,Fasil Ketema,,Ethiopia,527
+4118,Jimma Kenema,,Ethiopia,527
+4119,Kedus Giorgis,GEO,Ethiopia,527
+4120,Mekelakeya,,Ethiopia,527
+4121,Mekelle Kenema,,Ethiopia,527
+4122,Shire Endaselassie,,Ethiopia,527
+4123,Sidama Bunna,,Ethiopia,527
+4124,Welayta Dicha,,Ethiopia,527
+4125,Welwalo Adigrat Uni,,Ethiopia,527
+3126,USR Sainte-Rose,,Guadeloupe,618
+3173,Etoile de Morne-à-l'Eau,,Guadeloupe,618
+3203,Moulien,,Guadeloupe,618
+3285,Phare du Canal,,Guadeloupe,618
+4393,Amical Club,,Guadeloupe,618
+4395,La Gauloise,,Guadeloupe,618
+4397,Siroco Les Abymes,,Guadeloupe,618
+4398,Solidarité Scolaire,,Guadeloupe,618
+4401,USBM,,Guadeloupe,618
+4403,Arsenal,,Guadeloupe,618
+4404,Capesterre Bell,,Guadeloupe,618
+4405,Gourbeyre,,Guadeloupe,618
+4406,Juventus Sainte-Anne,,Guadeloupe,618
+10123,Racing Club,,Guadeloupe,618
+4409,ASFAG,,Guinea,620
+4410,Ashanti GB,,Guinea,620
+4411,CI Kamsar,,Guinea,620
+4412,CO Coyah,,Guinea,620
+4413,Eléphant Coléah,,Guinea,620
+4414,Fello Star,,Guinea,620
+4415,Gangan,,Guinea,620
+4416,Hafia,,Guinea,620
+4417,Horoya,HOR,Guinea,620
+4418,Kaloum Star,,Guinea,620
+4419,Renaissance,REN,Cameroon,620
+4420,Santoba,,Guinea,620
+4421,Satellite,,Guinea,620
+4422,Wakirya,,Guinea,620
+2805,Zulia FC,ZUL,Venezuela,398
+2806,Zamora FC,ZAM,Venezuela,398
+2807,Deportivo Tachira FC,TAC,Venezuela,398
+2808,Caracas FC,CAR,Venezuela,398
+2809,Atletico Venezuela,VEN,Venezuela,398
+2810,Carabobo FC,CAR,Venezuela,398
+2811,Monagas SC,,Venezuela,398
+2812,Deportivo Lara,LAR,Venezuela,398
+2813,Real Esppor Club,LAG,Venezuela,398
+2814,Portuguesa FC,,Venezuela,398
+2815,Trujillanos FC,TRU,Venezuela,398
+2817,Aragua FC,ARA,Venezuela,398
+2818,Estudiantes de Merida FC,EST,Venezuela,398
+2819,Deportivo Anzoategui,ANZ,Venezuela,398
+2822,Estudiantes Caracas,,Venezuela,398
+2823,Llaneros de Guanare,LLA,Venezuela,398
+2824,Mineros de Guyana,MIN,Venezuela,398
+2825,Metropolitanos FC,,Venezuela,398
+2827,Puerto Cabello,,Venezuela,398
+2828,Lala FC,,Venezuela,398
+908,Olympique Medea,,Algeria,904
+916,Tadjenant,,Algeria,904
+919,Usm El Harrach,HAR,Algeria,904
+920,MO Bejaia,MOB,Algeria,904
+921,RC Relizane,,Algeria,904
+923,Amal BOU Saada,SAA,Algeria,904
+924,ASM Oran,,Algeria,904
+926,El Eulma,EUL,Algeria,904
+928,WA Tlemcen,,Algeria,904
+932,JSM Bejaia,BEJ,Algeria,904
+933,JSM Skikda,SAO,Algeria,904
+934,MC Saida,SAI,Algeria,904
+936,Khroub,,Algeria,904
+937,RC Arba,ARB,Algeria,904
+1069,USM Annaba,,Algeria,904
+6288,Arzew,,Algeria,904
+12,Japan,JAP,Japan,195
+17,South Korea,SOU,South-Korea,195
+20,Australia,AUS,Australia,195
+22,Iran,IRA,Iran,195
+23,Saudi Arabia,SAU,Saudi-Arabia,195
+1537,India,IND,India,195
+1539,Turkmenistan,TUR,Turkmenistan,195
+1542,Vietnam,VIE,Vietnam,195
+1547,Bahrain,BAH,Bahrain,195
+1548,Jordan,JOR,Jordan,195
+1550,Yemen,YEM,Yemen,195
+1551,Lebanon,LEB,Lebanon,195
+1552,Oman,OMA,Oman,195
+1554,Kyrgyzstan,KYR,Kyrgyzstan,195
+1555,Philippines,PHI,Philippines,195
+1561,North Korea,,North-Korea,195
+1562,Palestine,PAL,Palestine,195
+1563,United Arab Emirates,UAE,United-Arab-Emirates,195
+1564,Thailand,THA,Thailand,195
+1565,Syria,SYR,Syria,195
+1566,China,CHI,China,195
+1567,Iraq,IRA,Iraq,195
+1568,Uzbekistan,UZB,Uzbekistan,195
+1569,Qatar,QAT,Qatar,195
+4409,ASFAG,,Guinea,622
+4410,Ashanti GB,,Guinea,622
+4411,CI Kamsar,,Guinea,622
+4412,CO Coyah,,Guinea,622
+4414,Fello Star,,Guinea,622
+4415,Gangan,,Guinea,622
+4416,Hafia,,Guinea,622
+4417,Horoya,HOR,Guinea,622
+4418,Kaloum Star,,Guinea,622
+4419,Renaissance,REN,Cameroon,622
+4421,Satellite,,Guinea,622
+4422,Wakirya,,Guinea,622
+4423,Atlético Coléah,,Guinea,622
+4425,Soumba,,Guinea,622
+122,Parana,PAR,Brazil,358
+123,Sport Recife,SPO,Brazil,358
+125,America Mineiro,AME,Brazil,358
+136,Vitoria,VIT,Brazil,358
+137,Figueirense,FIG,Brazil,358
+138,Guarani Campinas,GUA,Brazil,358
+139,Ponte Preta,PON,Brazil,358
+140,Criciuma,CRI,Brazil,358
+141,Brasil DE Pelotas,GEB,Brazil,358
+142,Vila Nova,VIL,Brazil,358
+143,Oeste,OES,Brazil,358
+144,Atletico Goianiense,ATL,Brazil,358
+146,CRB,CRB,Brazil,358
+147,Coritiba,COR,Brazil,358
+148,Londrina,LON,Brazil,358
+156,Sao Bento,,Brazil,358
+794,RB Bragantino,BRA,Brazil,358
+1193,Cuiaba,CUI,Brazil,358
+1223,Operario-PR,,Brazil,358
+2618,Botafogo SP,BOT,Brazil,358
+1050,CD Marathon,,Honduras,130
+1051,CD Olimpia,,Honduras,130
+1052,CD Real Sociedad,,Honduras,130
+1053,Juticalpa,,Honduras,130
+1054,Vida,,Honduras,130
+1055,CD Motagua,,Honduras,130
+1056,CD Honduras,,Honduras,130
+1057,Platense FC,,Honduras,130
+1058,Real Espana,,Honduras,130
+1059,Lobos Upnfm,,Honduras,130
+1019,Rudes,,Croatia,189
+1068,HNK Gorica,,Croatia,189
+1471,Dugopolje,,Croatia,189
+1472,Hrvatski Dragovoljac,HRV,Croatia,189
+1473,Imotski,,Croatia,189
+1474,NK Zagreb,ZAG,Croatia,189
+1475,Sibenik,,Croatia,189
+1476,Dinamo Zagreb II,,Croatia,189
+1477,Lucko,LUC,Croatia,189
+1478,Novigrad,NOV,Croatia,189
+1479,Sesvete,,Croatia,189
+1480,Solin,,Croatia,189
+5216,Black Rhinos,,Zimbabwe,836
+5218,CAPS United,,Zimbabwe,836
+5219,Chapungu United,,Zimbabwe,836
+5220,Chicken Inn,,Zimbabwe,836
+5221,Dynamos,,Zimbabwe,836
+5222,Harare City,,Zimbabwe,836
+5224,Highlanders,,Zimbabwe,836
+5225,Hwange,,Zimbabwe,836
+5226,Kariba,,Zimbabwe,836
+5229,Ngezi Platinum,,Zimbabwe,836
+5230,Platinum,,Zimbabwe,836
+5232,Triangle United,,Zimbabwe,836
+5233,Yadah,,Zimbabwe,836
+5518,Bulawayo City,,Zimbabwe,836
+5521,Shabanie Mine,,Zimbabwe,836
+5522,Bantu Rovers,,Zimbabwe,836
+5523,How Mine,,Zimbabwe,836
+5524,Tsholotsho,,Zimbabwe,836
+582,Alashkert,ALA,Armenia,474
+688,Gandzasar,GAN,Armenia,474
+709,Pyunik Yerevan,PYU,Armenia,474
+2276,Banants Yerevan,BAN,Armenia,474
+3682,Ararat,ARA,Armenia,474
+3683,Ararat-Armenia,,Armenia,474
+3684,Artsakh,,Armenia,474
+3685,Lori,,Armenia,474
+3686,Shirak,SHI,Armenia,474
+3668,Binh Duong,BIN,Vietnam,473
+3669,Da Nang,NAN,Vietnam,473
+3670,Ha Noi,,Vietnam,473
+3671,Hai Phong,PHO,Vietnam,473
+3672,Ho Chi Minh City,,Vietnam,473
+3673,Hoang Anh Gia Lai,GIA,Vietnam,473
+3674,Nam Dinh,,Vietnam,473
+3675,Quang Nam,BHT,Vietnam,473
+3676,Sai Gon,,Vietnam,473
+3677,Sanna Khanh Hoa,,Vietnam,473
+3678,Song Lam Nghe An,SON,Vietnam,473
+3679,Than Quang Ninh,THA,Vietnam,473
+3680,Thanh Hóa,THA,Vietnam,473
+3681,Viettel,,Vietnam,473
+2878,Al Nasr,NAS,Oman,812
+5325,Al Oruba,ORU,Oman,812
+5326,Al Suwaiq,SUW,Oman,812
+5327,Al-Nahda,NAH,Oman,812
+5328,Al-Rustaq,,Oman,812
+5329,Al-Shabab,,Oman,812
+5330,Dhofar,,Oman,812
+5331,Mjees,,Oman,812
+5332,Mrbat,,Oman,812
+5333,Muscat,,Oman,812
+5334,Oman Club,,Oman,812
+5335,Saham,SAH,Oman,812
+5336,Sohar,,Oman,812
+5337,Sur,,Oman,812
+2016,Serbian White Eagles,SER,Canada,251
+2018,Ukraine United,,Canada,251
+2019,SC Scarborough,,Canada,251
+2022,Brantford Galaxy,,Canada,251
+2023,Hamilton City,LON,Canada,251
+2024,FC Vorkuta,,Canada,251
+2025,SC Waterloo,WAT,Canada,251
+2027,Real Mississauga,,Canada,251
+2028,Csc Missisauga,,Canada,251
+5196,Buildcon,,Zambia,960
+5198,Forest Rangers,,Zambia,960
+5199,Green Buffaloes,BUF,Zambia,960
+5200,Green Eagles,,Zambia,960
+5201,Kabwe Warriors,,Zambia,960
+5202,Kitwe United,,Zambia,960
+5203,Lumwana Radiants,,Zambia,960
+5204,Lusaka Dynamos,,Zambia,960
+5207,NAPSA Stars,,Zambia,960
+5209,Nkana,NKA,Zambia,960
+5210,Nkwazi,,Zambia,960
+5211,Power Dynamos,,Zambia,960
+5212,Prison Leopards,,Zambia,960
+5213,Red Arrows,,Zambia,960
+5214,ZESCO United,,Zambia,960
+5215,Zanaco,,Zambia,960
+11271,Indeni,,Zambia,960
+15508,Young Green Eagles,,Zambia,960
+2926,Al Baten,BAT,Saudi-Arabia,900
+2927,Najran,NAJ,Saudi-Arabia,900
+2928,Al Khaleej Saihat,,Saudi-Arabia,900
+2933,Al-Qadisiyah FC,,Saudi-Arabia,900
+2941,Al-Kawkab,ALK,Saudi-Arabia,900
+2942,Al Taee,TAE,Saudi-Arabia,900
+2943,Ohod,OHO,Saudi-Arabia,900
+2946,Al Najoom,,Saudi-Arabia,900
+2947,Jeddah Club,,Saudi-Arabia,900
+2952,Al Mojzel,,Saudi-Arabia,900
+2954,Al-Ansar,ANS,Saudi-Arabia,900
+2955,Al Jeel,JEE,Saudi-Arabia,900
+2957,Al Shoalah,SHO,Saudi-Arabia,900
+2958,Al Jabalain,,Saudi-Arabia,900
+2960,Al Nahdha,WN0Q,Saudi-Arabia,900
+2966,Al Bukayriyah,,Saudi-Arabia,900
+2984,Al-Thuqbah,,Saudi-Arabia,900
+6257,Al Taqdom,,Saudi-Arabia,900
+6258,Hottain,HOT,Saudi-Arabia,900
+13170,Al-Ain,,Saudi-Arabia,900
+5171,Abia Warriors,ABI,Nigeria,831
+5172,Akwa United,AKW,Nigeria,831
+5175,El Kanemi Warriors,KAN,Nigeria,831
+5176,Enugu Rangers,ENU,Nigeria,831
+5177,Enyimba,ENY,Nigeria,831
+5180,Heartland,HEA,Nigeria,831
+5181,Ifeanyi Uba,,Nigeria,831
+5183,Kano Pillars,KAN,Nigeria,831
+5186,Lobi Stars,,Nigeria,831
+5187,MFM,,Nigeria,831
+5188,Nasarawa United,NAS,Nigeria,831
+5189,Niger Tornadoes,,Nigeria,831
+5190,Plateau United,,Nigeria,831
+5192,Rivers United,,Nigeria,831
+5193,Sunshine Stars,SUN,Nigeria,831
+5194,Wikki Tourist,,Nigeria,831
+5504,Shooting Stars,,Nigeria,831
+5506,Giwa,GIW,Nigeria,831
+5507,Ikorodu United,,Nigeria,831
+5508,Warri Wolves,,Nigeria,831
+578,F91 Dudelange,,Luxembourg,253
+626,Fola Esch,,Luxembourg,253
+658,Progres Niederkorn,,Luxembourg,253
+684,FC Differdange 03,,Luxembourg,253
+2030,Racing FC Union Luxembourg,,Luxembourg,253
+2031,RM Hamm Benfica,,Luxembourg,253
+2032,Union Titus Petange,,Luxembourg,253
+2034,AS Jeunesse Esch,JEU,Luxembourg,253
+2036,UNA Strassen,,Luxembourg,253
+2037,US Mondorf-les-bains,,Luxembourg,253
+2038,Victoria Rosport,,Luxembourg,253
+2039,Rodange 91,,Luxembourg,253
+2040,US Hostert,,Luxembourg,253
+2041,US Esch,,Luxembourg,253
+5284,ASEC Ndiambour,,Senegal,843
+5285,Casa Sport,,Senegal,843
+5286,Douanes,,Senegal,843
+5287,Gorée,,Senegal,843
+5288,Génération Foot,,Senegal,843
+5289,Jaraaf,,Senegal,843
+5290,La Linguère,,Senegal,843
+5291,Mbour Petite Côte,,Senegal,843
+5292,Niarry Tally,,Senegal,843
+5295,Stade de Mbour,,Senegal,843
+5296,Teungueth,,Senegal,843
+5552,Diambars,,Senegal,843
+5553,Guédiawaye,,Senegal,843
+5554,Ouakam,,Senegal,843
+746,Sunderland,SUN,England,164
+747,Barnsley,BAR,England,164
+748,Burton Albion,BUR,England,164
+1333,AFC Wimbledon,WIM,England,164
+1334,Bristol Rovers,BRI,England,164
+1335,Charlton,CHA,England,164
+1336,Fleetwood Town,FLE,England,164
+1338,Oxford United,OXF,England,164
+1339,Rochdale,ROC,England,164
+1340,Scunthorpe,SCU,England,164
+1341,Southend,SOU,England,164
+1342,Walsall,WAL,England,164
+1343,Bradford,BRA,England,164
+1346,Coventry,COV,England,164
+1347,Gillingham,GIL,England,164
+1350,Peterborough,PET,England,164
+1352,Shrewsbury,SHR,England,164
+1354,Doncaster,DON,England,164
+1355,Portsmouth,POR,England,164
+1356,Blackpool,BLA,England,164
+1357,Plymouth,PLY,England,164
+1358,Wycombe,WYC,England,164
+1359,Luton,LUT,England,164
+1360,Accrington ST,ACC,England,164
+279,Consadole Sapporo,SAP,Japan,13
+280,Jubilo Iwata,IWA,Japan,13
+281,Kashiwa Reysol,KAS,Japan,13
+282,Sanfrecce Hiroshima,HIR,Japan,13
+283,Shimizu S-pulse,SHI,Japan,13
+284,Shonan Bellmare,SHO,Japan,13
+285,V-varen Nagasaki,NAG,Japan,13
+286,Vegalta Sendai,HOU,Japan,13
+287,Urawa,URA,Japan,13
+288,Nagoya Grampus,NAG,Japan,13
+289,Vissel Kobe,KOB,Japan,13
+290,Kashima,KAS,Japan,13
+291,Cerezo Osaka,COS,Japan,13
+292,FC Tokyo,TOK,Japan,13
+293,Gamba Osaka,GOS,Japan,13
+294,Kawasaki Frontale,KAW,Japan,13
+295,Sagan Tosu,TOS,Japan,13
+296,Yokohama F. Marinos,YOK,Japan,13
+568,Sheriff Tiraspol,SHE,Moldova,671
+647,Zaria Balti,OLI,Moldova,671
+691,Milsami Orhei,MIL,Moldova,671
+2271,Petrocub,,Moldova,671
+4198,Speranţa Nisporeni,SPE,Moldova,671
+4631,Dinamo-Auto,DIN,Moldova,671
+4632,Sfîntul Gheorghe,SFI,Moldova,671
+4633,Zimbru,ZIM,Moldova,671
+211,Benfica,BEN,Portugal,11
+212,FC Porto,POR,Portugal,11
+213,Feirense,FEI,Portugal,11
+214,Maritimo,MAR,Portugal,11
+215,Moreirense,MOR,Portugal,11
+216,Portimonense,POR,Portugal,11
+217,SC Braga,BRA,Portugal,11
+218,Tondela,TON,Portugal,11
+219,Vitoria Setubal,SET,Portugal,11
+220,Aves,AVE,Portugal,11
+221,Belenenses,BEL,Portugal,11
+222,Boavista,,Portugal,11
+223,Chaves,CHA,Portugal,11
+224,Guimaraes,GUI,Portugal,11
+225,Nacional,NAC,Portugal,11
+226,Rio Ave,RIO,Portugal,11
+227,Santa Clara,SAN,Portugal,11
+228,Sporting CP,SPO,Portugal,11
+2242,FC Cincinnati,,USA,520
+3988,Bethlehem Steel,,USA,520
+3990,Charleston Battery,CHA,USA,520
+3991,Charlotte Independence,,USA,520
+3992,Colorado Springs,,USA,520
+3997,LA Galaxy II,,USA,520
+4000,Louisville City,,USA,520
+4004,New York RB II,,USA,520
+4006,OKC Energy,,USA,520
+4007,Orange County SC,,USA,520
+4008,Ottawa Fury,OTT,Canada,520
+4009,Phoenix Rising,ARI,USA,520
+4010,Pittsburgh Riverhounds,PIT,USA,520
+4011,Portland Timbers II,,USA,520
+4012,Real Monarchs,,USA,520
+4013,Reno 1868,,USA,520
+4014,Rio Grande Valley,,USA,520
+4015,Sacramento Republic,,USA,520
+4016,Saint Louis,,USA,520
+4017,San Antonio,,USA,520
+4018,Seattle Sounders II,,USA,520
+4019,Swope Park Rangers,,USA,520
+4021,Tampa Bay Rowdies,,USA,520
+4022,FC Tulsa,,USA,520
+4023,Penn,HAR,USA,520
+4024,Richmond Kickers,RIC,USA,520
+4025,Toronto II,,Canada,520
+4026,Orlando City II,ORL,USA,520
+4027,Rochester Rhinos,,USA,520
+4028,Whitecaps II,,USA,520
+563,Hapoel Beer Sheva,HAP,Israel,639
+604,Maccabi Tel Aviv,MAC,Israel,639
+657,Beitar Jerusalem,BEI,Israel,639
+2253,Hapoel Haifa,HAP,Israel,639
+4195,Maccabi Haifa,MAC,Israel,639
+4481,Bnei Sakhnin,BNE,Israel,639
+4482,Hapoel Acre,HAP,Israel,639
+4484,Hapoel Ashkelon,HAP,Israel,639
+4495,Maccabi Petah Tikva,MAC,Israel,639
+4505,Maccabi Netanya,MAC,Israel,639
+4507,Ashdod,MOA,Israel,639
+4508,Bnei Yehuda,BNE,Israel,639
+4509,Hapoel Ra'anana,HAP,Israel,639
+4510,Ironi Kiryat Shmona,SHM,Israel,639
+4174,07 Vestur,,Faroe-Islands,548
+4175,AB II,,Faroe-Islands,548
+4176,B71,,Faroe-Islands,548
+4177,EB / Streymur,,Faroe-Islands,548
+4178,Giza / Hoyvík,,Faroe-Islands,548
+4179,HB II,,Faroe-Islands,548
+4180,KÍ II,,Faroe-Islands,548
+4181,NSÍ II,,Faroe-Islands,548
+4182,Suduroy,,Faroe-Islands,548
+4183,Víkingur II,,Faroe-Islands,548
+3636,Achuapa,,Guatemala,773
+3638,Carchá,,Guatemala,773
+3639,Chimaltenango,,Guatemala,773
+3640,Comunicaciones II,,Guatemala,773
+3642,Deportivo Reu,,Guatemala,773
+3643,Marquense,MAR,Guatemala,773
+3644,Mictlán,MIC,Guatemala,773
+3646,Nueva Concepción,,Guatemala,773
+3647,Quiché,,Guatemala,773
+3649,San Pedro,,Guatemala,773
+3650,Sansare,,Guatemala,773
+3652,Sololá,,Guatemala,773
+3653,Suchitepéquez,SUC,Guatemala,773
+3655,Sacachispas,,Guatemala,773
+3659,Deportivo Chiantla,,Guatemala,773
+3660,Deportivo Petapa,,Guatemala,773
+4902,Capitalinos,,Guatemala,773
+4903,Deportivo Catocha,,Guatemala,773
+4904,Xinabajul,,Guatemala,773
+10154,Aurora,,Guatemala,773
+2315,Colo Colo,COL,Chile,304
+2316,Curico Unido,CUR,Chile,304
+2317,Deportes Temuco,DEP,Chile,304
+2318,Palestino,PAL,Chile,304
+2319,Deportes Iquique,IQU,Chile,304
+2320,O'Higgins,HIG,Chile,304
+2321,Union Espanola,ESP,Chile,304
+2322,San Luis,LUI,Chile,304
+2323,Universidad de Chile,CHI,Chile,304
+2324,Universidad de Concepcion,CON,Chile,304
+2325,Everton de Vina,EVE,Chile,304
+2326,Union La Calera,UNI,Chile,304
+2327,Antofagasta,ANT,Chile,304
+2328,Huachipato,HUA,Chile,304
+2329,A. Italiano,ITA,Chile,304
+2994,U. Catolica,CAT,Chile,304
+440,Belgrano Cordoba,BEL,Argentina,899
+447,Chacarita Juniors,CHA,Argentina,899
+452,Tigre,TIG,Argentina,899
+454,Temperley,TEM,Argentina,899
+461,San Martin S.J.,MAR,Argentina,899
+462,Agropecuario,,Argentina,899
+464,All Boys,BOY,Argentina,899
+465,Atletico DE Rafaela,RAF,Argentina,899
+466,Atletico Mitre,,Argentina,899
+468,Brown DE Adrogue,BRO,Argentina,899
+469,Deportivo Moron,DEP,Argentina,899
+470,Ferro Carril Oeste,FER,Argentina,899
+472,Guillermo Brown,GUI,Argentina,899
+473,Independ. Rivadavia,RIV,Argentina,899
+474,Sarmiento Junin,SAR,Argentina,899
+475,Santamarina,SAN,Argentina,899
+476,Deportivo Riestra,RIE,Argentina,899
+478,Instituto Cordoba,INS,Argentina,899
+479,Gimnasia Jujuy,GIM,Argentina,899
+480,Quilmes,QUI,Argentina,899
+481,Villa Dalmine,DAL,Argentina,899
+482,Almagro,ALM,Argentina,899
+484,Nueva Chicago,NUE,Argentina,899
+485,San Martin Tucuman,MAR,Argentina,899
+1064,Platense,PLA,Argentina,899
+1066,Gimnasia M.,,Argentina,899
+1067,Defensores De Belgrano,DEF,Argentina,899
+1936,CA Estudiantes,EST,Argentina,899
+1948,Atlanta,ATL,Argentina,899
+1962,Alvarado,ALV,Argentina,899
+2424,Estudiantes de Rio Cuarto,,Argentina,899
+2432,Barracas Central,BAR,Argentina,899
+3752,Acacia Ridge,,Australia,481
+3753,Albany Creek,ALB,Australia,481
+3754,Bayside United,,Australia,481
+3755,Brisbane Knights,,Australia,481
+3756,Caboolture,,Australia,481
+3757,Centenary Stormers,,Australia,481
+3758,Grange Thistle,,Australia,481
+3759,North Pine,,Australia,481
+3760,Taringa Rovers,,Australia,481
+3761,The Gap,,Australia,481
+3762,Toowong,,Australia,481
+3763,Univ. Queensland,QUE,Australia,481
+5216,Black Rhinos,,Zimbabwe,835
+5217,Bulawayo Chiefs,,Zimbabwe,835
+5218,CAPS United,,Zimbabwe,835
+5219,Chapungu United,,Zimbabwe,835
+5220,Chicken Inn,,Zimbabwe,835
+5221,Dynamos,,Zimbabwe,835
+5222,Harare City,,Zimbabwe,835
+5223,Herentals,,Zimbabwe,835
+5224,Highlanders,,Zimbabwe,835
+5226,Kariba,,Zimbabwe,835
+5229,Ngezi Platinum,,Zimbabwe,835
+5230,Platinum,,Zimbabwe,835
+5232,Triangle United,,Zimbabwe,835
+5233,Yadah,,Zimbabwe,835
+5518,Bulawayo City,,Zimbabwe,835
+5519,Mutare City,,Zimbabwe,835
+5520,Nichrut,,Zimbabwe,835
+5521,Shabanie Mine,,Zimbabwe,835
+13,Senegal,SEN,Senegal,192
+28,Tunisia,TUN,Tunisia,192
+1500,Mali,MAL,Mali,192
+1501,Ivory Coast,IVO,Côte d'Ivoire,192
+1502,Burkina Faso,BUR,Burkina-Faso,192
+1503,Gabon,GAB,Gabon,192
+1504,Ghana,GHA,Ghana,192
+1507,Zambia,ZAM,Zambia,192
+1508,Congo DR,CON,Congo-DR,192
+1509,Guinea,GUI,Guinea,192
+1517,Congo,CON,Congo,192
+1521,Equatorial Guinea,EQU,Equatorial Guinea,192
+1530,Cameroon,CAM,Cameroon,192
+1531,South Africa,SOU,South-Africa,192
+1532,Algeria,ALG,Algeria,192
+1533,Cape Verde Islands,CAP,Cape-Verde-Islands,192
+920,MO Bejaia,MOB,Algeria,100
+921,RC Relizane,,Algeria,100
+922,CA Batna,,Algeria,100
+923,Amal BOU Saada,SAA,Algeria,100
+924,ASM Oran,,Algeria,100
+925,Bordj BOU Arreridj,BOR,Algeria,100
+926,El Eulma,EUL,Algeria,100
+927,GC Mascara,,Algeria,100
+928,WA Tlemcen,,Algeria,100
+929,AIN Fakroun,AIN,Algeria,100
+930,AS AIN Mlila,,Algeria,100
+931,ASO Chlef,CHL,Algeria,100
+932,JSM Bejaia,BEJ,Algeria,100
+933,JSM Skikda,SAO,Algeria,100
+934,MC Saida,SAI,Algeria,100
+935,RC Kouba,,Algeria,100
+904,CR Belouizdad,BEL,Algeria,99
+905,ES Setif,SET,Algeria,99
+906,MC Alger,ALG,Algeria,99
+907,MC Oran,ORA,Algeria,99
+908,Olympique Medea,,Algeria,99
+910,USM Alger,ALG,Algeria,99
+911,CS Constantine,CON,Algeria,99
+913,Hussein Dey,,Algeria,99
+915,Paradou AC,,Algeria,99
+916,Tadjenant,,Algeria,99
+917,USM Bel Abbes,BEW,Algeria,99
+918,JS Kabylie,KAB,Algeria,99
+920,MO Bejaia,MOB,Algeria,99
+925,Bordj BOU Arreridj,BOR,Algeria,99
+930,AS AIN Mlila,,Algeria,99
+933,JSM Skikda,SAO,Algeria,99
+904,CR Belouizdad,BEL,Algeria,98
+905,ES Setif,SET,Algeria,98
+906,MC Alger,ALG,Algeria,98
+907,MC Oran,ORA,Algeria,98
+908,Olympique Medea,,Algeria,98
+910,USM Alger,ALG,Algeria,98
+911,CS Constantine,CON,Algeria,98
+913,Hussein Dey,,Algeria,98
+914,JS Saoura,,Algeria,98
+916,Tadjenant,,Algeria,98
+917,USM Bel Abbes,BEW,Algeria,98
+918,JS Kabylie,KAB,Algeria,98
+919,Usm El Harrach,HAR,Algeria,98
+920,MO Bejaia,MOB,Algeria,98
+921,RC Relizane,,Algeria,98
+922,CA Batna,,Algeria,98
+3695,Lokomotiv,TAS,Uzbekistan,563
+4209,Andijan,AND,Uzbekistan,563
+4210,Bunyodkor,BUN,Uzbekistan,563
+4211,Buxoro,BUX,Uzbekistan,563
+4212,Kokand-1912,KOK,Uzbekistan,563
+4214,Metalourg,BEK,Uzbekistan,563
+4215,Nasaf,NAS,Uzbekistan,563
+4216,Navbahor,NAV,Uzbekistan,563
+4219,Olmaliq,OLI,Uzbekistan,563
+4220,Pakhtakor,PAK,Uzbekistan,563
+4221,Qizilqum,QIZ,Uzbekistan,563
+4223,Sogdiana,SOG,Uzbekistan,563
+4224,Dinamo Samarqand,SAM,Uzbekistan,563
+4225,Surkhon,,Uzbekistan,563
+2447,PSMS Medan,,Indonesia,564
+2454,Sriwijaya FC,SRI,Indonesia,564
+2455,Mitra Kukar,MIT,Indonesia,564
+2457,Persiba Balikpapan,BAL,Indonesia,564
+4227,BaBel United,,Indonesia,564
+4228,Blitar United,,Indonesia,564
+4229,Cilegon United,,Indonesia,564
+4230,Madura,,Indonesia,564
+4231,Martapura,,Indonesia,564
+4232,PSBS Biak Numfor,,Indonesia,564
+4233,PSCS Cilacap,,Indonesia,564
+4234,PSGC Ciamis,,Indonesia,564
+4235,PSIM Yogyakarta,,Indonesia,564
+4236,PSPS,PEK,Indonesia,564
+4237,Persatu Tuban,,Indonesia,564
+4238,Perserang,,Indonesia,564
+4239,Persewar,,Indonesia,564
+4240,Persibat Batang,,Indonesia,564
+4241,Persik Kediri,PER,Indonesia,564
+4242,Persiraja Banda Aceh,PEA,Indonesia,564
+4243,Persis Solo,,Indonesia,564
+4244,Persita,PER,Indonesia,564
+4245,Sulut United,,Indonesia,564
+3687,Alashkert II,,Armenia,903
+3688,Ararat II,,Armenia,903
+3689,Ararat-Armenia II,,Armenia,903
+3690,Banants II,,Armenia,903
+3696,Pyunik II,,Armenia,903
+3697,Shirak II,,Armenia,903
+6277,Ani Yerevan,,Armenia,903
+6278,Aragats,,Armenia,903
+6279,BKMA,,Armenia,903
+6280,Dilijan,,Armenia,903
+6281,Lernayin Artsakh,,Armenia,903
+6282,Makaravank,,Armenia,903
+6283,Masis,,Armenia,903
+6284,Sevan,,Armenia,903
+6285,Torpedo Yerevan,,Armenia,903
+6286,Van,,Armenia,903
+6287,West Armenia,,Armenia,903
+12164,Lokomotiv,,Armenia,903
+5489,Ağsu,AGS,Azerbaidjan,826
+5490,Kapaz,KAP,Azerbaidjan,826
+5491,Keşlə II,,Azerbaidjan,826
+5492,MOIK,MOI,Azerbaidjan,826
+5493,Neftçi II,,Azerbaidjan,826
+5494,Qarabağ II,,Azerbaidjan,826
+5495,Qaradağ Lökbatan,LOK,Azerbaidjan,826
+5496,Sabah II,,Azerbaidjan,826
+5497,Sumqayıt II,,Azerbaidjan,826
+5498,Səbail II,,Azerbaidjan,826
+5499,Turan,TUR,Azerbaidjan,826
+5500,Zaqatala,,Azerbaidjan,826
+5501,Zirə II,,Azerbaidjan,826
+5502,Şüvəlan,,Azerbaidjan,826
+4135,Auda,AUD,Latvia,538
+4138,Grobiņa,GRO,Latvia,538
+4139,JDFS Alberts,,Latvia,538
+4141,Rēzekne FA,,Latvia,538
+4142,Smiltene,,Latvia,538
+4144,Tukums,TUK,Latvia,538
+4146,Preiļu BJSS,PRE,Latvia,538
+4147,RTU,,Latvia,538
+4148,Staiceles Bebri,BEB,Latvia,538
+4149,BFC Daugavpils,BFC,Latvia,538
+4150,Jēkabpils,JEK,Latvia,538
+4151,Ogre,,Latvia,538
+4152,Progress / AFA Olaine,,Latvia,538
+4153,Valmiera / BSS,VAL,Latvia,538
+269,Keflavik,KEF,Iceland,265
+272,KA Akureyri,AKU,Iceland,265
+277,Grindavik,GRI,Iceland,265
+2112,Fjardabyggd,FJA,Iceland,265
+2113,HK Kopavogur,KOP,Iceland,265
+2114,Leiknir R.,LEI,Iceland,265
+2115,Selfoss,SEL,Iceland,265
+2116,Thor Akureyri,THO,Iceland,265
+2117,Fram Reykjavik,FRA,Iceland,265
+2118,Haukar,HAU,Iceland,265
+2119,Huginn,HUG,Iceland,265
+2120,Leiknir F.,,Iceland,265
+2881,Alianza FC,ALI,Panama,411
+2882,CD Arabe Unido,ARA,Panama,411
+2883,Plaza Amador,,Panama,411
+2884,Santa Gema FC,,Panama,411
+2885,Tauro FC,,Panama,411
+2887,San Francisco FC,,Panama,411
+2888,Deportivo Universitario,,Panama,411
+2889,Sporting San Miguelito,MIG,Panama,411
+2890,Independiente de La Chorrera,,Panama,411
+2892,Atletico Veraguense,,Panama,411
+5338,Ards,ARD,Northern-Ireland,813
+5339,Ballinamallard United,BAL,Northern-Ireland,813
+5340,Ballyclare Comrades,BAL,Northern-Ireland,813
+5341,Dergview,DER,Northern-Ireland,813
+5342,Dundela,DUN,Northern-Ireland,813
+5343,H&W Welders,HAR,Northern-Ireland,813
+5344,Knockbreda,KNO,Northern-Ireland,813
+5345,Loughgall,LOU,Northern-Ireland,813
+5346,Newry City AFC,,Northern-Ireland,813
+5347,PSNI,PSN,Northern-Ireland,813
+5348,Portadown,POR,Northern-Ireland,813
+5349,Queen's University,QUE,Northern-Ireland,813
+1050,CD Marathon,,Honduras,129
+1051,CD Olimpia,,Honduras,129
+1053,Juticalpa,,Honduras,129
+1054,Vida,,Honduras,129
+1055,CD Motagua,,Honduras,129
+1056,CD Honduras,,Honduras,129
+1057,Platense FC,,Honduras,129
+1058,Real Espana,,Honduras,129
+1059,Lobos Upnfm,,Honduras,129
+1979,Real de Minas,,Honduras,129
+193,PEC Zwolle,ZWO,Netherlands,10
+194,Ajax,AJA,Netherlands,10
+195,Willem II,WIL,Netherlands,10
+196,Excelsior,EXC,Netherlands,10
+197,PSV Eindhoven,PSV,Netherlands,10
+198,ADO Den Haag,HAA,Netherlands,10
+199,De Graafschap,GRA,Netherlands,10
+200,Vitesse,VIT,Netherlands,10
+201,AZ Alkmaar,ALK,Netherlands,10
+202,Groningen,GRO,Netherlands,10
+203,NAC Breda,BRE,Netherlands,10
+204,VVV Venlo,VEN,Netherlands,10
+205,Fortuna Sittard,SIT,Netherlands,10
+206,Heracles,HER,Netherlands,10
+207,Utrecht,UTR,Netherlands,10
+208,Emmen,EMM,Netherlands,10
+209,Feyenoord,FEY,Netherlands,10
+210,Heerenveen,HEE,Netherlands,10
+659,Valletta FC,VAL,Malta,666
+696,Balzan FC,BAL,Malta,666
+2264,Gzira United,GIZ,Malta,666
+2277,Birkirkara,BIR,Malta,666
+3651,Santa Lucía,,Malta,666
+3884,Hibernians,HIB,Malta,666
+4616,Gudja United,GUD,Malta,666
+4619,Sirens,,Malta,666
+4624,Senglea Athletic,,Malta,666
+4625,Floriana,FLO,Malta,666
+4626,Hamrun Spartans,HAM,Malta,666
+4627,Mosta,MOS,Malta,666
+4628,Sliema Wanderers,SLI,Malta,666
+4629,Tarxien Rainbows,TAR,Malta,666
+2502,Negeri Sembilan,NEG,Malaysia,340
+2503,UiTM FC,UIT,Malaysia,340
+2505,Sabah FA,SAB,Malaysia,340
+2506,Johor Darul Tazim II,JOH,Malaysia,340
+2509,Perlis,PER,Malaysia,340
+2512,Kuantan FA,,Malaysia,340
+2515,ATM FA,,Malaysia,340
+2517,Kuala Lumpur FA,,Malaysia,340
+2519,Melaka United,,Malaysia,340
+2520,DRB-Hicom FC,DRB,Malaysia,340
+2521,Pkns FC,PKN,Malaysia,340
+2522,Sime Darby FC,SIM,Malaysia,340
+826,Municipal Liberia,,Costa-Rica,255
+2043,ADR Jicaral,,Costa-Rica,255
+2044,AD Guanacasteca,,Costa-Rica,255
+2045,Puntarenas FC,PUN,Costa-Rica,255
+2046,Deportivo Cartagena,,Costa-Rica,255
+2047,Sporting San Jose,,Costa-Rica,255
+2048,Puerto Golfito,,Costa-Rica,255
+2049,AS Puma Generalena,,Costa-Rica,255
+2050,Escazucena,,Costa-Rica,255
+2051,AD Santa Rosa,,Costa-Rica,255
+2052,Cariari Pococi,,Costa-Rica,255
+2053,Curridabat FC,,Costa-Rica,255
+2054,Futbol Consultants Moravia,,Costa-Rica,255
+2055,AD Cofutpa,,Costa-Rica,255
+2056,Aserri FC,,Costa-Rica,255
+2057,Santa Ana,,Costa-Rica,255
+2058,CS Uruguay,CSU,Costa-Rica,255
+2059,Turrialba Fc,,Costa-Rica,255
+1174,Club Guarani,GUA,Paraguay,281
+1175,Nacional Asuncion,NAC,Paraguay,281
+1176,Cerro Porteno,CER,Paraguay,281
+1177,SOL DE America,,Paraguay,281
+1178,General Diaz,DIA,Paraguay,281
+1179,Libertad Asuncion,LIB,Paraguay,281
+1180,Deportivo Capiata,DEP,Paraguay,281
+1182,Olimpia,OLI,Paraguay,281
+1183,Sportivo Luqueno,SPO,Paraguay,281
+1184,Club River Plate,,Paraguay,281
+1189,Deportivo Santani,,Paraguay,281
+2125,Club Sp. San Lorenzo,,Paraguay,281
+1345,Chesterfield,CHE,England,166
+1346,Coventry,COV,England,166
+1351,Port Vale,POR,England,166
+1353,Swindon Town,SWI,England,166
+1358,Wycombe,WYC,England,166
+1359,Luton,LUT,England,166
+1360,Accrington ST,ACC,England,166
+1361,Colchester,COL,England,166
+1362,Crawley Town,CRA,England,166
+1363,Crewe,CRE,England,166
+1364,Exeter City,EXE,England,166
+1365,Grimsby,GRI,England,166
+1367,Newport County,NEW,Wales,166
+1368,Stevenage,STE,England,166
+1369,Barnet,BAR,England,166
+1370,Cambridge United,CAM,England,166
+1371,Carlisle,CAR,England,166
+1372,Cheltenham,CHE,England,166
+1374,Mansfield Town,MAN,England,166
+1375,Morecambe,MOR,England,166
+1376,Notts County,NOT,England,166
+1377,Yeovil Town,YEO,England,166
+1378,Forest Green,FOR,England,166
+1379,Lincoln,,England,166
+1354,Doncaster,DON,England,165
+1355,Portsmouth,POR,England,165
+1356,Blackpool,BLA,England,165
+1357,Plymouth,PLY,England,165
+1358,Wycombe,WYC,England,165
+1359,Luton,LUT,England,165
+1360,Accrington ST,ACC,England,165
+1361,Colchester,COL,England,165
+1362,Crawley Town,CRA,England,165
+1363,Crewe,CRE,England,165
+1364,Exeter City,EXE,England,165
+1365,Grimsby,GRI,England,165
+1366,Hartlepool,HAR,England,165
+1367,Newport County,NEW,Wales,165
+1368,Stevenage,STE,England,165
+1369,Barnet,BAR,England,165
+1370,Cambridge United,CAM,England,165
+1371,Carlisle,CAR,England,165
+1372,Cheltenham,CHE,England,165
+1373,Leyton Orient,LEY,England,165
+1374,Mansfield Town,MAN,England,165
+1375,Morecambe,MOR,England,165
+1376,Notts County,NOT,England,165
+1377,Yeovil Town,YEO,England,165
+336,Jagiellonia,JAG,Poland,517
+337,Slask Wroclaw,SLA,Poland,517
+338,Wisla Krakow,WIS,Poland,517
+339,Legia Warszawa,LEG,Poland,517
+340,Gornik Zabrze,GOR,Poland,517
+341,Wisla Plock,WIS,Poland,517
+343,Lechia Gdansk,LEC,Poland,517
+344,Arka Gdynia,ARK,Poland,517
+345,Zaglebie Lubin,ZAG,Poland,517
+346,Korona Kielce,KOR,Poland,517
+347,Lech Poznan,LEC,Poland,517
+348,Pogon Szczecin,POG,Poland,517
+349,Piast Gliwice,PIA,Poland,517
+350,Cracovia Krakow,CRA,Poland,517
+3491,Raków Częstochowa,RAK,Poland,517
+3498,ŁKS Łódź,,Poland,517
+1181,General Caballero,,Paraguay,489
+1185,Rubio NU,RUB,Paraguay,489
+1186,Independiente F.b.c.,,Paraguay,489
+1187,Sportivo Trinidense,,Paraguay,489
+1188,3 de Febrero,EST,Paraguay,489
+2126,Deportivo Caaguazu,,Paraguay,489
+2128,Ovetense FC,,Paraguay,489
+2130,Fernando De La Mora,,Paraguay,489
+2134,Fulgencio Yegros,,Paraguay,489
+2135,Resistencia,,Paraguay,489
+2136,Sportivo Iteno,,Paraguay,489
+2138,Guairena FC,,Paraguay,489
+2140,2 de Mayo,MAY,Paraguay,489
+2141,Ri 3 Corrales,,Paraguay,489
+3832,12 de Octubre,OCT,Paraguay,489
+3833,Atyrá,,Paraguay,489
+4382,Ba,BA,Fiji,615
+4383,Labasa,,Fiji,615
+4384,Lautoka,,Fiji,615
+4385,Nadi,NAD,Fiji,615
+4387,Rewa,,Fiji,615
+4388,Suva,,Fiji,615
+4390,Dreketi,,Fiji,615
+4391,Rakiraki,,Fiji,615
+2825,Metropolitanos FC,,Venezuela,399
+2826,Atletico Socopo FC,,Venezuela,399
+2827,Puerto Cabello,,Venezuela,399
+2828,Lala FC,,Venezuela,399
+2829,Yaracuyanos FC,YAR,Venezuela,399
+2830,Petrolero de Anzoategui,,Venezuela,399
+2831,Union Atl. Falcon,,Venezuela,399
+2832,Atletico el Vigia FC,ATL,Venezuela,399
+2833,Arroceros Calabozo,,Venezuela,399
+2834,AC Mineros B,,Venezuela,399
+2835,Tucanes FC,TUC,Venezuela,399
+2836,Policia De Lara,,Venezuela,399
+2837,Titanes FC,,Venezuela,399
+2838,Angostura FC,,Venezuela,399
+2839,Diamantes de Guayana,,Venezuela,399
+2840,UCV,,Venezuela,399
+2841,Zamora FC B,,Venezuela,399
+2842,Caracas FC B,,Venezuela,399
+2843,Gran Valencia,,Venezuela,399
+2844,Margarita FC,,Venezuela,399
+2845,Atletico Venezuela B,,Venezuela,399
+2846,Potros De Barinas,,Venezuela,399
+2847,Real Frontera,,Venezuela,399
+2848,Deportivo La Guaira B,,Venezuela,399
+5469,San Pedro,,Belize,823
+5470,Bandits,,Belize,823
+5471,Belize Defence Force,,Belize,823
+5472,Freedom Fighters,,Belize,823
+5473,Placencia Assassins,,Belize,823
+5474,Police United,,Belize,823
+5475,Verdes,,Belize,823
+5476,Wagiya,,Belize,823
+1050,CD Marathon,,Honduras,131
+1051,CD Olimpia,,Honduras,131
+1052,CD Real Sociedad,,Honduras,131
+1053,Juticalpa,,Honduras,131
+1054,Vida,,Honduras,131
+1055,CD Motagua,,Honduras,131
+1056,CD Honduras,,Honduras,131
+1057,Platense FC,,Honduras,131
+1058,Real Espana,,Honduras,131
+1060,Cd Social Sol,,Honduras,131
+659,Valletta FC,VAL,Malta,667
+696,Balzan FC,BAL,Malta,667
+2264,Gzira United,GIZ,Malta,667
+2277,Birkirkara,BIR,Malta,667
+3884,Hibernians,HIB,Malta,667
+4607,Pietà Hotspurs,PIE,Malta,667
+4608,Qormi,QOR,Malta,667
+4610,St. Andrews,,Malta,667
+4624,Senglea Athletic,,Malta,667
+4625,Floriana,FLO,Malta,667
+4626,Hamrun Spartans,HAM,Malta,667
+4627,Mosta,MOS,Malta,667
+4628,Sliema Wanderers,SLI,Malta,667
+4629,Tarxien Rainbows,TAR,Malta,667
+434,Gimnasia L.P.,GIM,Argentina,239
+435,River Plate,RIV,Argentina,239
+436,Racing Club,RAC,Argentina,239
+437,Rosario Central,ROS,Argentina,239
+438,Velez Sarsfield,VEL,Argentina,239
+439,Godoy Cruz,GOD,Argentina,239
+440,Belgrano Cordoba,BEL,Argentina,239
+441,Union Santa Fe,UNI,Argentina,239
+442,Defensa Y Justicia,DEF,Argentina,239
+443,Olimpo Bahia Blanca,OLI,Argentina,239
+444,Patronato,PAT,Argentina,239
+445,Huracan,HUR,Argentina,239
+446,Lanus,LAN,Argentina,239
+447,Chacarita Juniors,CHA,Argentina,239
+448,Colon Santa Fe,COL,Argentina,239
+449,Banfield,BAN,Argentina,239
+450,Estudiantes L.P.,EST,Argentina,239
+451,Boca Juniors,BOC,Argentina,239
+452,Tigre,TIG,Argentina,239
+453,Independiente,IND,Argentina,239
+454,Temperley,TEM,Argentina,239
+455,Atletico Tucuman,TUC,Argentina,239
+456,Talleres Cordoba,TAL,Argentina,239
+457,Newells Old Boys,NEW,Argentina,239
+458,Argentinos JRS,ARG,Argentina,239
+459,Arsenal Sarandi,ARS,Argentina,239
+460,San Lorenzo,LOR,Argentina,239
+461,San Martin S.J.,MAR,Argentina,239
+463,Aldosivi,ALD,Argentina,239
+464,All Boys,BOY,Argentina,239
+465,Atletico DE Rafaela,RAF,Argentina,239
+466,Atletico Mitre,,Argentina,239
+468,Brown DE Adrogue,BRO,Argentina,239
+469,Deportivo Moron,DEP,Argentina,239
+470,Ferro Carril Oeste,FER,Argentina,239
+472,Guillermo Brown,GUI,Argentina,239
+473,Independ. Rivadavia,RIV,Argentina,239
+474,Sarmiento Junin,SAR,Argentina,239
+475,Santamarina,SAN,Argentina,239
+476,Deportivo Riestra,RIE,Argentina,239
+478,Instituto Cordoba,INS,Argentina,239
+480,Quilmes,QUI,Argentina,239
+482,Almagro,ALM,Argentina,239
+484,Nueva Chicago,NUE,Argentina,239
+790,Central Cordoba,CEN,Argentina,239
+1066,Gimnasia M.,,Argentina,239
+1067,Defensores De Belgrano,DEF,Argentina,239
+1925,Union Aconquija,,Argentina,239
+1928,Gimnasia Y Tiro,GIM,Argentina,239
+1929,Deportivo Madryn,,Argentina,239
+1930,Sansinena,,Argentina,239
+1931,Sportivo Barracas,BAR,Argentina,239
+1934,Union Sunchales,,Argentina,239
+1935,San Martin Formosa,,Argentina,239
+1936,CA Estudiantes,EST,Argentina,239
+1937,Atletico Atlas,,Argentina,239
+1940,Leandro N. Alem,ALE,Argentina,239
+1941,Sol de Mayo,,Argentina,239
+1942,Sacachispas,SAC,Argentina,239
+1943,Atletico Camioneros,,Argentina,239
+1945,Defensores Unidos,UNI,Argentina,239
+1946,Chaco For Ever,CHA,Argentina,239
+1947,Canuelas,CAN,Argentina,239
+1948,Atlanta,ATL,Argentina,239
+1949,Cipolletti,CIP,Argentina,239
+1950,Sportivo Las Parejas,,Argentina,239
+1951,Central Norte,CEN,Argentina,239
+1952,Pacifico,PAC,Argentina,239
+1953,Sarmiento Resistencia,,Argentina,239
+1960,Independiente De Chivilcoy,,Argentina,239
+1962,Alvarado,ALV,Argentina,239
+2424,Estudiantes de Rio Cuarto,,Argentina,239
+2426,Defensores de Belgrano VR,,Argentina,239
+2428,Huracan Las Heras,,Argentina,239
+3941,AH Zapla,,Argentina,239
+3953,Deportivo Achirense,,Argentina,239
+3960,Sportivo Peñarol,,Argentina,239
+3961,Unión Villa Krause,,Argentina,239
+3962,Almirante Brown de Lules,,Argentina,239
+3963,Argentinos 25 de Mayo,,Argentina,239
+3964,Atlético Colón Junior,,Argentina,239
+3965,Atlético Laguna Blanca,,Argentina,239
+3966,Belgrano Paraná,,Argentina,239
+3967,Belgrano San Nicolás,,Argentina,239
+3968,Ben Hur,,Argentina,239
+3969,Club Atlético Güemes,,Argentina,239
+3970,Comercio Central Unidos,,Argentina,239
+3971,Ferroviario Corrientes,,Argentina,239
+3972,Germinal de Rawson,,Argentina,239
+3973,Huracán de Comodoro,CAI,Argentina,239
+3974,Jorge Newbery CR,,Argentina,239
+3975,Kimberley Mar del Plata,,Argentina,239
+3976,Sportivo Barracas Colón,,Argentina,239
+3977,Talleres de Perico,,Argentina,239
+3978,Textil Mandiyú,,Argentina,239
+3979,Tiro Federal,TIR,Argentina,239
+3980,Tiro Federal Morteros,,Argentina,239
+3981,Bella Vista,,Argentina,239
+267,Fylkir,FYL,Iceland,266
+269,Keflavik,KEF,Iceland,266
+829,Throttur Reykjavik,THR,Iceland,266
+2113,HK Kopavogur,KOP,Iceland,266
+2114,Leiknir R.,LEI,Iceland,266
+2115,Selfoss,SEL,Iceland,266
+2116,Thor Akureyri,THO,Iceland,266
+2117,Fram Reykjavik,FRA,Iceland,266
+2118,Haukar,HAU,Iceland,266
+2120,Leiknir F.,,Iceland,266
+2121,Grotta,GRO,Iceland,266
+2122,IR Reykjavik,,Iceland,266
+33,Manchester United,MUN,England,132
+40,Liverpool,LIV,England,132
+47,Tottenham,TOT,England,132
+50,Manchester City,MAC,England,132
+80,Lyon,LYO,France,132
+85,Paris Saint Germain,PAR,France,132
+91,Monaco,MON,France,132
+157,Bayern Munich,BAY,Germany,132
+165,Borussia Dortmund,DOR,Germany,132
+167,1899 Hoffenheim,HOF,Germany,132
+174,FC Schalke 04,SCH,Germany,132
+194,Ajax,AJA,Netherlands,132
+197,PSV Eindhoven,PSV,Netherlands,132
+211,Benfica,BEN,Portugal,132
+212,FC Porto,POR,Portugal,132
+247,Celtic,CEL,Scotland,132
+274,Valur Reykjavik,VAL,Iceland,132
+331,Rosenborg,ROS,Norway,132
+339,Legia Warszawa,LEG,Poland,132
+354,The New Saints,TNS,Wales,132
+375,Malmo FF,MAL,Sweden,132
+388,Bate Borisov,BAT,Belarus,132
+397,FC Midtjylland,MID,Denmark,132
+492,Napoli,NAP,Italy,132
+496,Juventus,JUV,Italy,132
+497,AS Roma,ROM,Italy,132
+505,Inter,INT,Italy,132
+529,Barcelona,BAR,Spain,132
+530,Atletico Madrid,MAD,Spain,132
+532,Valencia,VAL,Spain,132
+541,Real Madrid,REA,Spain,132
+550,Shakhtar Donetsk,SHA,Ukraine,132
+551,FC Basel 1893,BAS,Switzerland,132
+555,CSKA Moscow,CSK,Russia,132
+556,Qarabag,KAR,Azerbaidjan,132
+558,Spartak Moscow,SPA,Russia,132
+560,Slavia Praha,SLA,Czech-Republic,132
+562,FC Astana,AST,Kazakhstan,132
+563,Hapoel Beer Sheva,HAP,Israel,132
+565,BSC Young Boys,YOU,Switzerland,132
+566,Ludogorets,LUD,Bulgaria,132
+567,Plzen,PLZ,Czech-Republic,132
+568,Sheriff Tiraspol,SHE,Moldova,132
+569,Club Brugge KV,CLU,Belgium,132
+571,Red Bull Salzburg,SAL,Austria,132
+572,Dynamo Kyiv,DIN,Ukraine,132
+575,AEK Athens FC,AEK,Greece,132
+577,FK Kukesi,KUK,Albania,132
+578,F91 Dudelange,,Luxembourg,132
+580,Vikingur Gota,,Faroe-Islands,132
+582,Alashkert,ALA,Armenia,132
+588,Zrinjski,ZRI,Bosnia,132
+589,Spartaks Jurmala,SPA,Latvia,132
+591,FC Santa Coloma,SAN,Andorra,132
+597,Lokomotiv Moscow,LOK,Russia,132
+598,FK Crvena Zvezda,CRV,Serbia,132
+609,Shkendija,SKE,Macedonia,132
+610,Videoton FC,VID,Hungary,132
+611,Fenerbahce,FEN,Turkey,132
+612,Suduva Marijampole,SUD,Lithuania,132
+619,PAOK,PAO,Greece,132
+620,Dinamo Zagreb,ZAG,Croatia,132
+637,Sturm Graz,STU,Austria,132
+645,Galatasaray,GAL,Turkey,132
+649,HJK helsinki,HJK,Finland,132
+653,Cork City,COR,Ireland,132
+659,Valletta FC,VAL,Malta,132
+667,Lincoln Red Imps FC,LIN,Gibraltar,132
+673,Sutjeska,SUT,Montenegro,132
+677,Olimpija Ljubljana,LJU,Slovenia,132
+685,Torpedo Kutaisi,TOR,Georgia,132
+687,Flora Tallinn,FLO,Estonia,132
+697,Crusaders FC,CRU,Northern-Ireland,132
+733,Standard Liege,STA,Belgium,132
+1120,Spartak Trnava,TRN,Slovakia,132
+2246,CFR 1907 Cluj,CLU,Romania,132
+2247,Apoel Nicosia,APO,Cyprus,132
+2248,Drita,DRI,Macedonia,132
+2249,La Fiorita,FIO,San-Marino,132
+4178,Giza / Hoyvík,,Faroe-Islands,549
+4179,HB II,,Faroe-Islands,549
+4180,KÍ II,,Faroe-Islands,549
+4181,NSÍ II,,Faroe-Islands,549
+4182,Suduroy,,Faroe-Islands,549
+4183,Víkingur II,,Faroe-Islands,549
+4184,AB,,Faroe-Islands,549
+4185,B36 II,,Faroe-Islands,549
+4186,B68,,Faroe-Islands,549
+4187,ÍF II,,Faroe-Islands,549
+5196,Buildcon,,Zambia,833
+5198,Forest Rangers,,Zambia,833
+5199,Green Buffaloes,BUF,Zambia,833
+5200,Green Eagles,,Zambia,833
+5201,Kabwe Warriors,,Zambia,833
+5203,Lumwana Radiants,,Zambia,833
+5204,Lusaka Dynamos,,Zambia,833
+5206,Mufulira Wanderers,,Zambia,833
+5207,NAPSA Stars,,Zambia,833
+5208,Nakambala Leopards,,Zambia,833
+5209,Nkana,NKA,Zambia,833
+5210,Nkwazi,,Zambia,833
+5211,Power Dynamos,,Zambia,833
+5213,Red Arrows,,Zambia,833
+5214,ZESCO United,,Zambia,833
+5215,Zanaco,,Zambia,833
+5511,Nchanga Rangers,,Zambia,833
+5513,City of Lusaka,,Zambia,833
+5514,Konkola Blades,,Zambia,833
+5515,Real Nakonde,,Zambia,833
+3764,APIA Leichhardt Tigers,API,Australia,482
+3765,Blacktown City,BLA,Australia,482
+3766,Hakoah Sydney City,,Australia,482
+3767,Manly United,MAN,Australia,482
+3768,Marconi Stallions,MAR,Australia,482
+3769,Mt Druitt Town,,Australia,482
+3770,Rockdale City Suns,ROC,Australia,482
+3771,Sutherland Sharks,SUT,Australia,482
+3773,Sydney II,,Australia,482
+3774,Sydney Olympic,SYD,Australia,482
+3776,Sydney United,SYD,Australia,482
+3777,Wollongong Wolves,,Australia,482
+247,Celtic,CEL,Scotland,736
+248,Hamilton Academical,HAM,Scotland,736
+250,Kilmarnock,KIL,Scotland,736
+252,Aberdeen,ABE,Scotland,736
+253,Dundee,DUN,Scotland,736
+254,Heart OF Midlothian,HEA,Scotland,736
+256,Motherwell,MOT,Scotland,736
+258,ST Johnstone,JOH,Scotland,736
+901,Partick,PAR,Scotland,736
+902,Ross County,ROS,Scotland,736
+903,Inverness CT,INV,Scotland,736
+1386,Dundee Utd,DUN,Scotland,736
+1968,Sydney FC W,,Australia,241
+1969,Perth Glory FC W,,Australia,241
+1970,Canberra United W,,Australia,241
+1971,Melbourne City W,,Australia,241
+1972,Adelaide United W,,Australia,241
+1973,Brisbane Roar FC W,,Australia,241
+1974,Western Sydney Wanderers W,,Australia,241
+1975,Newcastle Jets FC W,,Australia,241
+1976,Melbourne Victory W,,Australia,241
+2627,Bezanija,ANI,Serbia,366
+2628,Buducnost Dobanovci,,Serbia,366
+2629,CSK Pivara,,Serbia,366
+2630,Dinamo Vranje,,Serbia,366
+2631,Indjija,IND,Serbia,366
+2632,Jagodina,JAG,Serbia,366
+2633,OFK Beograd,BEO,Serbia,366
+2634,Sindjelic Beograd,,Serbia,366
+2635,BSK Borca,BOR,Serbia,366
+2636,Kolubara,KOL,Serbia,366
+2637,Macva,,Serbia,366
+2638,Odzaci,,Serbia,366
+2639,Proleter Novi SAD,,Serbia,366
+2640,Radnicki Pirot,,Serbia,366
+2641,Sloboda Uzice,,Serbia,366
+2642,Zemun,,Serbia,366
+2627,Bezanija,ANI,Serbia,367
+2628,Buducnost Dobanovci,,Serbia,367
+2629,CSK Pivara,,Serbia,367
+2630,Dinamo Vranje,,Serbia,367
+2631,Indjija,IND,Serbia,367
+2632,Jagodina,JAG,Serbia,367
+2634,Sindjelic Beograd,,Serbia,367
+2639,Proleter Novi SAD,,Serbia,367
+2640,Radnicki Pirot,,Serbia,367
+2641,Sloboda Uzice,,Serbia,367
+2643,Novi Pazar,NOV,Serbia,367
+2644,Radnicki 1923,RAD,Serbia,367
+2645,Teleoptik,TEL,Serbia,367
+2646,TSC Backa Topola,,Serbia,367
+2647,Metalac GM,MET,Serbia,367
+2648,Temnic 1924,,Serbia,367
+434,Gimnasia L.P.,GIM,Argentina,240
+435,River Plate,RIV,Argentina,240
+436,Racing Club,RAC,Argentina,240
+437,Rosario Central,ROS,Argentina,240
+438,Velez Sarsfield,VEL,Argentina,240
+439,Godoy Cruz,GOD,Argentina,240
+440,Belgrano Cordoba,BEL,Argentina,240
+441,Union Santa Fe,UNI,Argentina,240
+442,Defensa Y Justicia,DEF,Argentina,240
+443,Olimpo Bahia Blanca,OLI,Argentina,240
+444,Patronato,PAT,Argentina,240
+445,Huracan,HUR,Argentina,240
+446,Lanus,LAN,Argentina,240
+447,Chacarita Juniors,CHA,Argentina,240
+448,Colon Santa Fe,COL,Argentina,240
+449,Banfield,BAN,Argentina,240
+450,Estudiantes L.P.,EST,Argentina,240
+451,Boca Juniors,BOC,Argentina,240
+452,Tigre,TIG,Argentina,240
+453,Independiente,IND,Argentina,240
+454,Temperley,TEM,Argentina,240
+455,Atletico Tucuman,TUC,Argentina,240
+456,Talleres Cordoba,TAL,Argentina,240
+457,Newells Old Boys,NEW,Argentina,240
+458,Argentinos JRS,ARG,Argentina,240
+459,Arsenal Sarandi,ARS,Argentina,240
+460,San Lorenzo,LOR,Argentina,240
+461,San Martin S.J.,MAR,Argentina,240
+462,Agropecuario,,Argentina,240
+463,Aldosivi,ALD,Argentina,240
+465,Atletico DE Rafaela,RAF,Argentina,240
+466,Atletico Mitre,,Argentina,240
+468,Brown DE Adrogue,BRO,Argentina,240
+469,Deportivo Moron,DEP,Argentina,240
+472,Guillermo Brown,GUI,Argentina,240
+479,Gimnasia Jujuy,GIM,Argentina,240
+481,Villa Dalmine,DAL,Argentina,240
+482,Almagro,ALM,Argentina,240
+485,San Martin Tucuman,MAR,Argentina,240
+788,Crucero Del Norte,CRU,Argentina,240
+789,Douglas Haig,DOU,Argentina,240
+790,Central Cordoba,CEN,Argentina,240
+1061,CDJU Gualeguaychu,JUV,Argentina,240
+1064,Platense,PLA,Argentina,240
+1066,Gimnasia M.,,Argentina,240
+1067,Defensores De Belgrano,DEF,Argentina,240
+1928,Gimnasia Y Tiro,GIM,Argentina,240
+1930,Sansinena,,Argentina,240
+1934,Union Sunchales,,Argentina,240
+1935,San Martin Formosa,,Argentina,240
+1936,CA Estudiantes,EST,Argentina,240
+1938,Villa Mitre,,Argentina,240
+1941,Sol de Mayo,,Argentina,240
+1945,Defensores Unidos,UNI,Argentina,240
+1946,Chaco For Ever,CHA,Argentina,240
+1949,Cipolletti,CIP,Argentina,240
+1950,Sportivo Las Parejas,,Argentina,240
+1951,Central Norte,CEN,Argentina,240
+1953,Sarmiento Resistencia,,Argentina,240
+1954,Deportivo Maipu,DEP,Argentina,240
+1955,General Lamadrid,LAM,Argentina,240
+1956,UAI Urquiza,UAI,Argentina,240
+1957,Racing Cordoba,RAC,Argentina,240
+1958,Lujan,LUJ,Argentina,240
+1959,Deportivo Rincon,,Argentina,240
+1960,Independiente De Chivilcoy,,Argentina,240
+1961,Juventud Antoniana,ANT,Argentina,240
+1962,Alvarado,ALV,Argentina,240
+1963,Midland,MID,Argentina,240
+1964,Victoriano Arenas,VIC,Argentina,240
+1965,Tristan Suarez,TRI,Argentina,240
+1966,Sportivo Belgrano,SPO,Argentina,240
+1967,Central Ballester,CEN,Argentina,240
+2423,Deportivo Roca,,Argentina,240
+2424,Estudiantes de Rio Cuarto,,Argentina,240
+2426,Defensores de Belgrano VR,,Argentina,240
+2428,Huracan Las Heras,,Argentina,240
+3941,AH Zapla,,Argentina,240
+3942,Def. de Pronunciamiento,,Argentina,240
+3943,Deportivo Camioneros,,Argentina,240
+3944,Ferro Carril Oeste LP,,Argentina,240
+3945,Gimnasia Concepción,GER,Argentina,240
+3946,Independiente Neuquén,,Argentina,240
+3947,Juventud Unida Univ.,JUV,Argentina,240
+3948,San Jorge Tucumán,,Argentina,240
+3949,San Lorenzo Alem,,Argentina,240
+3950,Sportivo Desamparados,,Argentina,240
+3951,Atletico Pellegrini,,Argentina,240
+3952,Atlético San Jorge,SJT,Argentina,240
+3953,Deportivo Achirense,,Argentina,240
+3954,Ferro Carril Sud,,Argentina,240
+3955,Huracán San Rafael,,Argentina,240
+3956,Racing Olavarría,RAC,Argentina,240
+3957,Rivadavia Lincoln,,Argentina,240
+3958,Sarmiento Leones,,Argentina,240
+3959,Sportivo Patria,,Argentina,240
+3960,Sportivo Peñarol,,Argentina,240
+3961,Unión Villa Krause,,Argentina,240
+3982,Sol de América,AME,Argentina,240
+1471,Dugopolje,,Croatia,191
+1472,Hrvatski Dragovoljac,HRV,Croatia,191
+1475,Sibenik,,Croatia,191
+1476,Dinamo Zagreb II,,Croatia,191
+1477,Lucko,LUC,Croatia,191
+1479,Sesvete,,Croatia,191
+1480,Solin,,Croatia,191
+1481,Kustosija,,Croatia,191
+1482,HNK Hajduk Split II,,Croatia,191
+1483,NK Varazdin,,Croatia,191
+1484,NK Zadar,ZAD,Croatia,191
+1485,Medjimurje Cakovec,MED,Croatia,191
+1486,NK Osijek II,,Croatia,191
+1487,Bsk Bijelo Brdo,,Croatia,191
+5218,CAPS United,,Zimbabwe,837
+5219,Chapungu United,,Zimbabwe,837
+5220,Chicken Inn,,Zimbabwe,837
+5221,Dynamos,,Zimbabwe,837
+5222,Harare City,,Zimbabwe,837
+5224,Highlanders,,Zimbabwe,837
+5225,Hwange,,Zimbabwe,837
+5226,Kariba,,Zimbabwe,837
+5229,Ngezi Platinum,,Zimbabwe,837
+5230,Platinum,,Zimbabwe,837
+5232,Triangle United,,Zimbabwe,837
+5518,Bulawayo City,,Zimbabwe,837
+5519,Mutare City,,Zimbabwe,837
+5523,How Mine,,Zimbabwe,837
+5524,Tsholotsho,,Zimbabwe,837
+5525,Border Strikers,,Zimbabwe,837
+13,Senegal,SEN,Senegal,194
+19,Nigeria,NIG,Nigeria,194
+28,Tunisia,TUN,Tunisia,194
+31,Morocco,MOR,Morocco,194
+32,Egypt,EGY,Egypt,194
+1488,Swaziland,SWA,Swaziland,194
+1489,Tanzania,TAN,Tanzania,194
+1490,Madagascar,MAD,Madagascar,194
+1491,Mauritania,MAU,Mauritania,194
+1492,Gambia,GAM,Gambia,194
+1493,Namibia,NAM,Namibia,194
+1494,Sao Tome and Principe,PRN,São Tomé e Príncipe,194
+1495,Malawi,MAL,Malawi,194
+1496,South Sudan,SSU,Sudan,194
+1497,Mauritius,MAU,Mauritius,194
+1499,Sierra Leone,SIE,Sierra Leone,194
+1500,Mali,MAL,Mali,194
+1501,Ivory Coast,IVO,Côte d'Ivoire,194
+1502,Burkina Faso,BUR,Burkina-Faso,194
+1503,Gabon,GAB,Gabon,194
+1504,Ghana,GHA,Ghana,194
+1505,Niger,NIG,Niger,194
+1506,Ethiopia,ETH,Ethiopia,194
+1507,Zambia,ZAM,Zambia,194
+1508,Congo DR,CON,Congo-DR,194
+1509,Guinea,GUI,Guinea,194
+1510,Sudan,SUD,Sudan,194
+1511,Kenya,KEN,Kenya,194
+1512,Mozambique,MOZ,Mozambique,194
+1513,Guinea-Bissau,GUI,Guinea-Bissau,194
+1514,Rwanda,RWA,Rwanda,194
+1515,Seychelles,SEY,Seychelles,194
+1516,Benin,BEN,Benin,194
+1517,Congo,CON,Congo,194
+1518,Lesotho,LES,Lesotho,194
+1519,Uganda,UGA,Uganda,194
+1520,Botswana,BOT,Botswana,194
+1521,Equatorial Guinea,EQU,Equatorial Guinea,194
+1522,Zimbabwe,ZIM,Zimbabwe,194
+1524,Comoros,COM,Comoros,194
+1525,Liberia,LIB,Liberia,194
+1526,Libya,LIB,Libya,194
+1527,Central African Republic,CEN,Central African Republic,194
+1528,Burundi,BUR,Burundi,194
+1529,Angola,ANG,Angola,194
+1530,Cameroon,CAM,Cameroon,194
+1531,South Africa,SOU,South-Africa,194
+1532,Algeria,ALG,Algeria,194
+1533,Cape Verde Islands,CAP,Cape-Verde-Islands,194
+1534,Togo,TOG,Togo,194
+1535,Djibouti,,Djibouti,194
+2995,Eswatini,,Eswatini,194
+5198,Forest Rangers,,Zambia,834
+5199,Green Buffaloes,BUF,Zambia,834
+5200,Green Eagles,,Zambia,834
+5201,Kabwe Warriors,,Zambia,834
+5203,Lumwana Radiants,,Zambia,834
+5204,Lusaka Dynamos,,Zambia,834
+5206,Mufulira Wanderers,,Zambia,834
+5207,NAPSA Stars,,Zambia,834
+5208,Nakambala Leopards,,Zambia,834
+5209,Nkana,NKA,Zambia,834
+5210,Nkwazi,,Zambia,834
+5211,Power Dynamos,,Zambia,834
+5213,Red Arrows,,Zambia,834
+5214,ZESCO United,,Zambia,834
+5215,Zanaco,,Zambia,834
+5511,Nchanga Rangers,,Zambia,834
+5516,Lusaka Tigers,,Zambia,834
+5517,Mufulira Blackpool,,Zambia,834
+1,Belgium,BEL,Belgium,839
+2,France,FRA,France,839
+3,Croatia,CRO,Croatia,839
+4,Russia,RUS,Russia,839
+5,Sweden,SWE,Sweden,839
+6,Brazil,BRA,Brazil,839
+7,Uruguay,URU,Uruguay,839
+8,Colombia,COL,Colombia,839
+9,Spain,SPA,Spain,839
+10,England,ENG,England,839
+11,Panama,PAN,Panama,839
+12,Japan,JAP,Japan,839
+13,Senegal,SEN,Senegal,839
+14,Serbia,SER,Serbia,839
+15,Switzerland,SWI,Switzerland,839
+16,Mexico,MEX,Mexico,839
+17,South Korea,SOU,South-Korea,839
+18,Iceland,ICE,Iceland,839
+19,Nigeria,NIG,Nigeria,839
+20,Australia,AUS,Australia,839
+21,Denmark,DEN,Denmark,839
+22,Iran,IRA,Iran,839
+23,Saudi Arabia,SAU,Saudi-Arabia,839
+24,Poland,POL,Poland,839
+25,Germany,GER,Germany,839
+26,Argentina,ARG,Argentina,839
+27,Portugal,POR,Portugal,839
+28,Tunisia,TUN,Tunisia,839
+29,Costa Rica,COS,Costa-Rica,839
+30,Peru,PER,Peru,839
+31,Morocco,MOR,Morocco,839
+32,Egypt,EGY,Egypt,839
+767,Wales,WAL,Wales,839
+768,Italy,ITA,Italy,839
+769,Hungary,HUN,Hungary,839
+770,Czech Republic,CZE,Czech-Republic,839
+771,Northern Ireland,,Northern-Ireland,839
+772,Ukraine,UKR,Ukraine,839
+773,Slovakia,SLO,Slovakia,839
+774,Romania,ROM,Romania,839
+775,Austria,AUS,Austria,839
+776,Rep. Of Ireland,IRE,Ireland,839
+777,Turkey,TUR,Turkey,839
+778,Albania,ALB,Albania,839
+1090,Norway,NOR,Norway,839
+1091,Slovenia,SLO,Slovenia,839
+1092,Latvia,LAT,Latvia,839
+1094,Armenia,ARM,Armenia,839
+1095,Kazakhstan,KAZ,Kazakhstan,839
+1096,Azerbaijan,,Azerbaidjan,839
+1097,Lithuania,LIT,Lithuania,839
+1099,Finland,FIN,Finland,839
+1100,Belarus,,Belarus,839
+1101,Estonia,EST,Estonia,839
+1102,Luxembourg,,Luxembourg,839
+1103,Bulgaria,BUL,Bulgaria,839
+1104,Georgia,GEO,Georgia,839
+1105,FYR Macedonia,MAC,Macedonia,839
+1106,Cyprus,,Cyprus,839
+1107,Liechtenstein,,Liechtenstein,839
+1108,Scotland,SCO,Scotland,839
+1109,Montenegro,MON,Montenegro,839
+1110,Andorra,AND,Andorra,839
+1111,Kosovo,SOV,Kosovo,839
+1112,Malta,MAL,Malta,839
+1113,Bosnia & Herzegovina,BOS,Bosnia,839
+1114,Moldova,MOL,Moldova,839
+1115,San Marino,,San-Marino,839
+1116,Israel,,Israel,839
+1118,Netherlands,NET,Netherlands,839
+1489,Tanzania,TAN,Tanzania,839
+1490,Madagascar,MAD,Madagascar,839
+1491,Mauritania,MAU,Mauritania,839
+1492,Gambia,GAM,Gambia,839
+1493,Namibia,NAM,Namibia,839
+1495,Malawi,MAL,Malawi,839
+1497,Mauritius,MAU,Mauritius,839
+1499,Sierra Leone,SIE,Sierra Leone,839
+1500,Mali,MAL,Mali,839
+1501,Ivory Coast,IVO,Côte d'Ivoire,839
+1502,Burkina Faso,BUR,Burkina-Faso,839
+1503,Gabon,GAB,Gabon,839
+1504,Ghana,GHA,Ghana,839
+1505,Niger,NIG,Niger,839
+1506,Ethiopia,ETH,Ethiopia,839
+1507,Zambia,ZAM,Zambia,839
+1508,Congo DR,CON,Congo-DR,839
+1509,Guinea,GUI,Guinea,839
+1510,Sudan,SUD,Sudan,839
+1511,Kenya,KEN,Kenya,839
+1512,Mozambique,MOZ,Mozambique,839
+1513,Guinea-Bissau,GUI,Guinea-Bissau,839
+1514,Rwanda,RWA,Rwanda,839
+1516,Benin,BEN,Benin,839
+1517,Congo,CON,Congo,839
+1518,Lesotho,LES,Lesotho,839
+1519,Uganda,UGA,Uganda,839
+1520,Botswana,BOT,Botswana,839
+1521,Equatorial Guinea,EQU,Equatorial Guinea,839
+1522,Zimbabwe,ZIM,Zimbabwe,839
+1524,Comoros,COM,Comoros,839
+1525,Liberia,LIB,Liberia,839
+1526,Libya,LIB,Libya,839
+1527,Central African Republic,CEN,Central African Republic,839
+1528,Burundi,BUR,Burundi,839
+1529,Angola,ANG,Angola,839
+1530,Cameroon,CAM,Cameroon,839
+1531,South Africa,SOU,South-Africa,839
+1532,Algeria,ALG,Algeria,839
+1533,Cape Verde Islands,CAP,Cape-Verde-Islands,839
+1534,Togo,TOG,Togo,839
+1535,Djibouti,,Djibouti,839
+1536,Tajikistan,,Tajikistan,839
+1537,India,IND,India,839
+1538,Malaysia,MAL,Malaysia,839
+1539,Turkmenistan,TUR,Turkmenistan,839
+1542,Vietnam,VIE,Vietnam,839
+1543,Cambodia,,Cambodia,839
+1545,Nepal,NEP,Nepal,839
+1546,Singapore,SIN,Singapore,839
+1547,Bahrain,BAH,Bahrain,839
+1548,Jordan,JOR,Jordan,839
+1549,Maldives,MAL,Maldives,839
+1550,Yemen,YEM,Yemen,839
+1551,Lebanon,LEB,Lebanon,839
+1552,Oman,OMA,Oman,839
+1553,Afghanistan,AFG,Afghanistan,839
+1554,Kyrgyzstan,KYR,Kyrgyzstan,839
+1555,Philippines,PHI,Philippines,839
+1556,Myanmar,MYA,Myanmar,839
+1557,Chinese Taipei,,Chinese-Taipei,839
+1558,Laos,LAO,Laos,839
+1561,North Korea,,North-Korea,839
+1562,Palestine,PAL,Palestine,839
+1563,United Arab Emirates,UAE,United-Arab-Emirates,839
+1564,Thailand,THA,Thailand,839
+1565,Syria,SYR,Syria,839
+1566,China,CHI,China,839
+1567,Iraq,IRA,Iraq,839
+1568,Uzbekistan,UZB,Uzbekistan,839
+1569,Qatar,QAT,Qatar,839
+1570,Kuwait,KUW,Kuwait,839
+1571,Indonesia,IND,Indonesia,839
+2379,Venezuela,VEN,Venezuela,839
+2380,Paraguay,PAR,Paraguay,839
+2381,Bolivia,BOL,Bolivia,839
+2382,Ecuador,ECU,Ecuador,839
+2383,Chile,CHI,Chile,839
+2384,USA,USA,USA,839
+2385,Jamaica,JAM,Jamaica,839
+2386,Haiti,HAI,Haiti,839
+4460,Hong Kong,HON,Hong-Kong,839
+4672,Honduras,HON,Honduras,839
+4673,New Zealand,ZEA,New-Zealand,839
+4767,Mação,,Portugal,839
+5158,Bermuda,,Bermuda,839
+5159,El Salvador,SAL,El-Salvador,839
+5160,Fiji,,Fiji,839
+5162,Guyana,,Guyana,839
+5163,New Caledonia,,New Caledonia,839
+5164,Nicaragua,,Nicaragua,839
+5165,Solomon Islands,,Solomon Islands,839
+5168,Trinidad and Tobago,TRI,Trinidad-And-Tobago,839
+5169,Turks and Caicos Islands,TUR,Turks and Caicos Islands,839
+5170,Vanuatu,,Vanuatu,839
+5527,Barbados,,Barbados,839
+5529,Canada,CAN,Canada,839
+5530,Curaçao,,Curaçao,839
+5531,Dominica,,Dominica,839
+5532,Dominican Republic,,Dominican-Republic,839
+5533,Grenada,,Grenada,839
+5534,Mongolia,,Mongolia,839
+5536,St. Kitts and Nevis,,St. Kitts and Nevis,839
+5537,Timor-Leste,,East Timor,839
+5538,Brunei,,Brunei-Darussalam,839
+5539,Puerto Rico,,Puerto-Rico,839
+5540,St. Lucia,,St. Lucia,839
+5541,St. Vincent / Grenadines,,St. Vincent and the Grenadines,839
+5542,Tonga,,Tonga,839
+588,Zrinjski,ZRI,Bosnia,595
+642,Siroki Brijeg,SIR,Bosnia,595
+654,Zeljeznicar Sarajevo,ZEL,Bosnia,595
+679,FK Sarajevo,SAR,Bosnia,595
+3356,GOŠK Gabela,,Bosnia,595
+3357,Krupa na Vrbasu,,Bosnia,595
+3358,Mladost Doboj Kakanj,,Bosnia,595
+3359,Radnik Bijeljina,RAD,Bosnia,595
+3360,Sloboda Tuzla,,Bosnia,595
+3363,Čelik,ZEN,Bosnia,595
+3364,Borac Banja Luka,BOR,Bosnia,595
+4288,Vitez,NKV,Bosnia,595
+381,Smolevichi-Sti,SMO,Belarus,592
+383,Torpedo Minsk,TAR,Belarus,592
+384,FC Dnepr Mogilev,DNE,Belarus,592
+389,FC Gomel,GOM,Belarus,592
+393,Fc Luch Minsk,LUC,Belarus,592
+3383,Baranovichi,BAR,Belarus,592
+3386,Khimik Svetlogorsk,CHI,Belarus,592
+3387,Lida,LID,Belarus,592
+3388,Lokomotiv Gomel,,Belarus,592
+3390,Orsha,,Belarus,592
+3392,Slonim,FCS,Belarus,592
+3393,Smorgon,SMO,Belarus,592
+4275,Oshmyany,,Belarus,592
+4276,Zorka-BDU,,Belarus,592
+588,Zrinjski,ZRI,Bosnia,593
+642,Siroki Brijeg,SIR,Bosnia,593
+654,Zeljeznicar Sarajevo,ZEL,Bosnia,593
+679,FK Sarajevo,SAR,Bosnia,593
+3356,GOŠK Gabela,,Bosnia,593
+3357,Krupa na Vrbasu,,Bosnia,593
+3358,Mladost Doboj Kakanj,,Bosnia,593
+3359,Radnik Bijeljina,RAD,Bosnia,593
+3360,Sloboda Tuzla,,Bosnia,593
+3361,Tuzla City,,Bosnia,593
+3362,Zvijezda 09,,Bosnia,593
+3363,Čelik,ZEN,Bosnia,593
+3364,Borac Banja Luka,BOR,Bosnia,593
+3365,Bosna Visoko,,Bosnia,593
+3369,Kozara Gradiška,,Bosnia,593
+3370,Leotar,LEO,Bosnia,593
+3371,Metalleghe-BSI Jajce,,Bosnia,593
+3377,Rudar Prijedor,RUD,Bosnia,593
+3378,Slavija,SLA,Bosnia,593
+3380,TOŠK Tešanj,,Bosnia,593
+3381,Velež,VEL,Bosnia,593
+4277,Azot Vitkovići,,Bosnia,593
+4278,Bratstvo Gračanica,BRA,Bosnia,593
+4279,FK Vitez,,Bosnia,593
+4280,Grude,GRU,Bosnia,593
+4281,Ljubić Prnjavor,,Bosnia,593
+4282,Olimpik Sarajevo,OLI,Bosnia,593
+4283,Slaven Živinice,,Bosnia,593
+4284,Sloga,,Bosnia,593
+4285,Sutjeska Foča,,Bosnia,593
+4286,Svatovac Poljice,,Bosnia,593
+4287,Tekstilac Derventa,,Bosnia,593
+4288,Vitez,NKV,Bosnia,593
+588,Zrinjski,ZRI,Bosnia,596
+642,Siroki Brijeg,SIR,Bosnia,596
+654,Zeljeznicar Sarajevo,ZEL,Bosnia,596
+679,FK Sarajevo,SAR,Bosnia,596
+3357,Krupa na Vrbasu,,Bosnia,596
+3358,Mladost Doboj Kakanj,,Bosnia,596
+3359,Radnik Bijeljina,RAD,Bosnia,596
+3360,Sloboda Tuzla,,Bosnia,596
+3363,Čelik,ZEN,Bosnia,596
+3371,Metalleghe-BSI Jajce,,Bosnia,596
+4282,Olimpik Sarajevo,OLI,Bosnia,596
+4288,Vitez,NKV,Bosnia,596
+588,Zrinjski,ZRI,Bosnia,594
+642,Siroki Brijeg,SIR,Bosnia,594
+654,Zeljeznicar Sarajevo,ZEL,Bosnia,594
+679,FK Sarajevo,SAR,Bosnia,594
+3356,GOŠK Gabela,,Bosnia,594
+3357,Krupa na Vrbasu,,Bosnia,594
+3358,Mladost Doboj Kakanj,,Bosnia,594
+3359,Radnik Bijeljina,RAD,Bosnia,594
+3360,Sloboda Tuzla,,Bosnia,594
+3363,Čelik,ZEN,Bosnia,594
+3364,Borac Banja Luka,BOR,Bosnia,594
+3366,Goražde,,Bosnia,594
+3369,Kozara Gradiška,,Bosnia,594
+3371,Metalleghe-BSI Jajce,,Bosnia,594
+3376,Rudar Kakanj,,Bosnia,594
+3377,Rudar Prijedor,RUD,Bosnia,594
+3378,Slavija,SLA,Bosnia,594
+3381,Velež,VEL,Bosnia,594
+3382,Zvijezda Gradačac,ZVI,Bosnia,594
+4278,Bratstvo Gračanica,BRA,Bosnia,594
+4282,Olimpik Sarajevo,OLI,Bosnia,594
+4288,Vitez,NKV,Bosnia,594
+4289,Bosna Sema,,Bosnia,594
+4290,Brotnjo,,Bosnia,594
+4291,Drina Zvornik,,Bosnia,594
+4292,Karanovac,,Bosnia,594
+4293,Orašje,,Bosnia,594
+4294,Podrinje Janja,,Bosnia,594
+4295,Radnički Lukavac,,Bosnia,594
+4296,Sloboda Novi Grad,,Bosnia,594
+4297,Travnik,TRA,Bosnia,594
+4298,Čapljina,,Bosnia,594
+4299,Alianza,,El-Salvador,597
+4300,Audaz,,El-Salvador,597
+4301,Chalatenango,,El-Salvador,597
+4302,FAS,FAS,El-Salvador,597
+4303,Firpo,LUI,El-Salvador,597
+4304,Isidro Metapán,MET,El-Salvador,597
+4305,Jocoro,,El-Salvador,597
+4306,Municipal Limeño,,El-Salvador,597
+4307,Pasaquina,,El-Salvador,597
+4308,Santa Tecla,SAN,El-Salvador,597
+4309,Sonsonate,,El-Salvador,597
+4310,Águila,AGU,El-Salvador,597
+5416,BDF XI,,Botswana,819
+5417,BR Highlanders,,Botswana,819
+5418,Black Forest,,Botswana,819
+5419,Centre Chiefs,,Botswana,819
+5420,Extension Gunners,,Botswana,819
+5421,Gaborone United,,Botswana,819
+5422,Galaxy,,Botswana,819
+5423,Miscellaneous,,Botswana,819
+5424,Notwane,,Botswana,819
+5425,Orapa United,,Botswana,819
+5426,Police XI,,Botswana,819
+5427,Prisons XI,,Botswana,819
+5428,Sankoyo Bush Bucks,,Botswana,819
+5429,Security Systems,,Botswana,819
+5430,Shooting Stars,,Botswana,819
+5431,Township Rollers,,Botswana,819
+487,Lazio,LAZ,Italy,713
+489,AC Milan,MIL,Italy,713
+490,Cagliari,CAG,Italy,713
+491,Chievo,CHI,Italy,713
+492,Napoli,NAP,Italy,713
+494,Udinese,UDI,Italy,713
+495,Genoa,GEN,Italy,713
+496,Juventus,JUV,Italy,713
+497,AS Roma,ROM,Italy,713
+498,Sampdoria,SAM,Italy,713
+500,Bologna,BOL,Italy,713
+502,Fiorentina,FIO,Italy,713
+505,Inter,INT,Italy,713
+508,Bari,BAR,Italy,713
+509,Cesena,CES,Italy,713
+518,Brescia,BRE,Italy,713
+522,Palermo,PAL,Italy,713
+523,Parma,PAR,Italy,713
+867,Lecce,LEC,Italy,713
+1580,Catania,CAT,Italy,713
+909,US Biskra,,Algeria,101
+912,Blida,,Algeria,101
+915,Paradou AC,,Algeria,101
+923,Amal BOU Saada,SAA,Algeria,101
+924,ASM Oran,,Algeria,101
+925,Bordj BOU Arreridj,BOR,Algeria,101
+926,El Eulma,EUL,Algeria,101
+927,GC Mascara,,Algeria,101
+929,AIN Fakroun,AIN,Algeria,101
+931,ASO Chlef,CHL,Algeria,101
+932,JSM Bejaia,BEJ,Algeria,101
+933,JSM Skikda,SAO,Algeria,101
+934,MC Saida,SAI,Algeria,101
+936,Khroub,,Algeria,101
+937,RC Arba,ARB,Algeria,101
+938,Wa Boufarik,,Algeria,101
+487,Lazio,LAZ,Italy,712
+489,AC Milan,MIL,Italy,712
+490,Cagliari,CAG,Italy,712
+491,Chievo,CHI,Italy,712
+492,Napoli,NAP,Italy,712
+494,Udinese,UDI,Italy,712
+495,Genoa,GEN,Italy,712
+496,Juventus,JUV,Italy,712
+497,AS Roma,ROM,Italy,712
+499,Atalanta,ATA,Italy,712
+500,Bologna,BOL,Italy,712
+502,Fiorentina,FIO,Italy,712
+505,Inter,INT,Italy,712
+509,Cesena,CES,Italy,712
+513,Novara,NOV,Italy,712
+522,Palermo,PAL,Italy,712
+523,Parma,PAR,Italy,712
+867,Lecce,LEC,Italy,712
+1580,Catania,CAT,Italy,712
+1583,Robur Siena,SIE,Italy,712
+1186,Independiente F.b.c.,,Paraguay,268
+1187,Sportivo Trinidense,,Paraguay,268
+1188,3 de Febrero,EST,Paraguay,268
+1189,Deportivo Santani,,Paraguay,268
+2125,Club Sp. San Lorenzo,,Paraguay,268
+2126,Deportivo Caaguazu,,Paraguay,268
+2127,Olimpia De Ita,,Paraguay,268
+2128,Ovetense FC,,Paraguay,268
+2129,Sport Colombia,,Paraguay,268
+2130,Fernando De La Mora,,Paraguay,268
+2131,Caacupe FBC,,Paraguay,268
+2132,Cristobal Colon,,Paraguay,268
+2133,Deportivo Liberacion,,Paraguay,268
+2134,Fulgencio Yegros,,Paraguay,268
+2135,Resistencia,,Paraguay,268
+2136,Sportivo Iteno,,Paraguay,268
+1968,Sydney FC W,,Australia,242
+1969,Perth Glory FC W,,Australia,242
+1970,Canberra United W,,Australia,242
+1971,Melbourne City W,,Australia,242
+1972,Adelaide United W,,Australia,242
+1973,Brisbane Roar FC W,,Australia,242
+1974,Western Sydney Wanderers W,,Australia,242
+1975,Newcastle Jets FC W,,Australia,242
+1976,Melbourne Victory W,,Australia,242
+750,Naftan,NAF,Belarus,590
+751,Slavia Mozyr,SLA,Belarus,590
+2433,FC Energetik-Bgu Minsk,ZVE,Belarus,590
+3383,Baranovichi,BAR,Belarus,590
+3384,Belshina,BEL,Belarus,590
+3385,Granit,,Belarus,590
+3386,Khimik Svetlogorsk,CHI,Belarus,590
+3387,Lida,LID,Belarus,590
+3388,Lokomotiv Gomel,,Belarus,590
+3390,Orsha,,Belarus,590
+3392,Slonim,FCS,Belarus,590
+3393,Smorgon,SMO,Belarus,590
+3395,Volna,VOL,Belarus,590
+4270,YuA-Stroy-DYuSSh,FKZ,Belarus,590
+4271,Čist́,,Belarus,590
+1151,Tecnico Universitario,,Ecuador,244
+1155,Macara,MAC,Ecuador,244
+1161,Clan Juvenil,,Ecuador,244
+1980,Manta FC,MAN,Ecuador,244
+1981,Deportivo Colon,,Ecuador,244
+1982,Deportivo Espoli,,Ecuador,244
+1983,Imbabura,,Ecuador,244
+1984,Deportivo Quito,QUI,Ecuador,244
+1985,CD Olmedo,OLM,Ecuador,244
+1986,Gualaceo SC,,Ecuador,244
+1987,LDU Loja,LOJ,Ecuador,244
+1988,LDU Portoviejo,,Ecuador,244
+577,FK Kukesi,KUK,Albania,497
+605,Skenderbeu Korce,SKE,Albania,497
+694,Tirana,TIR,Albania,497
+708,Partizani,PAR,Albania,497
+2256,Laci,LAC,Albania,497
+3317,Flamurtari,FLA,Albania,497
+3320,Teuta Durrës,TEU,Albania,497
+3325,Bylis,BYL,Albania,497
+3339,Vllaznia Shkodër,VLL,Albania,497
+3836,Tërbuni Pukë,,Albania,497
+1132,Chico,CHI,Colombia,293
+1143,Leones FC,RIO,Colombia,293
+1145,Tigres FC,EXP,Colombia,293
+1146,Cortulua,COR,Colombia,293
+1147,Fortaleza FC,,Colombia,293
+1458,Bogota FC,,Colombia,293
+1459,Real Cartagena,,Colombia,293
+1460,Popayan,UNI,Colombia,293
+1461,Quindio,QUI,Colombia,293
+1462,Deportivo Pereira,PER,Colombia,293
+1463,Real Santander,REA,Colombia,293
+1464,Llaneros,,Colombia,293
+1466,Barranquilla,BAR,Colombia,293
+1467,Valledupar,VAL,Colombia,293
+1468,Depor FC,,Colombia,293
+1469,Orsomarso,,Colombia,293
+660,FC Vaduz,VAD,Liechtenstein,278
+1015,Neuchatel Xamax FC,XAM,Switzerland,278
+2177,FC Aarau,AAR,Switzerland,278
+2179,FC WIL 1900,WIL,Switzerland,278
+2180,FC Winterthur,WIN,Switzerland,278
+2181,FC Chiasso,CHI,Switzerland,278
+2182,FC Schaffhausen,SCH,Switzerland,278
+2183,FC Wohlen,WOH,Switzerland,278
+2184,Servette FC,SER,Switzerland,278
+2185,Rapperswil,RAP,Switzerland,278
+5470,Bandits,,Belize,824
+5471,Belize Defence Force,,Belize,824
+5472,Freedom Fighters,,Belize,824
+5473,Placencia Assassins,,Belize,824
+5475,Verdes,,Belize,824
+5476,Wagiya,,Belize,824
+5477,Altitude,,Belize,824
+5478,San Pedro Pirates,,Belize,824
+579,Buducnost Podgorica,BUD,Montenegro,479
+643,FK Mladost Podgorica,MLA,Montenegro,479
+673,Sutjeska,SUT,Montenegro,479
+676,Zeta,ZET,Montenegro,479
+2258,Rudar Velenje,RUD,Montenegro,479
+3737,Grbalj,GRB,Montenegro,479
+3738,Iskra,,Montenegro,479
+3739,Lovćen,LOV,Montenegro,479
+3740,Mornar,MOR,Montenegro,479
+3741,Petrovac,PET,Montenegro,479
+2627,Bezanija,ANI,Serbia,368
+2628,Buducnost Dobanovci,,Serbia,368
+2631,Indjija,IND,Serbia,368
+2634,Sindjelic Beograd,,Serbia,368
+2641,Sloboda Uzice,,Serbia,368
+2643,Novi Pazar,NOV,Serbia,368
+2644,Radnicki 1923,RAD,Serbia,368
+2645,Teleoptik,TEL,Serbia,368
+2646,TSC Backa Topola,,Serbia,368
+2647,Metalac GM,MET,Serbia,368
+2649,Borac Cacak,BOR,Serbia,368
+2650,FK Becej,,Serbia,368
+2651,FK Trayal,,Serbia,368
+2652,FK Zlatibor,,Serbia,368
+2653,Javor,,Serbia,368
+2654,Zarkovo,,Serbia,368
+193,PEC Zwolle,ZWO,Netherlands,717
+194,Ajax,AJA,Netherlands,717
+195,Willem II,WIL,Netherlands,717
+196,Excelsior,EXC,Netherlands,717
+197,PSV Eindhoven,PSV,Netherlands,717
+198,ADO Den Haag,HAA,Netherlands,717
+199,De Graafschap,GRA,Netherlands,717
+200,Vitesse,VIT,Netherlands,717
+201,AZ Alkmaar,ALK,Netherlands,717
+202,Groningen,GRO,Netherlands,717
+206,Heracles,HER,Netherlands,717
+207,Utrecht,UTR,Netherlands,717
+209,Feyenoord,FEY,Netherlands,717
+210,Heerenveen,HEE,Netherlands,717
+413,NEC Nijmegen,NIJ,Netherlands,717
+414,Roda,ROD,Netherlands,717
+415,Twente,TWE,Netherlands,717
+420,Cambuur,CAM,Netherlands,717
+2769,Bangkok Glass,BAN,Thailand,389
+2770,Bangkok United,,Thailand,389
+2771,Chiangrai United,CHI,Thailand,389
+2772,Chonburi FC,CHO,Thailand,389
+2773,Nakhon Ratchasima FC,,Thailand,389
+2774,Navy FC,,Thailand,389
+2775,Police Tero,TER,Thailand,389
+2776,Ratchaburi,RAT,Thailand,389
+2777,Sisaket,SIS,Thailand,389
+2778,Bbcu,,Thailand,389
+2779,Army United,ARM,Thailand,389
+2780,Buriram United,BUR,Thailand,389
+2781,Chainat,CHA,Thailand,389
+2782,Pattaya United,,Thailand,389
+2783,Sukhothai FC,,Thailand,389
+2784,Super Power,OSO,Thailand,389
+2785,Suphanburi,SUP,Thailand,389
+2786,Muangthong United,MUA,Thailand,389
+5398,APEJES Academy,APE,Cameroon,818
+5399,Avion Academy,,Cameroon,818
+5400,Colombe,,Cameroon,818
+5401,Cotonsport,COT,Cameroon,818
+5402,Dragon de Yaoundé,,Cameroon,818
+5403,Eding Sport,,Cameroon,818
+5404,Feutcheu,,Cameroon,818
+5405,Fortuna Mfou,,Cameroon,818
+5406,Fovu Club,FOV,Cameroon,818
+5407,Les Astres,AST,Cameroon,818
+5408,New Star,NEW,Cameroon,818
+5409,PWD,,Cameroon,818
+5410,Stade Renard,,Cameroon,818
+5411,Tonnerre,,Benin,818
+5412,UMS de Loum,UMS,Cameroon,818
+5413,Union Douala,,Cameroon,818
+5414,Unisport Bafang,BAF,Cameroon,818
+5415,Young Sport Academy,YOU,Cameroon,818
+2278,Guadalajara Chivas,GUA,Mexico,299
+2279,Tigres UANL,UAN,Mexico,299
+2280,Club Tijuana,CLU,Mexico,299
+2281,Toluca,TOL,Mexico,299
+2282,Monterrey,MON,Mexico,299
+2283,Atlas,ATL,Mexico,299
+2284,Monarcas,MON,Mexico,299
+2285,Santos Laguna,SAN,Mexico,299
+2286,U.N.A.M. - Pumas,UNA,Mexico,299
+2287,Club America,CLU,Mexico,299
+2288,Necaxa,NEC,Mexico,299
+2289,Leon,CLU,Mexico,299
+2290,Club Queretaro,QUE,Mexico,299
+2291,Puebla,PUE,Mexico,299
+2292,Pachuca,PAC,Mexico,299
+2293,Jaguares de Chiapas,JAG,Mexico,299
+2294,Veracruz,VER,Mexico,299
+2295,Cruz Azul,CRU,Mexico,299
+267,Fylkir,FYL,Iceland,362
+268,IBV Vestmannaeyjar,VES,Iceland,362
+270,FH hafnarfjordur,HAF,Iceland,362
+271,KR Reykjavik,REY,Iceland,362
+272,KA Akureyri,AKU,Iceland,362
+274,Valur Reykjavik,VAL,Iceland,362
+275,Stjarnan,STJ,Iceland,362
+276,Breidablik,BRE,Iceland,362
+277,Grindavik,GRI,Iceland,362
+278,Vikingur Reykjavik,VIK,Iceland,362
+827,IA Akranes,AKR,Iceland,362
+2113,HK Kopavogur,KOP,Iceland,362
+2865,Al Ain,AIN,United-Arab-Emirates,915
+2869,Hatta SC,,United-Arab-Emirates,915
+2870,Shabab Al Ahli Dubai,AHL,United-Arab-Emirates,915
+2871,Al-Jazira,JAZ,United-Arab-Emirates,915
+2872,Al-Wasl FC,WAS,United-Arab-Emirates,915
+2873,Al-Dhafra,DHA,United-Arab-Emirates,915
+2874,Sharjah FC,SHA,United-Arab-Emirates,915
+2875,Al Wahda FC,WAH,United-Arab-Emirates,915
+2876,Al-Ittihad Kalba,ITT,United-Arab-Emirates,915
+2877,Baniyas SC,BAN,United-Arab-Emirates,915
+2879,Ajman,AJM,United-Arab-Emirates,915
+2880,Al Fujairah SC,FUJ,United-Arab-Emirates,915
+4912,Al Khaleej,KHA,United-Arab-Emirates,915
+10155,Al Nasr,NAS,United-Arab-Emirates,915
+211,Benfica,BEN,Portugal,725
+212,FC Porto,POR,Portugal,725
+214,Maritimo,MAR,Portugal,725
+215,Moreirense,MOR,Portugal,725
+217,SC Braga,BRA,Portugal,725
+219,Vitoria Setubal,SET,Portugal,725
+221,Belenenses,BEL,Portugal,725
+222,Boavista,,Portugal,725
+224,Guimaraes,GUI,Portugal,725
+225,Nacional,NAC,Portugal,725
+226,Rio Ave,RIO,Portugal,725
+228,Sporting CP,SPO,Portugal,725
+230,Estoril,EST,Portugal,725
+234,Pacos Ferreira,FER,Portugal,725
+235,Penafiel,PEN,Portugal,725
+239,Academica,ACA,Portugal,725
+240,Arouca,ARO,Portugal,725
+762,GIL Vicente,VIC,Portugal,725
+563,Hapoel Beer Sheva,HAP,Israel,640
+604,Maccabi Tel Aviv,MAC,Israel,640
+657,Beitar Jerusalem,BEI,Israel,640
+2253,Hapoel Haifa,HAP,Israel,640
+4195,Maccabi Haifa,MAC,Israel,640
+4481,Bnei Sakhnin,BNE,Israel,640
+4484,Hapoel Ashkelon,HAP,Israel,640
+4495,Maccabi Petah Tikva,MAC,Israel,640
+4497,Hapoel Kfar Saba,HAP,Israel,640
+4501,Hapoel Tel Aviv,HAP,Israel,640
+4507,Ashdod,MOA,Israel,640
+4508,Bnei Yehuda,BNE,Israel,640
+4509,Hapoel Ra'anana,HAP,Israel,640
+4510,Ironi Kiryat Shmona,SHM,Israel,640
+1151,Tecnico Universitario,,Ecuador,245
+1156,Aucas,,Ecuador,245
+1162,Mushuc Runa SC,MUS,Ecuador,245
+1980,Manta FC,MAN,Ecuador,245
+1981,Deportivo Colon,,Ecuador,245
+1983,Imbabura,,Ecuador,245
+1985,CD Olmedo,OLM,Ecuador,245
+1986,Gualaceo SC,,Ecuador,245
+1987,LDU Loja,LOJ,Ecuador,245
+1988,LDU Portoviejo,,Ecuador,245
+1990,America de Quito,,Ecuador,245
+10150,Santa Rita,,Angola,245
+1168,Turku PS,TPS,Finland,259
+1171,JJK,JJK,Finland,259
+2074,FC jazz,JAZ,Finland,259
+2075,FF Jaro,JAR,Finland,259
+2076,Kooteepee,KTP,Finland,259
+2077,AC oulu,OUL,Finland,259
+2078,EIF,EKE,Finland,259
+2079,GrIFK,GRI,Finland,259
+2080,haka,HAK,Finland,259
+2081,KPV Kokkola,KOK,Finland,259
+2702,Pars Jonoubi JAM,,Iran,376
+2710,Sepidrood Rasht,,Iran,376
+2730,Siah Jamegan,SIA,Iran,376
+2732,Naft Tehran,NAF,Iran,376
+2733,Esteghlal FC,EST,Iran,376
+2734,Foolad FC,FOO,Iran,376
+2735,Gostaresh,GOS,Iran,376
+2736,Saipa,SAI,Iran,376
+2737,Tractor Sazi,TER,Iran,376
+2738,ZOB Ahan,AHA,Iran,376
+2739,Esteghlal Khuzestan,EST,Iran,376
+2740,Padideh Khorasan,PAD,Iran,376
+2741,Paykan,PAY,Iran,376
+2742,Persepolis FC,PER,Iran,376
+2743,Sanat Naft,SAN,Iran,376
+2744,Sepahan FC,SEP,Iran,376
+1160,Fuerza Amarilla,,Ecuador,246
+1161,Clan Juvenil,,Ecuador,246
+1162,Mushuc Runa SC,MUS,Ecuador,246
+1980,Manta FC,MAN,Ecuador,246
+1985,CD Olmedo,OLM,Ecuador,246
+1986,Gualaceo SC,,Ecuador,246
+1987,LDU Loja,LOJ,Ecuador,246
+1988,LDU Portoviejo,,Ecuador,246
+1990,America de Quito,,Ecuador,246
+1991,Puerto Quito,,Ecuador,246
+1992,Orense SC,,Ecuador,246
+10150,Santa Rita,,Angola,246
+1086,FC Tosno,TOS,Russia,247
+1087,Ska-khabarovsk,ENE,Russia,247
+1088,Dinamo Moscow,DYN,Russia,247
+1089,Enisey,YEN,Russia,247
+1993,Fakel Voronezh,FAK,Russia,247
+1994,Khimki,KHI,Russia,247
+1995,FK Sokol Saratov,SOK,Russia,247
+1996,Kuban,KUB,Russia,247
+1997,Mordovia Saransk,MOR,Russia,247
+1998,Shinnik Yaroslavl,SHI,Russia,247
+1999,Sibir,SIB,Russia,247
+2000,Tyumen,TYU,Russia,247
+2001,FK Neftekhimik,NEF,Russia,247
+2002,Spartak Nalchik,SPA,Russia,247
+2003,Spartak Moscow 2,SPA,Russia,247
+2004,Volgar Astrakhan,VOL,Russia,247
+2005,Zenit 2,ZEN,Russia,247
+2006,Baltika,BAL,Russia,247
+2007,Luch-Energiya,LUC,Russia,247
+2008,Tambov,TAM,Russia,247
+1079,Krylya Sovetov,KRY,Russia,248
+1080,Orenburg,GAZ,Russia,248
+1081,TOM Tomsk,TOM,Russia,248
+1089,Enisey,YEN,Russia,248
+1993,Fakel Voronezh,FAK,Russia,248
+1994,Khimki,KHI,Russia,248
+1996,Kuban,KUB,Russia,248
+1998,Shinnik Yaroslavl,SHI,Russia,248
+1999,Sibir,SIB,Russia,248
+2000,Tyumen,TYU,Russia,248
+2003,Spartak Moscow 2,SPA,Russia,248
+2004,Volgar Astrakhan,VOL,Russia,248
+2005,Zenit 2,ZEN,Russia,248
+2006,Baltika,BAL,Russia,248
+2007,Luch-Energiya,LUC,Russia,248
+2008,Tambov,TAM,Russia,248
+2009,Avangard Kursk,AVA,Russia,248
+2010,Rotor Volgograd,ROT,Russia,248
+2011,Nizhny Novgorod,,Russia,248
+2012,PFC Sochi,,Russia,248
+1081,TOM Tomsk,TOM,Russia,249
+1087,Ska-khabarovsk,ENE,Russia,249
+1993,Fakel Voronezh,FAK,Russia,249
+1994,Khimki,KHI,Russia,249
+1997,Mordovia Saransk,MOR,Russia,249
+1998,Shinnik Yaroslavl,SHI,Russia,249
+1999,Sibir,SIB,Russia,249
+2000,Tyumen,TYU,Russia,249
+2003,Spartak Moscow 2,SPA,Russia,249
+2005,Zenit 2,ZEN,Russia,249
+2006,Baltika,BAL,Russia,249
+2007,Luch-Energiya,LUC,Russia,249
+2008,Tambov,TAM,Russia,249
+2009,Avangard Kursk,AVA,Russia,249
+2010,Rotor Volgograd,ROT,Russia,249
+2011,Nizhny Novgorod,,Russia,249
+2012,PFC Sochi,,Russia,249
+2013,FC Armavir,TOR,Russia,249
+2014,Chertanovo Moscow,,Russia,249
+2015,Krasnodar 2,,Russia,249
+2438,Arema FC,ARE,Indonesia,327
+2439,Persija Jakarta,PER,Indonesia,327
+2440,Persipura Jayapura,PER,Indonesia,327
+2441,PSM Makassar,PSM,Indonesia,327
+2442,Pusamania Borneo,,Indonesia,327
+2443,Bhayangkara FC,,Indonesia,327
+2444,Persepam Madura Utd,,Indonesia,327
+2445,Persib Bandung,PER,Indonesia,327
+2448,Bali United,SAM,Indonesia,327
+2449,PS TIRA,,Indonesia,327
+2450,Persela Lamongan,PER,Indonesia,327
+2452,Perseru Serui,PER,Indonesia,327
+2453,Barito Putera,BAR,Indonesia,327
+2454,Sriwijaya FC,SRI,Indonesia,327
+2455,Mitra Kukar,MIT,Indonesia,327
+2456,Semen Padang,SEM,Indonesia,327
+2457,Persiba Balikpapan,BAL,Indonesia,327
+2458,Gresik United,,Indonesia,327
+2438,Arema FC,ARE,Indonesia,326
+2439,Persija Jakarta,PER,Indonesia,326
+2440,Persipura Jayapura,PER,Indonesia,326
+2441,PSM Makassar,PSM,Indonesia,326
+2442,Pusamania Borneo,,Indonesia,326
+2443,Bhayangkara FC,,Indonesia,326
+2444,Persepam Madura Utd,,Indonesia,326
+2445,Persib Bandung,PER,Indonesia,326
+2446,Persebaya Surabaya,,Indonesia,326
+2447,PSMS Medan,,Indonesia,326
+2448,Bali United,SAM,Indonesia,326
+2449,PS TIRA,,Indonesia,326
+2450,Persela Lamongan,PER,Indonesia,326
+2451,PSIS Semarang,,Indonesia,326
+2452,Perseru Serui,PER,Indonesia,326
+2453,Barito Putera,BAR,Indonesia,326
+2454,Sriwijaya FC,SRI,Indonesia,326
+2455,Mitra Kukar,MIT,Indonesia,326
+2539,UTC,CAJ,Peru,344
+2540,Universitario,UNI,Peru,344
+2541,Cesar Vallejo,CES,Peru,344
+2542,Ayacucho FC,INT,Peru,344
+2543,Academia Cantolao,,Peru,344
+2544,Sport Boys,SPO,Peru,344
+2545,Deportivo Municipal,MUN,Peru,344
+2546,Sporting Cristal,SPO,Peru,344
+2547,Real Garcilaso,GAR,Peru,344
+2548,Alianza Universidad,ALI,Peru,344
+2549,U. San Martin,MAR,Peru,344
+2550,Deportivo Binacional,BIN,Peru,344
+2551,Carlos A. Mannucci,CAR,Peru,344
+2552,Union Comercio,,Peru,344
+2553,Alianza Lima,LIM,Peru,344
+2554,FBC Melgar,MEL,Peru,344
+2555,Sport Huancayo,SPO,Peru,344
+2556,Molinos El Pirata,,Peru,344
+2459,Posta Rangers FC,,Kenya,329
+2460,Bandari,,Kenya,329
+2461,Chemelil Sugar,,Kenya,329
+2462,Homeboyz,,Kenya,329
+2463,Mathare United,,Kenya,329
+2464,Nakumatt,,Kenya,329
+2465,Sony Sugar,,Kenya,329
+2466,Vihiga United FC,,Kenya,329
+2467,GOR Mahia,MAH,Kenya,329
+2468,Kariobangi Sharks,,Kenya,329
+2469,Nzoia Sugar,,Kenya,329
+2470,Sofapaka,,Kenya,329
+2472,AFC Leopards,,Kenya,329
+2473,Zoo Kericho,,Kenya,329
+2474,Ulinzi Stars,,Kenya,329
+2475,Tusker,,Kenya,329
+2478,Wazito FC,,Kenya,329
+2479,Thika United,,Kenya,329
+2680,Highlands Park FC,,South-Africa,369
+2683,Ajax Cape Town,AJA,South-Africa,369
+2688,Baroka FC,BAR,South-Africa,369
+2689,Free State Stars,FRE,South-Africa,369
+2690,Golden Arrows,GOL,South-Africa,369
+2691,Kaizer Chiefs,KAI,South-Africa,369
+2692,Maritzburg Utd,MAR,South-Africa,369
+2693,Polokwane City,POL,South-Africa,369
+2694,Supersport United,SUP,South-Africa,369
+2695,Bidvest Wits,BID,South-Africa,369
+2696,Bloem Celtic,BLO,South-Africa,369
+2697,Cape Town City,BLA,South-Africa,369
+2698,Chippa United,CHI,South-Africa,369
+2699,Mamelodi Sundowns,MAM,South-Africa,369
+2700,Orlando Pirates,ORL,South-Africa,369
+2701,Platinum Stars,PLA,South-Africa,369
+2459,Posta Rangers FC,,Kenya,328
+2460,Bandari,,Kenya,328
+2461,Chemelil Sugar,,Kenya,328
+2462,Homeboyz,,Kenya,328
+2463,Mathare United,,Kenya,328
+2464,Nakumatt,,Kenya,328
+2465,Sony Sugar,,Kenya,328
+2466,Vihiga United FC,,Kenya,328
+2467,GOR Mahia,MAH,Kenya,328
+2468,Kariobangi Sharks,,Kenya,328
+2469,Nzoia Sugar,,Kenya,328
+2470,Sofapaka,,Kenya,328
+2471,Western Stima,,Kenya,328
+2472,AFC Leopards,,Kenya,328
+2473,Zoo Kericho,,Kenya,328
+2474,Ulinzi Stars,,Kenya,328
+2475,Tusker,,Kenya,328
+2476,KCB,,Kenya,328
+939,Western Sydney Wanderers,WSW,Australia,103
+940,Perth Glory,PER,Australia,103
+941,Central Coast Mariners,CEN,Australia,103
+942,Wellington Phoenix,WEL,New-Zealand,103
+943,Sydney,SYD,Australia,103
+944,Melbourne Victory,MEL,Australia,103
+945,Melbourne City,MEL,Australia,103
+946,Newcastle Jets,NEW,Australia,103
+947,Brisbane Roar,BRI,Australia,103
+948,Adelaide United,ADE,Australia,103
+549,Besiktas,BES,Turkey,113
+564,Istanbul Basaksehir,IST,Turkey,113
+607,Konyaspor,KON,Turkey,113
+611,Fenerbahce,FEN,Turkey,113
+645,Galatasaray,GAL,Turkey,113
+780,Ankaraspor,ANK,Turkey,113
+995,Akhisar Belediye,AKH,Turkey,113
+996,Alanyaspor,ALA,Turkey,113
+997,Genclerbirligi,GEN,Turkey,113
+998,Trabzonspor,TRA,Turkey,113
+1000,Kardemir Karabukspor,KAR,Turkey,113
+1001,Kayserispor,KAY,Turkey,113
+1003,Bursaspor,BUR,Turkey,113
+1004,Kasimpasa,KAS,Turkey,113
+1005,Antalyaspor,ANT,Turkey,113
+1007,Rizespor,RIZ,Turkey,113
+1008,Gaziantepspor,GAZ,Turkey,113
+3564,Adanaspor,ADA,Turkey,113
+939,Western Sydney Wanderers,WSW,Australia,104
+940,Perth Glory,PER,Australia,104
+941,Central Coast Mariners,CEN,Australia,104
+942,Wellington Phoenix,WEL,New-Zealand,104
+943,Sydney,SYD,Australia,104
+944,Melbourne Victory,MEL,Australia,104
+945,Melbourne City,MEL,Australia,104
+946,Newcastle Jets,NEW,Australia,104
+947,Brisbane Roar,BRI,Australia,104
+948,Adelaide United,ADE,Australia,104
+549,Besiktas,BES,Turkey,114
+564,Istanbul Basaksehir,IST,Turkey,114
+607,Konyaspor,KON,Turkey,114
+611,Fenerbahce,FEN,Turkey,114
+645,Galatasaray,GAL,Turkey,114
+994,Goztepe,GOZ,Turkey,114
+995,Akhisar Belediye,AKH,Turkey,114
+996,Alanyaspor,ALA,Turkey,114
+998,Trabzonspor,TRA,Turkey,114
+999,Yeni Malatyaspor,MAL,Turkey,114
+1001,Kayserispor,KAY,Turkey,114
+1002,Sivasspor,SIV,Turkey,114
+1003,Bursaspor,BUR,Turkey,114
+1004,Kasimpasa,KAS,Turkey,114
+1005,Antalyaspor,ANT,Turkey,114
+1007,Rizespor,RIZ,Turkey,114
+1009,Erzurum BB,ERZ,Turkey,114
+1010,Ankaragucu,ANK,Turkey,114
+118,Bahia,BAH,Brazil,357
+119,Internacional,INT,Brazil,357
+120,Botafogo,BOT,Brazil,357
+121,Palmeiras,PAL,Brazil,357
+124,Fluminense,FLU,Brazil,357
+126,Sao Paulo,PAU,Brazil,357
+127,Flamengo,FLA,Brazil,357
+128,Santos,SAN,Brazil,357
+129,Ceara,CEA,Brazil,357
+130,Gremio,GRE,Brazil,357
+131,Corinthians,COR,Brazil,357
+132,Chapecoense-sc,CHA,Brazil,357
+133,Vasco DA Gama,VAS,Brazil,357
+134,Atletico Paranaense,ATL,Brazil,357
+135,Cruzeiro,CRU,Brazil,357
+145,Avai,AVA,Brazil,357
+150,CSA,CSA,Brazil,357
+151,Goias,GOI,Brazil,357
+154,Fortaleza EC,FOR,Brazil,357
+1062,Atletico-MG,ATL,Brazil,357
+1148,Emelec,EME,Ecuador,292
+1149,Delfin SC,,Ecuador,292
+1150,El Nacional,NAC,Ecuador,292
+1151,Tecnico Universitario,,Ecuador,292
+1152,Barcelona SC,BAR,Ecuador,292
+1153,Independiente del Valle,IND,Ecuador,292
+1154,Deportivo Cuenca,CUE,Ecuador,292
+1155,Macara,MAC,Ecuador,292
+1156,Aucas,,Ecuador,292
+1157,Universidad Catolica,,Ecuador,292
+1158,LDU de Quito,QUI,Ecuador,292
+1159,Guayaquil City FC,,Ecuador,292
+1160,Fuerza Amarilla,,Ecuador,292
+1162,Mushuc Runa SC,MUS,Ecuador,292
+1985,CD Olmedo,OLM,Ecuador,292
+1990,America de Quito,,Ecuador,292
+395,Vejle,VEJ,Denmark,257
+399,Vendsyssel FF,VEN,Denmark,257
+403,Esbjerg,ESB,Denmark,257
+2061,FC Fredericia,FRE,Denmark,257
+2063,HB Koge,,Denmark,257
+2064,Nykobing FC,NYK,Denmark,257
+2065,Fremad Amager,FRE,Denmark,257
+2067,Roskilde,ROS,Denmark,257
+2068,Skive,SKI,Denmark,257
+2069,Thisted FC,THI,Denmark,257
+2070,Viborg,VIB,Denmark,257
+2071,Brabrand,BRA,Denmark,257
+815,CS Herediano,HER,Costa-Rica,588
+816,Deportivo Saprissa,SAP,Costa-Rica,588
+817,Limon FC,LIM,Costa-Rica,588
+818,Municipal Grecia,,Costa-Rica,588
+819,Perez Zeledon,ZEL,Costa-Rica,588
+820,CS Cartagines,CAR,Costa-Rica,588
+821,Guadalupe FC,BEL,Costa-Rica,588
+822,LD Alajuelense,ALA,Costa-Rica,588
+823,San Carlos,,Costa-Rica,588
+824,Santos DE Guapiles,SAN,Costa-Rica,588
+825,Univ. DE Costa Rica,UCR,Costa-Rica,588
+2043,ADR Jicaral,,Costa-Rica,588
+1168,Turku PS,TPS,Finland,295
+2075,FF Jaro,JAR,Finland,295
+2076,Kooteepee,KTP,Finland,295
+2077,AC oulu,OUL,Finland,295
+2078,EIF,EKE,Finland,295
+2080,haka,HAK,Finland,295
+2084,AC Kajaani,ACK,Finland,295
+2243,MyPa,MYP,Finland,295
+2244,TPV,TPV,Finland,295
+2245,Musa,,Finland,295
+578,F91 Dudelange,,Luxembourg,254
+626,Fola Esch,,Luxembourg,254
+658,Progres Niederkorn,,Luxembourg,254
+684,FC Differdange 03,,Luxembourg,254
+2030,Racing FC Union Luxembourg,,Luxembourg,254
+2031,RM Hamm Benfica,,Luxembourg,254
+2032,Union Titus Petange,,Luxembourg,254
+2033,US Rumelange,,Luxembourg,254
+2034,AS Jeunesse Esch,JEU,Luxembourg,254
+2036,UNA Strassen,,Luxembourg,254
+2037,US Mondorf-les-bains,,Luxembourg,254
+2038,Victoria Rosport,,Luxembourg,254
+2040,US Hostert,,Luxembourg,254
+2042,Etzella Ettelbruck,,Luxembourg,254
+4511,AFAD,,Ivory-Coast,641
+4512,ASEC Mimosas,ASE,Ivory-Coast,641
+4513,Abengourou,,Ivory-Coast,641
+4514,Africa Sports,,Ivory-Coast,641
+4515,Bassam,,Ivory-Coast,641
+4516,Bouaké,,Ivory-Coast,641
+4517,Lys Sassandra,,Ivory-Coast,641
+4518,Moossou,,Ivory-Coast,641
+4519,Racing d'Abidjan,,Ivory-Coast,641
+4520,SOA,,Ivory-Coast,641
+4521,San-Pédro,,Ivory-Coast,641
+4522,Sporting Gagnoa,,Ivory-Coast,641
+4523,Tanda,,Ivory-Coast,641
+4524,WAC,,Ivory-Coast,641
+555,CSKA Moscow,CSK,Russia,133
+558,Spartak Moscow,SPA,Russia,133
+596,Zenit Saint Petersburg,ZEN,Russia,133
+597,Lokomotiv Moscow,LOK,Russia,133
+621,Krasnodar,KRA,Russia,133
+779,FC Rostov,ROS,Russia,133
+1076,Amkar,AMK,Russia,133
+1077,Arsenal Tula,ARS,Russia,133
+1078,FC UFA,UFA,Russia,133
+1079,Krylya Sovetov,KRY,Russia,133
+1080,Orenburg,GAZ,Russia,133
+1081,TOM Tomsk,TOM,Russia,133
+1082,Anzhi,ANZ,Russia,133
+1083,Rubin,RUB,Russia,133
+1084,Ural,URA,Russia,133
+1085,Akhmat Grozny,TER,Russia,133
+211,Benfica,BEN,Portugal,73
+212,FC Porto,POR,Portugal,73
+213,Feirense,FEI,Portugal,73
+214,Maritimo,MAR,Portugal,73
+215,Moreirense,MOR,Portugal,73
+217,SC Braga,BRA,Portugal,73
+218,Tondela,TON,Portugal,73
+219,Vitoria Setubal,SET,Portugal,73
+221,Belenenses,BEL,Portugal,73
+222,Boavista,,Portugal,73
+223,Chaves,CHA,Portugal,73
+224,Guimaraes,GUI,Portugal,73
+225,Nacional,NAC,Portugal,73
+226,Rio Ave,RIO,Portugal,73
+228,Sporting CP,SPO,Portugal,73
+230,Estoril,EST,Portugal,73
+234,Pacos Ferreira,FER,Portugal,73
+240,Arouca,ARO,Portugal,73
+462,Agropecuario,,Argentina,27
+463,Aldosivi,ALD,Argentina,27
+464,All Boys,BOY,Argentina,27
+465,Atletico DE Rafaela,RAF,Argentina,27
+466,Atletico Mitre,,Argentina,27
+467,Boca Unidos,BOC,Argentina,27
+468,Brown DE Adrogue,BRO,Argentina,27
+469,Deportivo Moron,DEP,Argentina,27
+470,Ferro Carril Oeste,FER,Argentina,27
+471,Flandria,FLA,Argentina,27
+472,Guillermo Brown,GUI,Argentina,27
+473,Independ. Rivadavia,RIV,Argentina,27
+474,Sarmiento Junin,SAR,Argentina,27
+475,Santamarina,SAN,Argentina,27
+476,Deportivo Riestra,RIE,Argentina,27
+477,Estudiantes S.l.,SPO,Argentina,27
+478,Instituto Cordoba,INS,Argentina,27
+479,Gimnasia Jujuy,GIM,Argentina,27
+480,Quilmes,QUI,Argentina,27
+481,Villa Dalmine,DAL,Argentina,27
+482,Almagro,ALM,Argentina,27
+483,Los Andes,AND,Argentina,27
+484,Nueva Chicago,NUE,Argentina,27
+485,San Martin Tucuman,MAR,Argentina,27
+1061,CDJU Gualeguaychu,JUV,Argentina,27
+577,FK Kukesi,KUK,Albania,907
+605,Skenderbeu Korce,SKE,Albania,907
+694,Tirana,TIR,Albania,907
+708,Partizani,PAR,Albania,907
+2256,Laci,LAC,Albania,907
+2261,Luftetari Gjirokaster,LUF,Albania,907
+3317,Flamurtari,FLA,Albania,907
+3320,Teuta Durrës,TEU,Albania,907
+3323,Besëlidhja Lezhë,BES,Albania,907
+3325,Bylis,BYL,Albania,907
+3339,Vllaznia Shkodër,VLL,Albania,907
+381,Smolevichi-Sti,SMO,Belarus,591
+383,Torpedo Minsk,TAR,Belarus,591
+393,Fc Luch Minsk,LUC,Belarus,591
+3383,Baranovichi,BAR,Belarus,591
+3384,Belshina,BEL,Belarus,591
+3385,Granit,,Belarus,591
+3386,Khimik Svetlogorsk,CHI,Belarus,591
+3387,Lida,LID,Belarus,591
+3388,Lokomotiv Gomel,,Belarus,591
+3390,Orsha,,Belarus,591
+3392,Slonim,FCS,Belarus,591
+3393,Smorgon,SMO,Belarus,591
+3395,Volna,VOL,Belarus,591
+4272,Neman-Agro,,Belarus,591
+4273,Osipovichy,,Belarus,591
+4274,Ynergetyk-BDU,,Belarus,591
+2703,Aluminium Arak,,Iran,963
+2706,Mes Rafsanjan,RAF,Iran,963
+2708,Oxin Alborz,,Iran,963
+2710,Sepidrood Rasht,,Iran,963
+2711,Baderan Tehran,,Iran,963
+2713,Fajr Sepasi,FAJ,Iran,963
+2717,Malavan,MAL,Iran,963
+2718,Mes Kerman,MES,Iran,963
+2724,Shahrdari Tabriz,,Iran,963
+2726,Navad Urmia,,Iran,963
+2727,Qashqai Shiraz,,Iran,963
+2728,SorkhPooshan Pakdasht,,Iran,963
+2739,Esteghlal Khuzestan,EST,Iran,963
+7499,Arman Gohar,,Iran,963
+7500,Damash Gilanian,,Iran,963
+7501,Khooshe Talaee Saveh,,Iran,963
+7502,Niroye Zamini,NIR,Iran,963
+7503,Rayka Babol,,Iran,963
+193,PEC Zwolle,ZWO,Netherlands,71
+194,Ajax,AJA,Netherlands,71
+195,Willem II,WIL,Netherlands,71
+196,Excelsior,EXC,Netherlands,71
+197,PSV Eindhoven,PSV,Netherlands,71
+198,ADO Den Haag,HAA,Netherlands,71
+200,Vitesse,VIT,Netherlands,71
+201,AZ Alkmaar,ALK,Netherlands,71
+202,Groningen,GRO,Netherlands,71
+206,Heracles,HER,Netherlands,71
+207,Utrecht,UTR,Netherlands,71
+209,Feyenoord,FEY,Netherlands,71
+210,Heerenveen,HEE,Netherlands,71
+410,GO Ahead Eagles,EAG,Netherlands,71
+413,NEC Nijmegen,NIJ,Netherlands,71
+414,Roda,ROD,Netherlands,71
+415,Twente,TWE,Netherlands,71
+426,Sparta Rotterdam,SPA,Netherlands,71
+4034,Black Rock,,USA,523
+4036,Brazos Valley,,USA,523
+4037,Calgary Foothills,,Canada,523
+4040,Chicago FC United,,USA,523
+4041,Cincinnati Dutch Lions,,USA,523
+4043,Corpus Christi,,USA,523
+4045,Dayton Dutch Lions,DAY,USA,523
+4047,Des Moines Menace,,USA,523
+4051,FC Miami City,,USA,523
+4052,Flint City Bucks,,USA,523
+4054,Golden State Force,,USA,523
+4064,Mississippi Brilla,,USA,523
+4065,New York RB III,,USA,523
+4068,Ocean City Nor'easters,,USA,523
+4070,Orange County SC II,,USA,523
+4072,Peachtree City,,USA,523
+4073,Portland Phoenix,,USA,523
+4075,Reading United,,USA,523
+4079,San Francisco City,,USA,523
+4080,Santa Cruz Breakers,,USA,523
+4083,Seahorses,,USA,523
+4087,The Villages,,USA,523
+4091,Treasure Coast Tritons,,USA,523
+4100,Western Mass Pioneers,,USA,523
+4102,Colorado Rapids II,,USA,523
+4103,Lansing United,,USA,523
+4104,Myrtle Beach Mutiny,,USA,523
+4105,Next Academy,,USA,523
+4106,OKC Energy II,,USA,523
+4107,SIMA Águilas,,USA,523
+4108,Tormenta,,USA,523
+4109,Tucson,TUC,USA,523
+1181,General Caballero,,Paraguay,269
+1184,Club River Plate,,Paraguay,269
+1188,3 de Febrero,EST,Paraguay,269
+1189,Deportivo Santani,,Paraguay,269
+2126,Deportivo Caaguazu,,Paraguay,269
+2127,Olimpia De Ita,,Paraguay,269
+2128,Ovetense FC,,Paraguay,269
+2130,Fernando De La Mora,,Paraguay,269
+2131,Caacupe FBC,,Paraguay,269
+2133,Deportivo Liberacion,,Paraguay,269
+2134,Fulgencio Yegros,,Paraguay,269
+2135,Resistencia,,Paraguay,269
+2136,Sportivo Iteno,,Paraguay,269
+2137,22 De Setiembre,,Paraguay,269
+2138,Guairena FC,,Paraguay,269
+2139,Martin Ledesma,,Paraguay,269
+487,Lazio,LAZ,Italy,711
+489,AC Milan,MIL,Italy,711
+490,Cagliari,CAG,Italy,711
+491,Chievo,CHI,Italy,711
+492,Napoli,NAP,Italy,711
+494,Udinese,UDI,Italy,711
+495,Genoa,GEN,Italy,711
+496,Juventus,JUV,Italy,711
+497,AS Roma,ROM,Italy,711
+498,Sampdoria,SAM,Italy,711
+499,Atalanta,ATA,Italy,711
+500,Bologna,BOL,Italy,711
+502,Fiorentina,FIO,Italy,711
+503,Torino,TOR,Italy,711
+505,Inter,INT,Italy,711
+522,Palermo,PAL,Italy,711
+523,Parma,PAR,Italy,711
+525,Pescara,PES,Italy,711
+1580,Catania,CAT,Italy,711
+1583,Robur Siena,SIE,Italy,711
+216,Portimonense,POR,Portugal,74
+220,Aves,AVE,Portugal,74
+227,Santa Clara,SAN,Portugal,74
+229,Benfica B,BEN,Portugal,74
+232,Guimaraes B,GUI,Portugal,74
+235,Penafiel,PEN,Portugal,74
+236,SC Covilha,COV,Portugal,74
+237,Varzim,VAR,Portugal,74
+238,Academico Viseu,ACA,Portugal,74
+239,Academica,ACA,Portugal,74
+241,Cova De Piedade,COV,Portugal,74
+242,Famalicao,FAM,Portugal,74
+243,FC Porto B,POR,Portugal,74
+244,Leixoes,LEI,Portugal,74
+246,SC Braga B,BRA,Portugal,74
+761,Sporting CP B,SPO,Portugal,74
+762,GIL Vicente,VIC,Portugal,74
+763,U. Madeira,MAD,Portugal,74
+807,Olhanense,OLH,Portugal,74
+808,Freamunde,FRE,Portugal,74
+809,Fafe,FAF,Portugal,74
+810,Vizela,VIZ,Portugal,74
+3637,Aurora,AUR,Bolivia,500
+3699,Sport Boys,,Bolivia,500
+3701,Blooming,BLO,Bolivia,500
+3702,Bolívar,BOL,Bolivia,500
+3703,Club Destroyers,ROY,Bolivia,500
+3704,Guabirá,GUA,Bolivia,500
+3705,Jorge Wilstermann,WIL,Bolivia,500
+3706,Nacional Potosí,NAC,Bolivia,500
+3707,Oriente Petrolero,ORI,Bolivia,500
+3708,Real Potosí,REA,Bolivia,500
+3709,Royal Pari,,Bolivia,500
+3710,San José,JOS,Bolivia,500
+3711,The Strongest,STR,Bolivia,500
+3875,Club Universitario,UNI,Bolivia,500
+672,Folgore,,San-Marino,810
+700,Tre Penne,,San-Marino,810
+2249,La Fiorita,FIO,San-Marino,810
+2260,Tre Fiori,,San-Marino,810
+5297,Cailungo,,San-Marino,810
+5298,Cosmos,,San-Marino,810
+5299,Domagnano,,San-Marino,810
+5300,Faetano,,San-Marino,810
+5301,Fiorentino,,San-Marino,810
+5302,Juvenes / Dogana,,San-Marino,810
+5303,Libertas,,San-Marino,810
+5305,Murata,,San-Marino,810
+5306,Pennarossa,,San-Marino,810
+5307,San Giovanni,,San-Marino,810
+5308,Virtus,,San-Marino,810
+591,FC Santa Coloma,SAN,Andorra,498
+674,UE Sant Julia,,Andorra,498
+703,UE Santa Coloma,,Andorra,498
+2268,UE Engordany,,Andorra,498
+3341,Encamp,,Andorra,498
+3342,Inter Club d'Escaldes,,Andorra,498
+3343,Lusitanos,,Andorra,498
+3352,Penya Encarnada,,Andorra,498
+199,De Graafschap,GRA,Netherlands,72
+203,NAC Breda,BRE,Netherlands,72
+204,VVV Venlo,VEN,Netherlands,72
+205,Fortuna Sittard,SIT,Netherlands,72
+208,Emmen,EMM,Netherlands,72
+409,Dordrecht,DOR,Netherlands,72
+411,Jong PSV,JON,Netherlands,72
+412,MVV,MAA,Netherlands,72
+416,FC Volendam,VOL,Netherlands,72
+417,Waalwijk,WAA,Netherlands,72
+419,Almere City FC,ALM,Netherlands,72
+420,Cambuur,CAM,Netherlands,72
+421,Den Bosch,BOS,Netherlands,72
+422,FC Eindhoven,EIN,Netherlands,72
+423,FC OSS,FCO,Netherlands,72
+424,Helmond Sport,HEL,Netherlands,72
+425,Jong Ajax,JON,Netherlands,72
+427,Telstar,STO,Netherlands,72
+428,Jong Utrecht,,Netherlands,72
+806,Achilles 29,ACH,Netherlands,72
+4544,Altay,,Kazakhstan,647
+4545,Akademiya Ontustik,,Kazakhstan,647
+4546,Aktobe Jas,,Kazakhstan,647
+4547,Akzhayik,AKZ,Kazakhstan,647
+4548,Astana II,,Kazakhstan,647
+4549,Baykonur,,Kazakhstan,647
+4550,Bulat,BOL,Kazakhstan,647
+4551,Ekibastuz,,Kazakhstan,647
+4552,Kaspiy,KAS,Kazakhstan,647
+4553,Kyran,,Kazakhstan,647
+4554,Kyzyl-Zhar,,Kazakhstan,647
+4555,Maqtaaral,MAQ,Kazakhstan,647
+4556,Sport Academy Kairat,,Kazakhstan,647
+4557,Zhetysu II,,Kazakhstan,647
+2878,Al Nasr,NAS,Oman,964
+5325,Al Oruba,ORU,Oman,964
+5326,Al Suwaiq,SUW,Oman,964
+5327,Al-Nahda,NAH,Oman,964
+5328,Al-Rustaq,,Oman,964
+5330,Dhofar,,Oman,964
+5332,Mrbat,,Oman,964
+5333,Muscat,,Oman,964
+5334,Oman Club,,Oman,964
+5335,Saham,SAH,Oman,964
+5336,Sohar,,Oman,964
+7504,Al Seeb,,Oman,964
+7505,Bahla,,Oman,964
+7506,Fanja,FSC,Oman,964
+573,FK Partizan,PAR,Serbia,365
+598,FK Crvena Zvezda,CRV,Serbia,365
+699,Mladost Lucani,,Serbia,365
+702,Vojvodina,VOJ,Serbia,365
+2251,FK Spartak Zdrepceva KRV,SPS,Serbia,365
+2254,Radnicki NIS,RAD,Serbia,365
+2630,Dinamo Vranje,,Serbia,365
+2637,Macva,,Serbia,365
+2639,Proleter Novi SAD,,Serbia,365
+2642,Zemun,,Serbia,365
+2655,Napredak,NAP,Serbia,365
+2656,Cukaricki,CUK,Serbia,365
+2657,Radnik Surdulica,,Serbia,365
+2658,FK Vozdovac,VOZ,Serbia,365
+2659,Backa,,Serbia,365
+2660,RAD,BEO,Serbia,365
+980,ES Tunis,EST,Tunisia,116
+981,CA Bizertin,CAB,Tunisia,116
+983,CS Sfaxien,CSS,Tunisia,116
+984,ES Metlaoui,ESM,Tunisia,116
+985,Stade Gabesien,SG,Tunisia,116
+986,US Ben Guerdane,USBG,Tunisia,116
+987,AS Gabes,ASG,Tunisia,116
+988,Club Africain,CA,Tunisia,116
+990,ES Sahel,ESS,Tunisia,116
+991,Stade Tunisien,ST,Tunisia,116
+992,US Monastirienne,USMO,Tunisia,116
+993,JS Kairouanaise,JSK,Tunisia,116
+1190,US Tataouine,UST,Tunisia,116
+1191,CS Hammam-Lif,CSHL,Tunisia,116
+3695,Lokomotiv,TAS,Uzbekistan,562
+4210,Bunyodkor,BUN,Uzbekistan,562
+4211,Buxoro,BUX,Uzbekistan,562
+4212,Kokand-1912,KOK,Uzbekistan,562
+4214,Metalourg,BEK,Uzbekistan,562
+4215,Nasaf,NAS,Uzbekistan,562
+4216,Navbahor,NAV,Uzbekistan,562
+4217,Neftchi,NEF,Uzbekistan,562
+4219,Olmaliq,OLI,Uzbekistan,562
+4220,Pakhtakor,PAK,Uzbekistan,562
+4221,Qizilqum,QIZ,Uzbekistan,562
+4223,Sogdiana,SOG,Uzbekistan,562
+555,CSKA Moscow,CSK,Russia,134
+558,Spartak Moscow,SPA,Russia,134
+596,Zenit Saint Petersburg,ZEN,Russia,134
+597,Lokomotiv Moscow,LOK,Russia,134
+621,Krasnodar,KRA,Russia,134
+779,FC Rostov,ROS,Russia,134
+1076,Amkar,AMK,Russia,134
+1077,Arsenal Tula,ARS,Russia,134
+1078,FC UFA,UFA,Russia,134
+1082,Anzhi,ANZ,Russia,134
+1083,Rubin,RUB,Russia,134
+1084,Ural,URA,Russia,134
+1085,Akhmat Grozny,TER,Russia,134
+1086,FC Tosno,TOS,Russia,134
+1087,Ska-khabarovsk,ENE,Russia,134
+1088,Dinamo Moscow,DYN,Russia,134
+1595,Seattle Sounders,SEA,USA,294
+1596,San Jose Earthquakes,JOS,USA,294
+1597,FC Dallas,DAL,USA,294
+1598,Orlando City SC,,USA,294
+1599,Philadelphia Union,PHI,USA,294
+1600,Houston Dynamo,HOU,USA,294
+1601,Toronto FC,TOR,Canada,294
+1602,New York Red Bulls,YOR,USA,294
+1603,Vancouver Whitecaps,,Canada,294
+1604,New York City FC,,USA,294
+1605,Los Angeles Galaxy,ANG,USA,294
+1606,Real Salt Lake,SAL,USA,294
+1607,Chicago Fire,CHI,USA,294
+1608,Atlanta United FC,,USA,294
+1609,New England Revolution,ENG,USA,294
+1610,Colorado Rapids,COL,USA,294
+1611,Sporting Kansas City,KAN,USA,294
+1612,Minnesota United FC,MIN,USA,294
+1613,Columbus Crew,COL,USA,294
+1614,Montreal Impact,MON,Canada,294
+1615,DC United,UNI,USA,294
+1616,Los Angeles FC,,USA,294
+1617,Portland Timbers,POR,USA,294
+2242,FC Cincinnati,,USA,294
+1337,Northampton,NOR,England,167
+1344,Bury,BUR,England,167
+1348,Milton Keynes Dons,MIL,England,167
+1349,Oldham,OLD,England,167
+1351,Port Vale,POR,England,167
+1353,Swindon Town,SWI,England,167
+1361,Colchester,COL,England,167
+1362,Crawley Town,CRA,England,167
+1363,Crewe,CRE,England,167
+1364,Exeter City,EXE,England,167
+1365,Grimsby,GRI,England,167
+1367,Newport County,NEW,Wales,167
+1368,Stevenage,STE,England,167
+1370,Cambridge United,CAM,England,167
+1371,Carlisle,CAR,England,167
+1372,Cheltenham,CHE,England,167
+1374,Mansfield Town,MAN,England,167
+1375,Morecambe,MOR,England,167
+1376,Notts County,NOT,England,167
+1377,Yeovil Town,YEO,England,167
+1378,Forest Green,FOR,England,167
+1379,Lincoln,,England,167
+1380,Macclesfield,MAC,England,167
+1381,Tranmere,TRA,England,167
+247,Celtic,CEL,Scotland,740
+249,Hibernian,HIB,Scotland,740
+250,Kilmarnock,KIL,Scotland,740
+251,ST Mirren,MIR,Scotland,740
+252,Aberdeen,ABE,Scotland,740
+254,Heart OF Midlothian,HEA,Scotland,740
+256,Motherwell,MOT,Scotland,740
+257,Rangers,RAN,Scotland,740
+258,ST Johnstone,JOH,Scotland,740
+903,Inverness CT,INV,Scotland,740
+1386,Dundee Utd,DUN,Scotland,740
+1388,Dunfermline,DUN,Scotland,740
+4544,Altay,,Kazakhstan,648
+4546,Aktobe Jas,,Kazakhstan,648
+4549,Baykonur,,Kazakhstan,648
+4550,Bulat,BOL,Kazakhstan,648
+4551,Ekibastuz,,Kazakhstan,648
+4552,Kaspiy,KAS,Kazakhstan,648
+4553,Kyran,,Kazakhstan,648
+4555,Maqtaaral,MAQ,Kazakhstan,648
+4556,Sport Academy Kairat,,Kazakhstan,648
+4557,Zhetysu II,,Kazakhstan,648
+4558,Okzhetpes,,Kazakhstan,648
+4559,Taraz,TAR,Kazakhstan,648
+2529,Southern United,SOU,New-Zealand,341
+2530,Waitakere United,WAI,New-Zealand,341
+2532,Hawkes BAY United,HAW,New-Zealand,341
+2533,Tasman United,,New-Zealand,341
+2534,Team Wellington,TEA,New-Zealand,341
+2535,Wellington Phoenix II,,New-Zealand,341
+2536,Hamilton Wanderers,,New-Zealand,341
+2537,Auckland City,AUC,New-Zealand,341
+2538,Canterbury United,,New-Zealand,341
+13977,Eastern Suburbs,,New-Zealand,341
+2816,Urena SC,,Venezuela,401
+2820,Deportivo JBL del Zulia,,Venezuela,401
+2823,Llaneros de Guanare,LLA,Venezuela,401
+2828,Lala FC,,Venezuela,401
+2829,Yaracuyanos FC,YAR,Venezuela,401
+2830,Petrolero de Anzoategui,,Venezuela,401
+2831,Union Atl. Falcon,,Venezuela,401
+2832,Atletico el Vigia FC,ATL,Venezuela,401
+2837,Titanes FC,,Venezuela,401
+2838,Angostura FC,,Venezuela,401
+2839,Diamantes de Guayana,,Venezuela,401
+2840,UCV,,Venezuela,401
+2843,Gran Valencia,,Venezuela,401
+2844,Margarita FC,,Venezuela,401
+2847,Real Frontera,,Venezuela,401
+2850,ULA FC,,Venezuela,401
+2851,Yaracuy FC,,Venezuela,401
+2853,Petare FC,,Venezuela,401
+2854,CD Hermanos Colmenarez,,Venezuela,401
+2855,CA Furrial,,Venezuela,401
+2856,Libertador FC,,Venezuela,401
+587,IFK Mariehamn,MAR,Finland,361
+649,HJK helsinki,HJK,Finland,361
+650,vaasa PS,VAA,Finland,361
+689,SJK,SJK,Finland,361
+1163,Ilves Tampere,ILV,Finland,361
+1164,Inter Turku,INT,Finland,361
+1165,KuPS,KUP,Finland,361
+1166,FC Lahti,LAH,Finland,361
+1167,Rops,ROV,Finland,361
+1169,Honka,HON,Finland,361
+1172,HIFK Elsinki,HIF,Finland,361
+2081,KPV Kokkola,KOK,Finland,361
+3319,Kastrioti Krujë,KAS,Albania,965
+3321,Apolonia Fier,APO,Albania,965
+3322,Besa Kavajë,BES,Albania,965
+3323,Besëlidhja Lezhë,BES,Albania,965
+3324,Burreli,BUR,Albania,965
+3326,Dinamo Tirana,DIN,Albania,965
+3327,Egnatia Rrogozhinë,,Albania,965
+3328,Elbasani,ELB,Albania,965
+3329,Erzeni Shijak,,Albania,965
+3330,Iliria Fushë-Krujë,ILI,Albania,965
+3331,Korabi Peshkopi,,Albania,965
+3332,Lushnja,LUS,Albania,965
+3333,Oriku,,Albania,965
+3334,Pogradeci,POG,Albania,965
+3335,Shënkolli,,Albania,965
+3337,Turbina Cërrik,,Albania,965
+3338,Veleçiku Koplik,KOP,Albania,965
+3835,Shkumbini Peqin,SHK,Albania,965
+3836,Tërbuni Pukë,,Albania,965
+7507,Devolli,,Albania,965
+10721,Partizani Tirana II,,Albania,965
+10726,Maliqi,,Albania,965
+1968,Sydney FC W,,Australia,243
+1969,Perth Glory FC W,,Australia,243
+1970,Canberra United W,,Australia,243
+1971,Melbourne City W,,Australia,243
+1972,Adelaide United W,,Australia,243
+1973,Brisbane Roar FC W,,Australia,243
+1974,Western Sydney Wanderers W,,Australia,243
+1975,Newcastle Jets FC W,,Australia,243
+1976,Melbourne Victory W,,Australia,243
+211,Benfica,BEN,Portugal,768
+212,FC Porto,POR,Portugal,768
+213,Feirense,FEI,Portugal,768
+214,Maritimo,MAR,Portugal,768
+215,Moreirense,MOR,Portugal,768
+216,Portimonense,POR,Portugal,768
+217,SC Braga,BRA,Portugal,768
+218,Tondela,TON,Portugal,768
+219,Vitoria Setubal,SET,Portugal,768
+220,Aves,AVE,Portugal,768
+221,Belenenses,BEL,Portugal,768
+222,Boavista,,Portugal,768
+223,Chaves,CHA,Portugal,768
+224,Guimaraes,GUI,Portugal,768
+225,Nacional,NAC,Portugal,768
+226,Rio Ave,RIO,Portugal,768
+227,Santa Clara,SAN,Portugal,768
+228,Sporting CP,SPO,Portugal,768
+230,Estoril,EST,Portugal,768
+231,Farense,FAR,Portugal,768
+233,Oliveirense,OLI,Portugal,768
+234,Pacos Ferreira,FER,Portugal,768
+235,Penafiel,PEN,Portugal,768
+236,SC Covilha,COV,Portugal,768
+237,Varzim,VAR,Portugal,768
+238,Academico Viseu,ACA,Portugal,768
+239,Academica,ACA,Portugal,768
+240,Arouca,ARO,Portugal,768
+241,Cova De Piedade,COV,Portugal,768
+242,Famalicao,FAM,Portugal,768
+244,Leixoes,LEI,Portugal,768
+245,Mafra,MAF,Portugal,768
+762,GIL Vicente,VIC,Portugal,768
+763,U. Madeira,MAD,Portugal,768
+807,Olhanense,OLH,Portugal,768
+808,Freamunde,FRE,Portugal,768
+809,Fafe,FAF,Portugal,768
+810,Vizela,VIZ,Portugal,768
+4662,União de Leiria,LEI,Portugal,768
+4716,Casa Pia,CAS,Portugal,768
+4717,Vilafranquense,,Portugal,768
+4718,1º Dezembro,DEZ,Portugal,768
+4719,AD Nogueirense,NOG,Portugal,768
+4720,AR São Martinho,,Portugal,768
+4721,Alcains,,Portugal,768
+4723,Almancilense,,Portugal,768
+4725,Amarante,AMA,Portugal,768
+4726,Amora,,Portugal,768
+4727,Anadia,ANA,Portugal,768
+4729,Armacenenses,,Portugal,768
+4731,Benfica Castelo Branco,CAS,Portugal,768
+4733,Caldas,CAL,Portugal,768
+4735,Cesarense,CES,Portugal,768
+4737,Cinfães,CIN,Portugal,768
+4738,Coimbrões,COI,Portugal,768
+4739,Condeixa,,Portugal,768
+4742,Espinho,ESP,Portugal,768
+4744,Felgueiras 1932,,Portugal,768
+4745,Ferreiras,FER,Portugal,768
+4746,Fátima,FAT,Portugal,768
+4748,Gafanha,,Portugal,768
+4750,Gondomar,GON,Portugal,768
+4753,Ideal,SPO,Portugal,768
+4756,Lamego,,Portugal,768
+4758,Louletano,LOU,Portugal,768
+4759,Loures,LOU,Portugal,768
+4760,Lourinhanense,LOU,Portugal,768
+4761,Lusitano FCV,LUS,Portugal,768
+4762,Lusitano GC Évora,,Portugal,768
+4763,Lusitânia,LUS,Portugal,768
+4764,Machico,,Portugal,768
+4765,Maria da Fonte,,Portugal,768
+4768,Merelinense,,Portugal,768
+4769,Mirandela,MIR,Portugal,768
+4770,Montalegre,,Portugal,768
+4771,Moura,MOU,Portugal,768
+4772,Oleiros,,Portugal,768
+4774,Olímpico do Montijo,,Portugal,768
+4775,Oriental Lisboa,ORI,Portugal,768
+4778,Paredes,,Portugal,768
+4779,Pedras Rubras,,Portugal,768
+4780,Pedras Salgadas,PES,Portugal,768
+4783,Pinhalnovense,PIN,Portugal,768
+4786,Praiense,,Portugal,768
+4787,Rabo Peixe,,Portugal,768
+4789,Rio Tinto,,Portugal,768
+4790,Régua,,Portugal,768
+4791,Sacavenense,,Portugal,768
+4792,Sanjoanense,,Portugal,768
+4794,Sertanense,SER,Portugal,768
+4796,Sintrense,SIN,Portugal,768
+4798,Torcatense,,Portugal,768
+4799,Torreense,TOR,Portugal,768
+4801,Trofense,TRO,Portugal,768
+4802,União Idanhense,,Portugal,768
+4806,Vale Formoso,,Portugal,768
+4812,Vila Real,,Portugal,768
+4814,Vilaverdense,VIL,Portugal,768
+4817,Águeda,,Portugal,768
+4818,Vasco da Gama,,Portugal,768
+4819,AD Fornos Algodres,ORN,Portugal,768
+4820,Alcanenense,ALC,Portugal,768
+4821,Aliança de Gandra,,Portugal,768
+4822,Almodôvar,ALM,Portugal,768
+4823,Alta Lisboa,,Portugal,768
+4824,Arões,,Portugal,768
+4825,Atlético Arcos,,Portugal,768
+4826,Atlético Riachense,RIA,Portugal,768
+4827,Bragança,BRA,Portugal,768
+4828,Camacha,CAM,Portugal,768
+4829,Canelas 2010,,Portugal,768
+4830,Castrense,,Portugal,768
+4831,Cerveira,,Portugal,768
+4832,Charneca Caparica,,Portugal,768
+4833,Coruchense,,Portugal,768
+4834,Crato,,Portugal,768
+4835,Câmara de Lobos,,Portugal,768
+4836,Eléctrico,,Portugal,768
+4837,Esmoriz,,Portugal,768
+4838,Esposende,,Portugal,768
+4839,Estrela Vendas Novas,,Portugal,768
+4840,Ferreira de Aves,,Portugal,768
+4841,Flamengos,,Portugal,768
+4842,Guadalupe,,Portugal,768
+4843,Leiria e Marrazes,,Portugal,768
+4844,Lusitano VRSA,,Portugal,768
+4845,Marinhense,,Portugal,768
+4846,Minas de Argozelo,,Portugal,768
+4847,Moncarapachense,,Portugal,768
+4848,Mondinense,,Portugal,768
+4849,Monção,,Portugal,768
+4850,Mortágua,,Portugal,768
+4851,Mosteirense,,Portugal,768
+4852,Operário,OPE,Portugal,768
+4853,Pombal,,Portugal,768
+4854,Pêro Pinheiro,,Portugal,768
+4855,Quarteirense,QUA,Portugal,768
+4856,Recreativo Canaviais,,Portugal,768
+4858,Sabugal,,Portugal,768
+4859,Salgueiros,SAL,Portugal,768
+4860,Sendim,,Portugal,768
+4861,Sourense,SOU,Portugal,768
+4862,Sousense,SOU,Portugal,768
+4863,Tocha,TOC,Portugal,768
+4864,União Lamas,,Portugal,768
+4865,Vitória Horta,,Portugal,768
+4866,Águia FC Vimioso,,Portugal,768
+4867,Águias do Moradal,AGU,Portugal,768
+10122,Ginásio Figueirense,,Portugal,768
+10144,Mação,,Portugal,768
+10149,Real,,Portugal,768
+13162,Resende,,Portugal,768
+363,Hammarby FF,HAM,Sweden,75
+364,Djurgardens IF,DJU,Sweden,75
+365,Orebro SK,ORE,Sweden,75
+366,IFK Goteborg,GOT,Sweden,75
+367,BK Hacken,HAC,Sweden,75
+372,IF elfsborg,ELF,Sweden,75
+373,GIF Sundsvall,SUN,Sweden,75
+374,kalmar FF,KAL,Sweden,75
+375,Malmo FF,MAL,Sweden,75
+376,Ostersunds FK,OST,Sweden,75
+377,AIK stockholm,AIK,Sweden,75
+378,IFK Norrkoping,NOR,Sweden,75
+764,Jonkopings Sodra,JON,Sweden,75
+811,Helsingborg,HEL,Sweden,75
+812,falkenbergs FF,FAL,Sweden,75
+813,gefle IF,GEF,Sweden,75
+814,AD Carmelita,CAR,Costa-Rica,76
+815,CS Herediano,HER,Costa-Rica,76
+816,Deportivo Saprissa,SAP,Costa-Rica,76
+817,Limon FC,LIM,Costa-Rica,76
+818,Municipal Grecia,,Costa-Rica,76
+819,Perez Zeledon,ZEL,Costa-Rica,76
+820,CS Cartagines,CAR,Costa-Rica,76
+821,Guadalupe FC,BEL,Costa-Rica,76
+822,LD Alajuelense,ALA,Costa-Rica,76
+823,San Carlos,,Costa-Rica,76
+824,Santos DE Guapiles,SAN,Costa-Rica,76
+825,Univ. DE Costa Rica,UCR,Costa-Rica,76
+4583,Be Forward Wanderers,,Malawi,660
+4584,Blue Eagles,,Malawi,660
+4585,Chitipa United,,Malawi,660
+4586,Civil Sporting,,Malawi,660
+4587,Dwangwa United,,Malawi,660
+4588,Kamuzu Barracks,,Malawi,660
+4589,Karonga United,,Malawi,660
+4590,Masters Security,,Malawi,660
+4591,Mighty Tigers,,Malawi,660
+4592,Mlatho Mponela,,Malawi,660
+4593,Moyale Barracks,,Malawi,660
+4594,Mzuni,,Malawi,660
+4595,Ntopwa,,Malawi,660
+4596,Nyasa Big Bullets,,Malawi,660
+4597,Silver Strikers,,Malawi,660
+4598,TN Stars,,Malawi,660
+827,IA Akranes,AKR,Iceland,267
+828,Vikingur Olafsiik,VIK,Iceland,267
+829,Throttur Reykjavik,THR,Iceland,267
+2113,HK Kopavogur,KOP,Iceland,267
+2114,Leiknir R.,LEI,Iceland,267
+2115,Selfoss,SEL,Iceland,267
+2116,Thor Akureyri,THO,Iceland,267
+2117,Fram Reykjavik,FRA,Iceland,267
+2118,Haukar,HAU,Iceland,267
+2122,IR Reykjavik,,Iceland,267
+2123,Njardvik,NJA,Iceland,267
+2124,Magni,MAG,Iceland,267
+563,Hapoel Beer Sheva,HAP,Israel,637
+604,Maccabi Tel Aviv,MAC,Israel,637
+657,Beitar Jerusalem,BEI,Israel,637
+2253,Hapoel Haifa,HAP,Israel,637
+4195,Maccabi Haifa,MAC,Israel,637
+4497,Hapoel Kfar Saba,HAP,Israel,637
+4499,Sektzia Nes Tziona,SEK,Israel,637
+4500,Hapoel Hadera,,Israel,637
+4501,Hapoel Tel Aviv,HAP,Israel,637
+4505,Maccabi Netanya,MAC,Israel,637
+4507,Ashdod,MOA,Israel,637
+4508,Bnei Yehuda,BNE,Israel,637
+4509,Hapoel Ra'anana,HAP,Israel,637
+4510,Ironi Kiryat Shmona,SHM,Israel,637
+12,Japan,JAP,Japan,196
+17,South Korea,SOU,South-Korea,196
+20,Australia,AUS,Australia,196
+22,Iran,IRA,Iran,196
+23,Saudi Arabia,SAU,Saudi-Arabia,196
+1547,Bahrain,BAH,Bahrain,196
+1548,Jordan,JOR,Jordan,196
+1552,Oman,OMA,Oman,196
+1561,North Korea,,North-Korea,196
+1562,Palestine,PAL,Palestine,196
+1563,United Arab Emirates,UAE,United-Arab-Emirates,196
+1566,China,CHI,China,196
+1567,Iraq,IRA,Iraq,196
+1568,Uzbekistan,UZB,Uzbekistan,196
+1569,Qatar,QAT,Qatar,196
+1570,Kuwait,KUW,Kuwait,196
+4549,Baykonur,,Kazakhstan,649
+4550,Bulat,BOL,Kazakhstan,649
+4551,Ekibastuz,,Kazakhstan,649
+4552,Kaspiy,KAS,Kazakhstan,649
+4553,Kyran,,Kazakhstan,649
+4554,Kyzyl-Zhar,,Kazakhstan,649
+4555,Maqtaaral,MAQ,Kazakhstan,649
+4556,Sport Academy Kairat,,Kazakhstan,649
+4560,Zhetysu,ZHE,Kazakhstan,649
+2297,Dorados,DOR,Mexico,300
+2298,FC Juarez,,Mexico,300
+2299,Mineros de Zacatecas,,Mexico,300
+2300,Alebrijes de Oaxaca,ALE,Mexico,300
+2301,Cimarrones,,Mexico,300
+2302,Potros Uaem,,Mexico,300
+2303,Zacatepec 1948,ZAC,Mexico,300
+2304,Tampico Madero,,Mexico,300
+2307,Leones Negros UDG,LEO,Mexico,300
+2308,Celaya,CEL,Mexico,300
+2310,Tapachula,,Mexico,300
+2311,Venados FC,,Mexico,300
+2312,Atlante FC,ATL,Mexico,300
+2313,Correcaminos Uat,COR,Mexico,300
+2314,Atletico San Luis,ASL,Mexico,300
+2702,Pars Jonoubi JAM,,Iran,923
+2707,Naft Masjed Soleyman,AHV,Iran,923
+2714,Gol Gohar,SIR,Iran,923
+2719,Nassaji Mazandaran,MAZ,Iran,923
+2720,Machine Sazi FC,,Iran,923
+2729,Shahin Bushehr,,Iran,923
+2733,Esteghlal FC,EST,Iran,923
+2734,Foolad FC,FOO,Iran,923
+2736,Saipa,SAI,Iran,923
+2737,Tractor Sazi,TER,Iran,923
+2738,ZOB Ahan,AHA,Iran,923
+2740,Padideh Khorasan,PAD,Iran,923
+2741,Paykan,PAY,Iran,923
+2742,Persepolis FC,PER,Iran,923
+2743,Sanat Naft,SAN,Iran,923
+2744,Sepahan FC,SEP,Iran,923
+157,Bayern Munich,BAY,Germany,8
+158,Fortuna Dusseldorf,DUS,Germany,8
+159,Hertha Berlin,HER,Germany,8
+160,SC Freiburg,FRE,Germany,8
+161,VfL Wolfsburg,WOL,Germany,8
+162,Werder Bremen,WER,Germany,8
+163,Borussia Monchengladbach,MOE,Germany,8
+164,FSV Mainz 05,MAI,Germany,8
+165,Borussia Dortmund,DOR,Germany,8
+166,Hannover 96,HAN,Germany,8
+167,1899 Hoffenheim,HOF,Germany,8
+168,Bayer Leverkusen,BAY,Germany,8
+169,Eintracht Frankfurt,EIN,Germany,8
+170,FC Augsburg,AUG,Germany,8
+171,FC Nurnberg,NUR,Germany,8
+172,VfB Stuttgart,STU,Germany,8
+173,RB Leipzig,LEI,Germany,8
+174,FC Schalke 04,SCH,Germany,8
+182,Union Berlin,UNI,Germany,8
+3475,Goa,,India,954
+7154,Andhra Pradesh,,India,954
+7155,Arunachal Pradesh,,India,954
+7156,Assam,,India,954
+7157,Bihar,,India,954
+7158,Chandigarh,,India,954
+7159,Chhattisgarh,,India,954
+7160,Dadra and Nagar Haveli,,India,954
+7161,Daman & Diu,,India,954
+7162,Delhi,,India,954
+7163,Gujarat,,India,954
+7164,Haryana,,India,954
+7165,Himachal Pradesh,,India,954
+7166,J & K,,India,954
+7167,Jharkhand,,India,954
+7168,Karnataka,,India,954
+7169,Kerala,,India,954
+7170,Lakshadweep,,India,954
+7171,Madhya Pradesh,,India,954
+7172,Maharashtra,,India,954
+7173,Manipur,,India,954
+7174,Meghalaya,,India,954
+7175,Mizoram,,India,954
+7176,Nagaland,,India,954
+7177,Odisha,,India,954
+7178,Pondicherry,,India,954
+7179,Punjab,,India,954
+7180,Rajasthan,,India,954
+7181,Services,,India,954
+7182,Sikkim,,India,954
+7183,Tamilnadu,,India,954
+7184,Telangana,,India,954
+7185,Tripura,,India,954
+7186,Uttar Pradesh,,India,954
+7187,Uttarakhand,,India,954
+7188,West Bengal,,India,954
+579,Buducnost Podgorica,BUD,Montenegro,772
+643,FK Mladost Podgorica,MLA,Montenegro,772
+673,Sutjeska,SUT,Montenegro,772
+676,Zeta,ZET,Montenegro,772
+2258,Rudar Velenje,RUD,Montenegro,772
+3737,Grbalj,GRB,Montenegro,772
+3738,Iskra,,Montenegro,772
+3741,Petrovac,PET,Montenegro,772
+3744,Bokelj,BOK,Montenegro,772
+3748,Jezero,JEZ,Montenegro,772
+3749,Kom,KOM,Montenegro,772
+3750,Mladost Lješkopolje,,Montenegro,772
+33,Manchester United,MUN,England,957
+34,Newcastle,NEW,England,957
+35,Bournemouth,BOU,England,957
+36,Fulham,FUL,England,957
+37,Huddersfield,HUD,England,957
+38,Watford,WAT,England,957
+39,Wolves,WOL,England,957
+40,Liverpool,LIV,England,957
+41,Southampton,SOU,England,957
+42,Arsenal,ARS,England,957
+43,Cardiff,CAR,Wales,957
+44,Burnley,BUR,England,957
+45,Everton,EVE,England,957
+46,Leicester,LEI,England,957
+47,Tottenham,TOT,England,957
+48,West Ham,WES,England,957
+49,Chelsea,CHE,England,957
+50,Manchester City,MAC,England,957
+51,Brighton,BRI,England,957
+52,Crystal Palace,CRY,England,957
+53,Reading,REA,England,957
+54,Birmingham,BIR,England,957
+55,Brentford,BRE,England,957
+56,Bristol City,BRI,England,957
+57,Ipswich,IPS,England,957
+58,Millwall,MIL,England,957
+59,Preston,PRE,England,957
+60,West Brom,WES,England,957
+61,Wigan,WIG,England,957
+62,Sheffield Utd,SHE,England,957
+63,Leeds,LEE,England,957
+64,Hull City,HUL,England,957
+65,Nottingham Forest,NOT,England,957
+66,Aston Villa,AST,England,957
+67,Blackburn,BLA,England,957
+68,Bolton,BOL,England,957
+69,Derby,DER,England,957
+70,Middlesbrough,MID,England,957
+71,Norwich,NOR,England,957
+72,QPR,QPR,England,957
+73,Rotherham,ROT,England,957
+74,Sheffield Wednesday,SHE,England,957
+75,Stoke City,STO,England,957
+76,Swansea,SWA,Wales,957
+746,Sunderland,SUN,England,957
+747,Barnsley,BAR,England,957
+748,Burton Albion,BUR,England,957
+1333,AFC Wimbledon,WIM,England,957
+1334,Bristol Rovers,BRI,England,957
+1335,Charlton,CHA,England,957
+1336,Fleetwood Town,FLE,England,957
+1337,Northampton,NOR,England,957
+1338,Oxford United,OXF,England,957
+1339,Rochdale,ROC,England,957
+1340,Scunthorpe,SCU,England,957
+1341,Southend,SOU,England,957
+1342,Walsall,WAL,England,957
+1343,Bradford,BRA,England,957
+1344,Bury,BUR,England,957
+1346,Coventry,COV,England,957
+1347,Gillingham,GIL,England,957
+1348,Milton Keynes Dons,MIL,England,957
+1349,Oldham,OLD,England,957
+1350,Peterborough,PET,England,957
+1351,Port Vale,POR,England,957
+1352,Shrewsbury,SHR,England,957
+1353,Swindon Town,SWI,England,957
+1354,Doncaster,DON,England,957
+1355,Portsmouth,POR,England,957
+1356,Blackpool,BLA,England,957
+1357,Plymouth,PLY,England,957
+1358,Wycombe,WYC,England,957
+1359,Luton,LUT,England,957
+1360,Accrington ST,ACC,England,957
+1361,Colchester,COL,England,957
+1362,Crawley Town,CRA,England,957
+1363,Crewe,CRE,England,957
+1364,Exeter City,EXE,England,957
+1365,Grimsby,GRI,England,957
+1367,Newport County,NEW,Wales,957
+1368,Stevenage,STE,England,957
+1370,Cambridge United,CAM,England,957
+1371,Carlisle,CAR,England,957
+1372,Cheltenham,CHE,England,957
+1373,Leyton Orient,LEY,England,957
+1374,Mansfield Town,MAN,England,957
+1375,Morecambe,MOR,England,957
+1378,Forest Green,FOR,England,957
+1379,Lincoln,,England,957
+1380,Macclesfield,MAC,England,957
+1381,Tranmere,TRA,England,957
+1844,Salford City,,England,957
+1345,Chesterfield,CHE,England,956
+1366,Hartlepool,HAR,England,956
+1369,Barnet,BAR,England,956
+1376,Notts County,NOT,England,956
+1377,Yeovil Town,YEO,England,956
+1818,Aldershot Town,ALD,England,956
+1819,Barrow,BAR,England,956
+1820,Chester,CHE,England,956
+1821,Dagenham & Redbridge,DAG,England,956
+1822,Eastleigh,EAS,England,956
+1823,Gateshead,GAT,England,956
+1824,Guiseley AFC,GUI,England,956
+1825,Maidstone Utd,MAI,England,956
+1826,Southport,SOU,England,956
+1827,Torquay,TOR,England,956
+1828,York,YOR,England,956
+1829,Dover,DOV,England,956
+1830,Boreham Wood,BOR,England,956
+1831,Braintree,BRA,England,956
+1832,Bromley,BRO,England,956
+1834,Solihull Moors,SOL,England,956
+1835,Sutton Utd,SUT,England,956
+1836,Woking,WOK,England,956
+1837,Wrexham,WRE,Wales,956
+1838,Maidenhead,MAI,England,956
+1839,AFC Fylde,FYL,England,956
+1840,Ebbsfleet United,EBB,England,956
+1841,FC Halifax Town,HAL,England,956
+1842,Harrogate Town,HAR,England,956
+1843,Havant & Wville,HAV,England,956
+4677,Alfreton Town,ALF,England,956
+4678,Billericay Town,BIL,England,956
+4679,Chorley,CHO,England,956
+4680,Hampton & Richmond,HAM,England,956
+4681,Haringey Borough,,England,956
+4682,Hitchin Town,HIT,England,956
+4683,Metropolitan Police,MET,England,956
+4684,Oxford City,OXF,England,956
+4685,Slough Town,,England,956
+4686,Stockport County,STO,England,956
+4687,Weston-super-Mare,WES,England,956
+4688,AFC Telford United,TEL,England,956
+4689,Chelmsford City,CHE,England,956
+4690,Dartford,DAR,England,956
+4691,Gainsborough Trinity,GAI,England,956
+4692,Hereford,,England,956
+4693,Heybridge Swifts,HEY,England,956
+4694,Hyde United,HYD,England,956
+4695,Kidderminster Harriers,KID,England,956
+4696,Leatherhead,,England,956
+4697,Nantwich Town,NAN,England,956
+4699,Truro City,TRU,England,956
+4700,Altrincham,ALT,England,956
+4701,Brackley Town,BRA,England,956
+4702,Chesham United,CHE,England,956
+4703,Curzon Ashton,CUR,England,956
+4704,Eastbourne Borough,EAS,England,956
+4705,Harrow Borough,HAR,England,956
+4706,Merstham,,England,956
+4707,Spennymoor Town,,England,956
+4708,St Albans City,ALB,England,956
+4709,Stamford,STA,England,956
+4710,Stourbridge,STO,England,956
+4711,Taunton Town,,England,956
+4713,Whitehawk,WHI,England,956
+7205,AFC Sudbury,SUD,England,956
+7206,Ashford United,,England,956
+7207,Aveley,,England,956
+7208,Aylesbury United,,England,956
+7209,Barking,,England,956
+7210,Barnstaple Town,,England,956
+7211,Basildon United,,England,956
+7212,Bedfont Sports,,England,956
+7213,Bedworth United,,England,956
+7214,Berkhamsted,,England,956
+7215,Bideford,BID,England,956
+7216,Brentwood Town,,England,956
+7217,Burgess Hill Town,,England,956
+7218,Cambridge City,CAM,England,956
+7219,Chipstead,,England,956
+7220,Cinderford Town,,England,956
+7221,Corby Town,COR,England,956
+7222,Didcot Town,,England,956
+7223,Droylsden,DRO,England,956
+7224,East Grinstead Town,,England,956
+7225,FC Romania,,England,956
+7226,Frome Town,FRO,England,956
+7227,Glossop North End,,England,956
+7228,Grays Athletic,GRA,England,956
+7229,Great Wakering Rovers,,England,956
+7230,Guernsey,,England,956
+7231,Hastings United,HAS,England,956
+7232,Herne Bay,,England,956
+7233,Highworth Town,,England,956
+7234,Histon,HIS,England,956
+7235,Hythe Town,HYT,England,956
+7236,Ilkeston Town,ILK,England,956
+7237,Kendal Town,,England,956
+7238,Larkhall Athletic,,England,956
+7239,Leek Town,LEE,England,956
+7240,Market Drayton Town,,England,956
+7241,Melksham Town,,England,956
+7242,Newcastle Town,,England,956
+7243,Northwood,,England,956
+7244,Paulton Rovers,,England,956
+7245,Phoenix Sports,,England,956
+7246,Pickering Town,,England,956
+7247,Pontefract Collieries,,England,956
+7248,Romford,,England,956
+7249,Sevenoaks Town,,England,956
+7250,Sittingbourne,,England,956
+7251,South Park,,England,956
+7252,Stocksbridge Park Steels,STO,England,956
+7253,Sutton Coldfield Town,,England,956
+7254,Thatcham Town,,England,956
+7255,Tilbury,,England,956
+7256,Tooting & Mitcham United,,England,956
+7257,Uxbridge,,England,956
+7258,VCD Athletic,,England,956
+7259,Waltham Abbey,,England,956
+7260,Wantage Town,,England,956
+7261,Westfield (Surrey),,England,956
+7262,Whyteleafe,,England,956
+7263,Willand Rovers,,England,956
+7264,Witham Town,,England,956
+7265,Workington,WOR,England,956
+7266,Worksop Town,,England,956
+7267,Yaxley,,England,956
+7610,AFC Dunstable,,England,956
+7611,AFC Kempston Rovers,,England,956
+7612,AFC Totton,AFC,England,956
+7613,Ashford Town (Middlesex),,England,956
+7614,Barton Rovers,,England,956
+7615,Basingstoke Town,BAS,England,956
+7616,Bedford Town,BED,England,956
+7617,Belper Town,,England,956
+7618,Biggleswade,,England,956
+7619,Bracknell Town,,England,956
+7620,Brighouse Town,,England,956
+7621,Bristol Manor Farm,,England,956
+7622,Bury Town,BUR,England,956
+7623,Canvey Island,CAN,England,956
+7624,Carlton Town,,England,956
+7625,Chalfont St Peter,,England,956
+7626,Chasetown,,England,956
+7627,Chertsey Town,,England,956
+7628,Chichester City,,England,956
+7629,Cirencester Town,,England,956
+7630,City of Liverpool,,England,956
+7631,Cleethorpes Town,,England,956
+7632,Clitheroe,,England,956
+7633,Coggeshall Town,,England,956
+7634,Coleshill Town,,England,956
+7635,Colne,,England,956
+7636,Cray Valley PM,CRA,England,956
+7637,Daventry Town,DAV,England,956
+7638,Dereham Town,,England,956
+7639,Dunston UTS,,England,956
+7640,Evesham United,,England,956
+7641,Faversham Town,,England,956
+7642,Felixstowe & Walton Utd,,England,956
+7643,Frickley Athletic,FRI,England,956
+7644,Halesowen Town,,England,956
+7645,Hanwell Town,,England,956
+7646,Harlow Town,,England,956
+7647,Haywards Heath Town,,England,956
+7648,Hertford Town,,England,956
+7649,Hullbridge Sports,,England,956
+7650,Kidlington,,England,956
+7651,Kidsgrove Athletic,KID,England,956
+7652,Lincoln United,,England,956
+7653,Loughborough Dynamo,,England,956
+7654,Maldon & Tiptree,,England,956
+7655,Mangotsfield United,MAN,England,956
+7656,Marine,MAR,England,956
+7657,Marlow,,England,956
+7658,Marske United,MAR,England,956
+7659,Moneyfields,,England,956
+7660,Mossley,MOS,England,956
+7661,North Leigh,,England,956
+7662,Ossett United,,England,956
+7663,Prescot Cables,,England,956
+7664,Ramsbottom United,RAM,England,956
+7665,Ramsgate,,England,956
+7666,Runcorn Linnets,,England,956
+7667,Sheffield,SHE,England,956
+7668,Sholing,,England,956
+7669,Slimbridge,,England,956
+7670,Soham Town Rangers,SOH,England,956
+7671,Spalding United,,England,956
+7672,St Neots Town,NEO,England,956
+7673,Staines Town,STA,England,956
+7674,Tadcaster Albion,,England,956
+7675,Thame United,,England,956
+7676,Three Bridges,,England,956
+7677,Trafford,TRA,England,956
+7678,Ware,,England,956
+7679,Welwyn Garden City,,England,956
+7680,Whitstable Town,WHI,England,956
+7681,Widnes,,England,956
+7682,Winchester City,,England,956
+7683,Wisbech Town,,England,956
+7690,AFC Hornchurch,HOR,England,956
+7691,AFC Rushden & Diamonds,,England,956
+7692,Alvechurch,,England,956
+7693,Ashton United,,England,956
+7694,Atherton Collieries,,England,956
+7695,Bamber Bridge,,England,956
+7696,Banbury United,BAN,England,956
+7697,Barwell,BRW,England,956
+7698,Basford United,,England,956
+7699,Beaconsfield Town,,England,956
+7700,Biggleswade Town,BIG,England,956
+7701,Bishop's Stortford,BIS,England,956
+7702,Blackfield & Langley,,England,956
+7703,Bognor Regis Town,BOG,England,956
+7704,Brightlingsea Regent,,England,956
+7705,Bromsgrove Sporting,,England,956
+7706,Buxton,BUX,England,956
+7707,Carshalton Athletic,CAR,England,956
+7708,Cheshunt,,England,956
+7709,Coalville Town,COA,England,956
+7710,Corinthian-Casuals,,England,956
+7711,Cray Wanderers,,England,956
+7712,Dorchester Town,DOR,England,956
+7713,East Thurrock United,EAS,England,956
+7714,Enfield Town,ENF,England,956
+7715,Farnborough,FAR,England,956
+7716,Folkestone Invicta,FOL,England,956
+7717,Gosport Borough,GOS,England,956
+7718,Grantham Town,GRA,England,956
+7719,Hartley Wintney,HAR,England,956
+7720,Hayes & Yeading United,HAY,England,956
+7721,Hednesford Town,HED,England,956
+7722,Hendon,HEN,England,956
+7723,Horsham,,England,956
+7724,Kings Langley,,England,956
+7725,Kingstonian,KIN,England,956
+7726,Lancaster City,,England,956
+7727,Leiston,LEI,England,956
+7728,Lewes,LEW,England,956
+7729,Lowestoft Town,LOW,England,956
+7730,Margate,MAR,England,956
+7731,Matlock Town,MAT,England,956
+7732,Merthyr Town,MER,Wales,956
+7733,Mickleover Sports,,England,956
+7734,Morpeth Town,,England,956
+7735,Needham Market,,England,956
+7737,Peterborough Sports,,England,956
+7738,Poole Town,POO,England,956
+7739,Potters Bar Town,,England,956
+7740,Radcliffe,,England,956
+7741,Redditch United,RED,England,956
+7742,Royston Town,,England,956
+7743,Rushall Olympic,RUS,England,956
+7744,Salisbury,,England,956
+7745,Scarborough Athletic,SCA,England,956
+7746,South Shields,,England,956
+7747,St Ives Town,IVE,England,956
+7748,Stafford Rangers,STA,England,956
+7749,Stalybridge Celtic,STA,England,956
+7750,Stratford Town,,England,956
+7751,Swindon Supermarine,,England,956
+7752,Tamworth,TAM,England,956
+7753,Tiverton Town,TIV,England,956
+7754,United of Manchester,UNI,England,956
+7755,Walton Casuals,,England,956
+7756,Warrington Town,,England,956
+7757,Whitby Town,WHI,England,956
+7758,Wimborne Town,,England,956
+7759,Wingate & Finchley,WIN,England,956
+7760,Witton Albion,WIT,England,956
+7761,Worthing,,England,956
+7762,Yate Town,,England,956
+7764,Bowers & Pitsea,,England,956
+8146,Boston United,BOS,England,956
+8147,Chippenham Town,CHI,England,956
+8149,Dulwich Hamlet,DUL,England,956
+8650,Blyth Spartans,BLY,England,956
+8651,Bradford (Park Avenue),BRA,England,956
+8653,Gloucester City,GLO,England,956
+8654,Kettering Town,,England,956
+8655,King's Lynn Town,KIN,England,956
+8656,Leamington,LEA,England,956
+8657,Bath City,BAT,England,956
+8658,Concord Rangers,CON,England,956
+8659,Dorking Wanderers,,England,956
+8660,Hemel Hempstead Town,HEM,England,956
+8661,Hungerford Town,HUN,England,956
+8662,Tonbridge Angels,TON,England,956
+8663,Wealdstone,WEA,England,956
+8664,Welling United,WEL,England,956
+8665,Weymouth,WEY,England,956
+10157,Darlington 1883,,England,956
+10158,Farsley Celtic FC,,England,956
+10159,Nuneaton Town,NUN,England,956
+693,Pelister,PEL,Macedonia,607
+4332,Skopje,SKO,Macedonia,607
+4333,Bregalnica Štip,BRE,Macedonia,607
+4334,Borec,BOR,Macedonia,607
+4335,Detonit Junior,,Macedonia,607
+4336,Gench Kalemler,,Macedonia,607
+4337,Goblen Junior Kumanovo,,Macedonia,607
+4338,KF Gostivari,GOS,Macedonia,607
+4339,Korab Debar,,Macedonia,607
+4340,Kozuv Gevgelija,,Macedonia,607
+4341,Labunishta,,Macedonia,607
+4342,Partizan Obrshani,,Macedonia,607
+4343,Pehchevo,,Macedonia,607
+4344,Plačkovica,,Macedonia,607
+4345,Sasa,,Macedonia,607
+4346,Struga,,Macedonia,607
+4347,Teteks,TET,Macedonia,607
+4348,Tikveš,,Macedonia,607
+4349,Vardar Negotino,NEG,Macedonia,607
+4350,Velazerimi 77,VLA,Macedonia,607
+2112,Fjardabyggd,FJA,Iceland,545
+2119,Huginn,HUG,Iceland,545
+2123,Njardvik,NJA,Iceland,545
+2124,Magni,MAG,Iceland,545
+3514,Afturelding,ALF,Iceland,545
+4161,Höttur,HOT,Iceland,545
+4163,KV,KV,Iceland,545
+4164,Sindri,SIN,Iceland,545
+4165,Vestri,,Iceland,545
+4166,Völsungur,VOL,Iceland,545
+4168,Tindastóll,TIN,Iceland,545
+4169,Vídir,VID,Iceland,545
+196,Excelsior,EXC,Netherlands,571
+199,De Graafschap,GRA,Netherlands,571
+203,NAC Breda,BRE,Netherlands,571
+409,Dordrecht,DOR,Netherlands,571
+410,GO Ahead Eagles,EAG,Netherlands,571
+411,Jong PSV,JON,Netherlands,571
+412,MVV,MAA,Netherlands,571
+413,NEC Nijmegen,NIJ,Netherlands,571
+414,Roda,ROD,Netherlands,571
+416,FC Volendam,VOL,Netherlands,571
+418,Jong AZ,,Netherlands,571
+419,Almere City FC,ALM,Netherlands,571
+420,Cambuur,CAM,Netherlands,571
+421,Den Bosch,BOS,Netherlands,571
+422,FC Eindhoven,EIN,Netherlands,571
+423,FC OSS,FCO,Netherlands,571
+424,Helmond Sport,HEL,Netherlands,571
+425,Jong Ajax,JON,Netherlands,571
+427,Telstar,STO,Netherlands,571
+428,Jong Utrecht,,Netherlands,571
+33,Manchester United,MUN,England,759
+34,Newcastle,NEW,England,759
+35,Bournemouth,BOU,England,759
+36,Fulham,FUL,England,759
+37,Huddersfield,HUD,England,759
+38,Watford,WAT,England,759
+39,Wolves,WOL,England,759
+40,Liverpool,LIV,England,759
+41,Southampton,SOU,England,759
+42,Arsenal,ARS,England,759
+43,Cardiff,CAR,Wales,759
+44,Burnley,BUR,England,759
+45,Everton,EVE,England,759
+46,Leicester,LEI,England,759
+47,Tottenham,TOT,England,759
+48,West Ham,WES,England,759
+49,Chelsea,CHE,England,759
+50,Manchester City,MAC,England,759
+51,Brighton,BRI,England,759
+52,Crystal Palace,CRY,England,759
+53,Reading,REA,England,759
+54,Birmingham,BIR,England,759
+55,Brentford,BRE,England,759
+56,Bristol City,BRI,England,759
+57,Ipswich,IPS,England,759
+58,Millwall,MIL,England,759
+59,Preston,PRE,England,759
+60,West Brom,WES,England,759
+61,Wigan,WIG,England,759
+62,Sheffield Utd,SHE,England,759
+63,Leeds,LEE,England,759
+64,Hull City,HUL,England,759
+65,Nottingham Forest,NOT,England,759
+66,Aston Villa,AST,England,759
+67,Blackburn,BLA,England,759
+68,Bolton,BOL,England,759
+69,Derby,DER,England,759
+70,Middlesbrough,MID,England,759
+71,Norwich,NOR,England,759
+72,QPR,QPR,England,759
+73,Rotherham,ROT,England,759
+74,Sheffield Wednesday,SHE,England,759
+75,Stoke City,STO,England,759
+76,Swansea,SWA,Wales,759
+746,Sunderland,SUN,England,759
+747,Barnsley,BAR,England,759
+748,Burton Albion,BUR,England,759
+1333,AFC Wimbledon,WIM,England,759
+1334,Bristol Rovers,BRI,England,759
+1335,Charlton,CHA,England,759
+1336,Fleetwood Town,FLE,England,759
+1337,Northampton,NOR,England,759
+1338,Oxford United,OXF,England,759
+1339,Rochdale,ROC,England,759
+1340,Scunthorpe,SCU,England,759
+1341,Southend,SOU,England,759
+1342,Walsall,WAL,England,759
+1343,Bradford,BRA,England,759
+1344,Bury,BUR,England,759
+1345,Chesterfield,CHE,England,759
+1346,Coventry,COV,England,759
+1347,Gillingham,GIL,England,759
+1348,Milton Keynes Dons,MIL,England,759
+1349,Oldham,OLD,England,759
+1350,Peterborough,PET,England,759
+1351,Port Vale,POR,England,759
+1352,Shrewsbury,SHR,England,759
+1353,Swindon Town,SWI,England,759
+1354,Doncaster,DON,England,759
+1355,Portsmouth,POR,England,759
+1356,Blackpool,BLA,England,759
+1357,Plymouth,PLY,England,759
+1358,Wycombe,WYC,England,759
+1359,Luton,LUT,England,759
+1360,Accrington ST,ACC,England,759
+1361,Colchester,COL,England,759
+1362,Crawley Town,CRA,England,759
+1363,Crewe,CRE,England,759
+1364,Exeter City,EXE,England,759
+1365,Grimsby,GRI,England,759
+1366,Hartlepool,HAR,England,759
+1367,Newport County,NEW,Wales,759
+1368,Stevenage,STE,England,759
+1369,Barnet,BAR,England,759
+1370,Cambridge United,CAM,England,759
+1371,Carlisle,CAR,England,759
+1372,Cheltenham,CHE,England,759
+1373,Leyton Orient,LEY,England,759
+1374,Mansfield Town,MAN,England,759
+1375,Morecambe,MOR,England,759
+1376,Notts County,NOT,England,759
+1377,Yeovil Town,YEO,England,759
+1378,Forest Green,FOR,England,759
+1379,Lincoln,,England,759
+1380,Macclesfield,MAC,England,759
+1381,Tranmere,TRA,England,759
+1818,Aldershot Town,ALD,England,759
+1823,Gateshead,GAT,England,759
+1824,Guiseley AFC,GUI,England,759
+1825,Maidstone Utd,MAI,England,759
+1830,Boreham Wood,BOR,England,759
+1832,Bromley,BRO,England,759
+1834,Solihull Moors,SOL,England,759
+1835,Sutton Utd,SUT,England,759
+1836,Woking,WOK,England,759
+1838,Maidenhead,MAI,England,759
+1839,AFC Fylde,FYL,England,759
+1840,Ebbsfleet United,EBB,England,759
+4678,Billericay Town,BIL,England,759
+4679,Chorley,CHO,England,759
+4684,Oxford City,OXF,England,759
+4685,Slough Town,,England,759
+4688,AFC Telford United,TEL,England,759
+4689,Chelmsford City,CHE,England,759
+4690,Dartford,DAR,England,759
+4691,Gainsborough Trinity,GAI,England,759
+4692,Hereford,,England,759
+4693,Heybridge Swifts,HEY,England,759
+4694,Hyde United,HYD,England,759
+4695,Kidderminster Harriers,KID,England,759
+4696,Leatherhead,,England,759
+4697,Nantwich Town,NAN,England,759
+4698,SL Aquaforce,,England,759
+4699,Truro City,TRU,England,759
+5489,Ağsu,AGS,Azerbaidjan,909
+5490,Kapaz,KAP,Azerbaidjan,909
+5491,Keşlə II,,Azerbaidjan,909
+5492,MOIK,MOI,Azerbaidjan,909
+5493,Neftçi II,,Azerbaidjan,909
+5494,Qarabağ II,,Azerbaidjan,909
+5495,Qaradağ Lökbatan,LOK,Azerbaidjan,909
+5496,Sabah II,,Azerbaidjan,909
+5497,Sumqayıt II,,Azerbaidjan,909
+5498,Səbail II,,Azerbaidjan,909
+5499,Turan,TUR,Azerbaidjan,909
+5500,Zaqatala,,Azerbaidjan,909
+5501,Zirə II,,Azerbaidjan,909
+553,Olympiakos Piraeus,OLY,Greece,910
+575,AEK Athens FC,AEK,Greece,910
+617,Panathinaikos,PAN,Greece,910
+619,PAOK,PAO,Greece,910
+622,Panionios,PAN,Greece,910
+949,Panetolikos,PAN,Greece,910
+950,PAS Giannina,GIA,Greece,910
+951,Apollon Smirnis,APO,Greece,910
+953,Larisa,AEL,Greece,910
+955,Asteras Tripolis,AST,Greece,910
+956,Lamia,LAM,Greece,910
+957,Levadiakos,LEV,Greece,910
+958,Platanias,PLA,Greece,910
+959,Xanthi FC,SKO,Greece,910
+961,Veria,VER,Greece,910
+1123,Aris Thessalonikis,ARI,Greece,910
+1124,OFI,CRE,Greece,910
+2086,Acharnaikos,ACH,Greece,910
+2091,Trikala,TRI,Greece,910
+2096,Kissamikos,KIS,Greece,910
+2099,Panserraikos,PAN,Greece,910
+2101,Apollon Larissa FC,,Greece,910
+2102,Apollon Pontou,KAL,Greece,910
+2103,AE Karaiskakis,KAR,Greece,910
+2104,Doxa Dramas,DOX,Greece,910
+2105,Ergotelis,ERG,Greece,910
+2106,Panachaiki FC,PAN,Greece,910
+2110,Volos NFC,,Greece,910
+2111,AOK Kerkyra,,Greece,910
+5027,Aiolikos,,Greece,910
+5038,Episkopi,EPI,Greece,910
+5042,Ethnikos Piraeus,,Greece,910
+5046,Kalamata,KAL,Greece,910
+5049,Kavala,KAV,Greece,910
+5054,Makedonikos Foufas,,Greece,910
+5056,Niki Volos,NIK,Greece,910
+5057,OF Ierapetra,,Greece,910
+5060,Pallixouriakos,,Greece,910
+5061,Sellana,,Greece,910
+5062,Thesprotos,THE,Greece,910
+5066,Tilikratis,TIL,Greece,910
+6293,AEEK INKA,,Greece,910
+6294,Aetos Orfani,,Greece,910
+6295,Apollo Efpaliou,,Greece,910
+6296,Atalanti,,Greece,910
+6297,Atromitos Agios Georgios,,Greece,910
+6298,Atromitos Patras,,Greece,910
+6299,Atsalenios,ATS,Greece,910
+6300,Doxa Arta,,Greece,910
+6301,Edessaikos,,Greece,910
+6302,Elassona,,Greece,910
+6303,Ethnikos Alexandroupoli,,Greece,910
+6304,Ilisiakos,ILI,Greece,910
+6305,Ipato,,Greece,910
+6306,Karitsa,,Greece,910
+6307,Korinthos,KOR,Greece,910
+6308,Leonidio,,Greece,910
+6309,M. Alexandros Iasmos,,Greece,910
+6310,M. Alexandros Kallithea,,Greece,910
+6311,Meteora,,Greece,910
+6312,Nea Artaki,,Greece,910
+6313,Omiros Neochori,,Greece,910
+6314,Orfeas Xanthi,,Greece,910
+6315,Panargiakos,APO,Greece,910
+6316,Pandramaikos,,Greece,910
+6317,Pansamiakos Vathyllou,,Greece,910
+6318,Panthiraikos,,Greece,910
+6319,Paone,,Greece,910
+6320,Pellana,,Greece,910
+6321,Potamia,,Greece,910
+6322,Souli Paramythia,,Greece,910
+6323,Thermaikos Thermis,,Greece,910
+6324,Thinaliakos,,Greece,910
+6325,Xenophon Krestena,,Greece,910
+6326,Zakynthos,ZAK,Greece,910
+7509,Aspropyrgos Enosis,,Greece,910
+7510,Diagoras,,Greece,910
+7511,Egaleo,EGA,Greece,910
+7512,Ialysos,,Greece,910
+7513,Ionikos,ION,Greece,910
+7514,Triglia,,Greece,910
+7519,Olympiakos Volos,OLY,Greece,910
+12260,Atromitos,ATR,Greece,910
+551,FC Basel 1893,BAS,Switzerland,117
+565,BSC Young Boys,YOU,Switzerland,117
+606,FC Lugano,LUG,Switzerland,117
+630,FC Sion,SIO,Switzerland,117
+644,FC Luzern,LUZ,Switzerland,117
+783,FC Zurich,ZUR,Switzerland,117
+1011,FC ST. Gallen,GAL,Switzerland,117
+1012,FC Thun,THU,Switzerland,117
+1013,Grasshoppers,GRA,Switzerland,117
+1014,Lausanne,LAU,Switzerland,117
+576,Budapest Honved,HON,Hungary,802
+610,Videoton FC,VID,Hungary,802
+651,Ferencvarosi TC,FER,Hungary,802
+675,Vasas,VAS,Hungary,802
+2255,Ujpest,UJP,Hungary,802
+2389,Mezokovesd-zsory,MEZ,Hungary,802
+2390,Paks,PAK,Hungary,802
+2391,Puskas Academy,PUS,Hungary,802
+2392,Debreceni VSC,DEB,Hungary,802
+2393,Diosgyori VTK,DVT,Hungary,802
+2394,Kisvarda FC,KIS,Hungary,802
+2395,Szombathelyi Haladas,HAL,Hungary,802
+2396,MTK Budapest,BUD,Hungary,802
+2397,Balmazujvaros,BAL,Hungary,802
+2398,Gyirmot SE,GYI,Hungary,802
+2399,Budafoki LC,,Hungary,802
+2400,Cegledi VSE,CEG,Hungary,802
+2401,Dorogi FC,DOR,Hungary,802
+2402,Gyori ETO FC,GYO,Hungary,802
+2403,Nyiregyhaza,NYI,Hungary,802
+2404,Soroksar,SOR,Hungary,802
+2405,VAC,,Hungary,802
+2406,Bekescsaba 1912,BEK,Hungary,802
+2407,Kaposvar,KAP,Hungary,802
+2408,Budaorsi SC,BUD,Hungary,802
+2409,Csakvar,CSA,Hungary,802
+2410,Kazincbarcikai,KAZ,Hungary,802
+2411,Monori Se,,Hungary,802
+2412,MTE 1904,,Hungary,802
+2413,Siofok,SIO,Hungary,802
+2414,Zalaegerszegi TE,ZAL,Hungary,802
+2415,Tiszakecske FC,,Hungary,802
+2416,Szolnoki MAV FC,SZO,Hungary,802
+2418,Szeged 2011,SZE,Hungary,802
+2419,Cigand SE,,Hungary,802
+2420,Kozarmisleny FC,KOZ,Hungary,802
+2421,Szeol Sc,,Hungary,802
+4714,Ajka,AJK,Hungary,802
+5068,1908 SZAC,,Hungary,802
+5069,Andráshida,,Hungary,802
+5070,BKV Előre,ELO,Hungary,802
+5071,BVSC,,Hungary,802
+5072,Balassagyarmat VSE,,Hungary,802
+5073,Balatonfüredi,,Hungary,802
+5074,Balatonlelle SE,,Hungary,802
+5075,Balkanyi SE,,Hungary,802
+5076,Berkenye,,Hungary,802
+5077,Biatorbágy,,Hungary,802
+5078,Bonyhád Völgység,,Hungary,802
+5079,Bátaszék SE,,Hungary,802
+5080,Bőny,,Hungary,802
+5081,Csepel,,Hungary,802
+5082,DEAC,,Hungary,802
+5083,Dabas,,Hungary,802
+5084,Dabas-Gyón,,Hungary,802
+5085,Dunaharaszti MTK,,Hungary,802
+5086,Dunaújváros-Pálhalma,,Hungary,802
+5087,ESMTK,,Hungary,802
+5088,Edelény,,Hungary,802
+5089,Eger,,Hungary,802
+5090,FC Hatvan,,Hungary,802
+5091,Fegyvernek,,Hungary,802
+5092,Felsőtárkány SE,FEL,Hungary,802
+5093,Füzesgyarmati,,Hungary,802
+5094,Fővárosi Vízművek,,Hungary,802
+5095,Fűzfői,,Hungary,802
+5096,Gesztely,,Hungary,802
+5097,Gyöngyös,,Hungary,802
+5098,Gyöngyöshalász SE,,Hungary,802
+5099,Hajdúböszörményi,,Hungary,802
+5100,Hévíz,,Hungary,802
+5101,Hódmezővásárhely,,Hungary,802
+5102,III. Kerületi TUE,,Hungary,802
+5103,Ibrány SE,,Hungary,802
+5104,Iváncsa,,Hungary,802
+5105,Jánoshalmi,,Hungary,802
+5106,Jánossomorja,,Hungary,802
+5107,Jászberényi Vasas,,Hungary,802
+5108,KSE Csesztreg,,Hungary,802
+5109,Kalocsai,,Hungary,802
+5110,Kecskeméti LC,,Hungary,802
+5111,Kecskeméti TE,KEC,Hungary,802
+5112,Király SZE,,Hungary,802
+5113,Komárom,,Hungary,802
+5114,Körmendi,,Hungary,802
+5115,Körösladány,,Hungary,802
+5116,Lipót Pékség,,Hungary,802
+5117,Lukácsháza,,Hungary,802
+5118,Makó,,Hungary,802
+5119,Maroshegy,,Hungary,802
+5120,Mezőfalva,,Hungary,802
+5121,Ménfőcsanak,,Hungary,802
+5122,Nagyatádi,,Hungary,802
+5123,Nagykanizsai ULE,,Hungary,802
+5124,Nagykőrösi Kinizsi,,Hungary,802
+5125,Nyírbátori,,Hungary,802
+5126,Oroszlány,,Hungary,802
+5127,PTE-PEAC,,Hungary,802
+5128,Putnok VSE,PUT,Hungary,802
+5129,Pápai Perutz,,Hungary,802
+5130,Pécsi MFC,PEC,Hungary,802
+5131,Pénzügyőr,,Hungary,802
+5132,Rákosmenti KSK,,Hungary,802
+5133,Sajóbábony Vegyész,,Hungary,802
+5134,Salgótarjáni BTC,,Hungary,802
+5135,Siklós,,Hungary,802
+5136,Szabadkikötő,,Hungary,802
+5137,Szarvasi,,Hungary,802
+5138,Szekszárd,,Hungary,802
+5139,Szentlőrinc SE,,Hungary,802
+5140,Sárisápi Bányász,,Hungary,802
+5141,Sárrétudvari,,Hungary,802
+5142,Sárvári,,Hungary,802
+5143,Sényő Carnifex,,Hungary,802
+5144,Taksony,,Hungary,802
+5145,Tatabánya,TAT,Hungary,802
+5146,Teskánd,,Hungary,802
+5147,Tiszafuredi VSE,,Hungary,802
+5148,Tiszasziget,,Hungary,802
+5149,Tiszaújváros,,Hungary,802
+5150,Tordas,,Hungary,802
+5151,Tállya,,Hungary,802
+5152,Vecsés,,Hungary,802
+5153,Érdi VSE,,Hungary,802
+5154,Ózdi,,Hungary,802
+5155,Öttevényi,,Hungary,802
+5156,Úrkút,,Hungary,802
+2242,FC Cincinnati,,USA,521
+3988,Bethlehem Steel,,USA,521
+3990,Charleston Battery,CHA,USA,521
+3991,Charlotte Independence,,USA,521
+3992,Colorado Springs,,USA,521
+3997,LA Galaxy II,,USA,521
+4000,Louisville City,,USA,521
+4004,New York RB II,,USA,521
+4006,OKC Energy,,USA,521
+4007,Orange County SC,,USA,521
+4009,Phoenix Rising,ARI,USA,521
+4010,Pittsburgh Riverhounds,PIT,USA,521
+4011,Portland Timbers II,,USA,521
+4012,Real Monarchs,,USA,521
+4014,Rio Grande Valley,,USA,521
+4015,Sacramento Republic,,USA,521
+4016,Saint Louis,,USA,521
+4017,San Antonio,,USA,521
+4018,Seattle Sounders II,,USA,521
+4019,Swope Park Rangers,,USA,521
+4022,FC Tulsa,,USA,521
+4023,Penn,HAR,USA,521
+4024,Richmond Kickers,RIC,USA,521
+4025,Toronto II,,Canada,521
+4026,Orlando City II,ORL,USA,521
+4027,Rochester Rhinos,,USA,521
+4028,Whitecaps II,,USA,521
+4029,FC Montréal,,Canada,521
+4030,Wilmington Hammerheads,WIL,USA,521
+2745,Bucheon FC 1995,BUC,South-Korea,388
+2748,FC Anyang,ANY,South-Korea,388
+2749,Seoul E-Land FC,,South-Korea,388
+2750,Daejeon Citizen,DAE,South-Korea,388
+2752,Busan I Park,BUS,South-Korea,388
+2753,Asan Mugunghwa,KOR,South-Korea,388
+2756,Suwon City FC,SUW,South-Korea,388
+2758,Ansan Greeners,,South-Korea,388
+2759,Gwangju FC,GWA,South-Korea,388
+2760,Jeonnam Dragons,JEO,South-Korea,388
+3126,USR Sainte-Rose,,Guadeloupe,619
+3203,Moulien,,Guadeloupe,619
+3285,Phare du Canal,,Guadeloupe,619
+4393,Amical Club,,Guadeloupe,619
+4394,Gosier,,Guadeloupe,619
+4395,La Gauloise,,Guadeloupe,619
+4396,Red Star,,Guadeloupe,619
+4397,Siroco Les Abymes,,Guadeloupe,619
+4401,USBM,,Guadeloupe,619
+4403,Arsenal,,Guadeloupe,619
+4404,Capesterre Bell,,Guadeloupe,619
+4405,Gourbeyre,,Guadeloupe,619
+4406,Juventus Sainte-Anne,,Guadeloupe,619
+4407,Le Moule,,Guadeloupe,619
+4408,USCB,,Guadeloupe,619
+5386,Asia Euro United,,Cambodia,851
+5387,Boeung Ket,BOE,Cambodia,851
+5388,Electricite du Cambodge,,Cambodia,851
+5389,Kirivong Sok Sen Chey,,Cambodia,851
+5391,National Defense,,Cambodia,851
+5392,National Police,,Cambodia,851
+5394,Phnom Penh Crown,,Cambodia,851
+5396,Svay Rieng,SVA,Cambodia,851
+5565,Cambodia Tiger,,Cambodia,851
+5566,NagaWorld,,Cambodia,851
+5567,Western Phnom Penh,,Cambodia,851
+5568,United CMAC,,Lithuania,851
+4382,Ba,BA,Fiji,613
+4383,Labasa,,Fiji,613
+4384,Lautoka,,Fiji,613
+4385,Nadi,NAD,Fiji,613
+4386,Nasinu,,Fiji,613
+4387,Rewa,,Fiji,613
+4388,Suva,,Fiji,613
+4389,Tavua,,Fiji,613
+4382,Ba,BA,Fiji,614
+4383,Labasa,,Fiji,614
+4384,Lautoka,,Fiji,614
+4385,Nadi,NAD,Fiji,614
+4387,Rewa,,Fiji,614
+4388,Suva,,Fiji,614
+4389,Tavua,,Fiji,614
+4390,Dreketi,,Fiji,614
+573,FK Partizan,PAR,Serbia,364
+598,FK Crvena Zvezda,CRV,Serbia,364
+699,Mladost Lucani,,Serbia,364
+702,Vojvodina,VOJ,Serbia,364
+2251,FK Spartak Zdrepceva KRV,SPS,Serbia,364
+2254,Radnicki NIS,RAD,Serbia,364
+2637,Macva,,Serbia,364
+2642,Zemun,,Serbia,364
+2649,Borac Cacak,BOR,Serbia,364
+2653,Javor,,Serbia,364
+2655,Napredak,NAP,Serbia,364
+2656,Cukaricki,CUK,Serbia,364
+2657,Radnik Surdulica,,Serbia,364
+2658,FK Vozdovac,VOZ,Serbia,364
+2659,Backa,,Serbia,364
+2660,RAD,BEO,Serbia,364
+118,Bahia,BAH,Brazil,282
+119,Internacional,INT,Brazil,282
+120,Botafogo,BOT,Brazil,282
+121,Palmeiras,PAL,Brazil,282
+122,Parana,PAR,Brazil,282
+123,Sport Recife,SPO,Brazil,282
+124,Fluminense,FLU,Brazil,282
+125,America Mineiro,AME,Brazil,282
+126,Sao Paulo,PAU,Brazil,282
+127,Flamengo,FLA,Brazil,282
+128,Santos,SAN,Brazil,282
+129,Ceara,CEA,Brazil,282
+130,Gremio,GRE,Brazil,282
+131,Corinthians,COR,Brazil,282
+132,Chapecoense-sc,CHA,Brazil,282
+133,Vasco DA Gama,VAS,Brazil,282
+134,Atletico Paranaense,ATL,Brazil,282
+135,Cruzeiro,CRU,Brazil,282
+136,Vitoria,VIT,Brazil,282
+137,Figueirense,FIG,Brazil,282
+138,Guarani Campinas,GUA,Brazil,282
+139,Ponte Preta,PON,Brazil,282
+140,Criciuma,CRI,Brazil,282
+141,Brasil DE Pelotas,GEB,Brazil,282
+142,Vila Nova,VIL,Brazil,282
+143,Oeste,OES,Brazil,282
+144,Atletico Goianiense,ATL,Brazil,282
+145,Avai,AVA,Brazil,282
+146,CRB,CRB,Brazil,282
+147,Coritiba,COR,Brazil,282
+148,Londrina,LON,Brazil,282
+149,Paysandu,PAY,Brazil,282
+150,CSA,CSA,Brazil,282
+151,Goias,GOI,Brazil,282
+152,Juventude,JUV,Brazil,282
+153,BOA,BOA,Brazil,282
+154,Fortaleza EC,FOR,Brazil,282
+155,Sampaio Correa,SAM,Brazil,282
+752,Luverdense,LUV,Brazil,282
+753,Santa Cruz,,Brazil,282
+754,ABC,ABC,Brazil,282
+755,Nautico Recife,NAU,Brazil,282
+795,Joinville,JOI,Brazil,282
+796,Tupi,TUP,Brazil,282
+1062,Atletico-MG,ATL,Brazil,282
+1193,Cuiaba,CUI,Brazil,282
+1195,Ferroviario,FER,Brazil,282
+1197,Botafogo PB,BOT,Brazil,282
+1198,remo,REM,Brazil,282
+1202,Aparecidense,APA,Brazil,282
+1203,Altos,,Brazil,282
+1204,Tubarao,,Brazil,282
+1206,Corumbaense,,Brazil,282
+1207,ASA,ASA,Brazil,282
+1211,Brusque,BRU,Brazil,282
+1213,Sinop Fc,,Brazil,282
+1218,Sao Raimundo,,Brazil,282
+1221,Ypiranga-RS,,Brazil,282
+1224,Juazeirense,JUA,Brazil,282
+1228,Galvez,,Brazil,282
+2203,Americano Campos,,Brazil,282
+2204,AO Itabaiana,,Brazil,282
+2205,Avenida,,Brazil,282
+2206,Boavista SC,BOA,Brazil,282
+2207,Bragantino PA,,Brazil,282
+2208,Brasiliense,BRA,Brazil,282
+2209,Campinense,,Brazil,282
+2210,Central SC,CEN,Brazil,282
+2211,Fast Clube-Am,,Brazil,282
+2212,Foz Do Iguacu,,Brazil,282
+2213,Imperatriz,,Brazil,282
+2214,Manaus FC,,Brazil,282
+2215,Mixto,MIX,Brazil,282
+2216,Moto Club,,Brazil,282
+2217,Operario Ferroviario,,Brazil,282
+2218,Palmas,,Brazil,282
+2219,Real Desportivo Ariquemes,,Brazil,282
+2220,Rio Branco,RIO,Brazil,282
+2221,River AC,,Brazil,282
+2222,Santa Cruz RN,,Brazil,282
+2223,Sao Raimundo PA,,Brazil,282
+2224,Sergipe,SER,Brazil,282
+2225,Serra Talhada,SER,Brazil,282
+2226,Sobradinho EC,,Brazil,282
+2227,Tombense,TOM,Brazil,282
+2228,Uniao Trabalhadores,URT,Brazil,282
+2229,Uniclinic Atletico Clube,,Brazil,282
+2230,Votuporanguense,,Brazil,282
+2231,Ypiranga-PE,YPI,Brazil,282
+2232,Sao Jose,,Brazil,282
+2233,America-RN,AME,Brazil,282
+910,USM Alger,ALG,Algeria,936
+918,JS Kabylie,KAB,Algeria,936
+968,Wydad AC,WYD,Morocco,936
+976,Raja Casablanca,,Morocco,936
+980,ES Tunis,EST,Tunisia,936
+990,ES Sahel,ESS,Tunisia,936
+1040,Zamalek SC,ZAM,Egypt,936
+1577,Al Ahly,AHL,Egypt,936
+2467,GOR Mahia,MAH,Kenya,936
+2699,Mamelodi Sundowns,MAM,South-Africa,936
+2700,Orlando Pirates,ORL,South-Africa,936
+4121,Mekelle Kenema,,Ethiopia,936
+4416,Hafia,,Guinea,936
+4417,Horoya,HOR,Guinea,936
+4447,Aigle Noir,,Burundi,936
+4520,SOA,,Ivory-Coast,936
+4596,Nyasa Big Bullets,,Malawi,936
+4913,1º de Agosto,PRI,Angola,936
+4922,Petro de Luanda,PET,Angola,936
+5177,Enyimba,ENY,Nigeria,936
+5183,Kano Pillars,KAN,Nigeria,936
+5200,Green Eagles,,Zambia,936
+5214,ZESCO United,,Zambia,936
+5230,Platinum,,Zimbabwe,936
+5237,Al Hilal Omdurman,HIL,Sudan,936
+5239,Al Merreikh,MER,Sudan,936
+5288,Génération Foot,,Senegal,936
+5323,Rayon Sports,RAY,Rwanda,936
+5357,African Stars,,Namibia,936
+5370,Young Africans,YOU,Tanzania,936
+5412,UMS de Loum,UMS,Cameroon,936
+5431,Township Rollers,,Botswana,936
+5457,Buffles,,Benin,936
+6410,Al-Nasr,,Libya,936
+6411,Asante Kotoko,ASA,Ghana,936
+6412,Atlabara,,South-Sudan,936
+6413,Brikama United,,Gambia,936
+6414,Cano Sport,,Cyprus,936
+6415,Cercle Mbéri,,Gabon,936
+6416,Côte d'Or,,Seychelles,936
+6417,Dekedaha,,Somalia,936
+6418,Elect-Sport,,Chad,936
+6419,Fomboni Club,,Comoros,936
+6420,Fosa Juniors,,Madagascar,936
+6421,Green Mamba,,Eswatini,936
+6422,KCCA,,Uganda,936
+6423,KMKM,,Zanzibar,936
+6424,Kara,,Togo,936
+6425,LPRC Oilers,,Liberia,936
+6426,Matlama,,Lesotho,936
+6427,Nouadhibou,,Mauritania,936
+6428,Otôho d'Oyo,,Congo,936
+6429,Pamplemousses,,Mauritius,936
+6430,Rahimo,,Burkina-Faso,936
+6431,SONIDEP,,Zimbabwe,936
+6432,Simba,,Tanzania,936
+6433,Songo,,Mozambique,936
+6434,Stade Malien Bamako,STA,Mali,936
+6435,TP Mazembe,MAZ,Congo-DR,936
+6436,Tempête Mocaf,,Central African Republic,936
+6437,Vita Club,VIT,Congo-DR,936
+672,Folgore,,San-Marino,970
+700,Tre Penne,,San-Marino,970
+2249,La Fiorita,FIO,San-Marino,970
+2260,Tre Fiori,,San-Marino,970
+5297,Cailungo,,San-Marino,970
+5298,Cosmos,,San-Marino,970
+5299,Domagnano,,San-Marino,970
+5300,Faetano,,San-Marino,970
+5301,Fiorentino,,San-Marino,970
+5302,Juvenes / Dogana,,San-Marino,970
+5303,Libertas,,San-Marino,970
+5305,Murata,,San-Marino,970
+5306,Pennarossa,,San-Marino,970
+5307,San Giovanni,,San-Marino,970
+5308,Virtus,,San-Marino,970
