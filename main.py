@@ -263,8 +263,8 @@ def loadProgram():
 
 def endProgram():
     print(
-        "\nThe program has loaded the data. You may access the data by referencing the Pandas DataFrame"
-        + "'df' in the iPython console."
+        "\nThe program has loaded the data. You may access the data by referencing the Pandas DataFrame "
+        + "'df' in the IPython console."
     )
 
 
