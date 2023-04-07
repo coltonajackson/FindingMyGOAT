@@ -358,7 +358,7 @@ def playerMenu():
 
 
 def loadLeagues():
-    df = pd.read_csv(f"{data_directory}\\leagues.csv", low_memory=False)
+    df = pd.read_csv(os.path.join(data_directory, "leagues.csv"), low_memory=False)
     df.dropna(inplace=True)
     dfList = df.values.tolist()
     for item in dfList:
@@ -366,7 +366,7 @@ def loadLeagues():
 
 
 def loadTeams():
-    df = pd.read_csv(f"{data_directory}\\teams.csv", low_memory=False)
+    df = pd.read_csv(os.path.join(data_directory, "teams.csv"), low_memory=False)
     df.dropna(inplace=True)
     df.leagueId = df.leagueId.astype(int)
     dfList = df.values.tolist()
@@ -375,7 +375,7 @@ def loadTeams():
 
 
 def loadPlayers():
-    df = pd.read_csv(f"{data_directory}\\players.csv", low_memory=False)
+    df = pd.read_csv(os.path.join(data_directory, "players.csv"), low_memory=False)
     df.dropna(inplace=True)
     df.age = df.age.astype(int)
     df.teamId = df.teamId.astype(int)
